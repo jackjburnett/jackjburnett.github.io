@@ -7,6 +7,4 @@ nav: true
 nav_order: 4
 ---
 
-OneDrive link
-
-Notion link
+to be completed
