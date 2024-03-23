@@ -19,4 +19,4 @@ social: false # includes social icons at the bottom of the page
 
 indecisive, but currently working on physical interfaces and multi-agent systems
 
-check out my [letterboxd stats](https://letterboxd.com/jackjburnett/stats/)
+check out my [letterboxd stats](https://letterboxd.com/jackjburnett/stats/) and my [start.gg history](https://www.start.gg/user/69ed1229)
