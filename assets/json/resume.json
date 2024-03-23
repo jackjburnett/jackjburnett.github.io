@@ -100,22 +100,28 @@
       "date": "202-03-01",
       "issuer": "Google",
       "url": "https://www.credly.com/badges/53a43abc-a62f-4cba-b673-2ec154189605",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-chart-simple"
     },
     {
       "name": "Human-Computer Interaction (Professional Certificate)",
       "date": "2021-06-01",
       "issuer": "Georgia Institute of Technology",
       "url": "https://credentials.edx.org/credentials/ad949f82922c4abaac7a8ca5119f137e/",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-keyboard"
     }
   ],
   "skills": [
     {
       "name": "Programming",
       "level": "Adept",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-computer",
       "keywords": ["Python", "Java", "SQL", "C++", "Haskell", "MATLAB"]
+    },
+    {
+      "name": "Lecturing",
+      "level": "Adept",
+      "icon": "fa-solid fa-chalkboard-user",
+      "keywords": ["Higher Education", "Further Education", "Secondary School", "Adult"]
     }
   ],
   "languages": [
@@ -159,12 +165,12 @@
   "references": [
     {
       "name": "Available on request",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-graduation-cap",
       "reference": "Available on request"
     },
     {
       "name": "Available on request",
-      "icon": "fa-solid fa-thumbtack",
+      "icon": "fa-solid fa-briefcase",
       "reference": "Available on request"
     }
   ]

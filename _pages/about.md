@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-indecisive student, currently working on physical interfaces and multi-agent systems
+indecisive, but currently working on physical interfaces and multi-agent systems
 
 check out my [letterboxd stats](https://letterboxd.com/jackjburnett/stats/)
