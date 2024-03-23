@@ -4,7 +4,6 @@
 
 title: jackjburnett # the website title (if blank, full name will be used instead)
 first_name: Jack
-middle_name: J
 last_name: Burnett
 email: jack.burnett@bristol.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"

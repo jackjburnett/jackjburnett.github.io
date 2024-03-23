@@ -16,7 +16,7 @@ nav_order: 4
 
 ---
 
-{% if site.repo_trophies.enabled %}
+{% if site.repo_trophies.enabled=true %}
 {% for user in site.data.repositories.github_users %}
 {% if site.data.repositories.github_users.size > 1 %}
 
