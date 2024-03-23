@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: research projects that had my involvement (since 2024)
+description: research projects that have had my involvement (since 2024)
 nav: true
 nav_order: 3
 display_categories: [ongoing, complete]
