@@ -7,4 +7,4 @@ nav: true
 nav_order: 4
 ---
 
-to be completed
+links will be posted as new teaching material is made available
