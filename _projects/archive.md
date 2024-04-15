@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 description: notable work too small for dedicated sections
-img: assets/img/cdt-logo.png
+img: assets/img/archive.jpeg
 importance: 2
 category: ongoing
 related_publications: false
