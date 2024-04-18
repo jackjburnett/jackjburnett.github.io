@@ -19,4 +19,4 @@ urgent need for a better understanding of how AI can be developed with a focus o
 review aims to identify gaps within user experience research regarding AI, highlight current discussions in interactive 
 AI design, discuss principles for designing trustworthy and human-centred AI, and link existing design heuristics to 
 interactive AI design.
-PDF: [The UX of AI](assets/pdf/The_UX_of_AI.pdf){:target="_blank"}
+PDF: [The UX of AI]({{ site.baseurl }}assets/pdf/The_UX_of_AI.pdf){:target="_blank"}
