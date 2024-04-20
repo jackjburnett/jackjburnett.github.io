@@ -17,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-indecisive, but currently working on physical interfaces and multi-agent systems
+indecisive, but currently working on physical interfaces and accessibility.
+
+under the supervision of [Anne Roudaut](https://anneroudaut.fr/).
 
 check out my [letterboxd](https://letterboxd.com/jackjburnett/stats/), [start.gg](https://www.start.gg/user/69ed1229), and [volt.fm](https://volt.fm/jackjburnett).
