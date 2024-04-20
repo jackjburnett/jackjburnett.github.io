@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jackjburnett.github.io//sitemap.xml
+Sitemap: https://jackjburnett.github.io/sitemap.xml
