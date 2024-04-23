@@ -4,7 +4,7 @@ title: Digital Wizards
 description: understanding user perceptions of chatbots within TTRPGs
 img: assets/img/digitalwizards.jpeg
 importance: 1
-category: ongoing
+category: 2024
 related_publications: true
 ---
 

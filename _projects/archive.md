@@ -4,7 +4,7 @@ title: Archive
 description: notable work too small for dedicated sections
 img: assets/img/archive.jpeg
 importance: 2
-category: ongoing
+category: archive
 related_publications: false
 ---
 
