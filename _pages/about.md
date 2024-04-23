@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-indecisive, but currently working on physical interfaces and accessibility.
+creating an accessible physical interface development toolkit with generative AI and parametric design
 
-under the supervision of [Anne Roudaut](https://anneroudaut.fr/).
+under the supervision of [Anne Roudaut](https://anneroudaut.fr/), [Paul Marshall](https://research-information.bris.ac.uk/en/persons/paul-marshall), and [Oussama Metatla](https://www.ousmet.com/).
 
 check out my [letterboxd](https://letterboxd.com/jackjburnett/stats/), [start.gg](https://www.start.gg/user/69ed1229), and [volt.fm](https://volt.fm/jackjburnett).
