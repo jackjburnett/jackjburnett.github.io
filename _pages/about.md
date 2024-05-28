@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bristol.ac.uk/cdt/interactive-ai/'>Interactive AI PhD</a> student at the <a href='https://www.bristol.ac.uk/'>University of Bristol</a>, also part of <a href='http://biglab.co.uk/'>BIG Lab</a> and <a href='https://dive.ousmet.com/'>Dive Lab</a>
+subtitle: <a href='https://www.bristol.ac.uk/cdt/interactive-ai/'>Interactive AI PhD</a> student at the <a href='https://www.bristol.ac.uk/'>University of Bristol</a>, also part of <a href='http://biglab.co.uk/'>BIG Lab</a>, <a href='https://dive.ousmet.com/'>Dive Lab</a>, and <a href='https://big-culture.github.io/'>BIG Culture</a>
 
 profile:
   align: right
