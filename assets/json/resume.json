@@ -36,7 +36,7 @@
       "startDate": "2023-09-01",
       "endDate": "2024-01-01",
       "summary": "Teaching network security, both for in-house systems and cloud technologies; qualifications taught were part of CISCO and Microsoft qualification suites.",
-      "highlights": ["Network Security", "Further Education"]
+      "highlights": ["Network Security", "Cloud Solutions", "Further Education"]
     },
     {
       "name": "Lecturer in Computer Science",
@@ -51,7 +51,7 @@
       "name": "Computing Teacher",
       "position": "Cabot Learning Federation",
       "url": "https://winterstokehundredacademy.clf.uk/",
-      "startDate": "2021-08-01",
+      "startDate": "2021-07-15",
       "endDate": "2021-12-01",
       "summary": "Teaching computer science and DT for years 7-9, alongside A-Level computer science and BTEC Esports for years 12-13. Tutor for a year 7 group.",
       "highlights": ["Computer Science", "Python", "Esports", "Safeguarding", "Secondary Education", "Further Education"]
@@ -160,13 +160,13 @@
     {
       "name": "Data Science",
       "level": "Adept",
-      "icon": "fa-solid fa-chalkboard-user",
+      "icon": "fa-solid fa-database",
       "keywords": ["Data Visualisation", "Data Analysis", "SQL", "Machine Learning"]
     },
     {
       "name": "Web Development",
       "level": "Adept",
-      "icon": "fa-solid fa-chalkboard-user",
+      "icon": "fa-solid fa-code",
       "keywords": ["Front-end (HTML, CSS)", "Back-end (PHP & Python)", "JavaScript", "UX Design"]
     }
   ],
