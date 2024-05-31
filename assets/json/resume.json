@@ -139,13 +139,25 @@
       "name": "Programming",
       "level": "Adept",
       "icon": "fa-solid fa-computer",
-      "keywords": ["Python", "Java", "SQL", "C++"]
+      "keywords": ["Python", "Java", "C++", "C#"]
     },
     {
       "name": "Teaching",
       "level": "Adept",
       "icon": "fa-solid fa-chalkboard-user",
       "keywords": ["Higher Education", "Further Education", "Secondary School", "Adult"]
+    },
+    {
+      "name": "Data Science",
+      "level": "Adept",
+      "icon": "fa-solid fa-chalkboard-user",
+      "keywords": ["Data Visualisation", "Data Analysis", "SQL", "Machine Learning"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Adept",
+      "icon": "fa-solid fa-chalkboard-user",
+      "keywords": ["Front-end (HTML, CSS)", "Back-end (PHP & Python)", "JavaScript", "UX Design"]
     }
   ],
   "languages": [
