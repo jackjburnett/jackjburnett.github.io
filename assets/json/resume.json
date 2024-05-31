@@ -167,7 +167,7 @@
     },
     {
       "name": "Video Games (FGC)",
-      "icon": "fa-solid fa-gamepad"
+      "icon": "fa-solid fa-laptop"
     },
     {
       "name": "Movies",
@@ -175,7 +175,7 @@
     },
     {
       "name": "DIY Controllers",
-      "icon": "fa-solid fa-simplybuilt"
+      "icon": "fa-solid fa-gamepad"
     },
     {
       "name": "Research",
@@ -184,16 +184,24 @@
     {
       "name": "Animals",
       "icon": "fa-solid fa-cat"
+    },
+    {
+      "name": "Music",
+      "icon": "fa-solid fa-headphones"
+    },
+    {
+      "name": "Environmentalism",
+      "icon": "fa-solid fa-tree"
     }
   ],
   "references": [
     {
-      "name": "Available on request",
+      "name": "Academic References",
       "icon": "fa-solid fa-graduation-cap",
       "reference": "Available on request"
     },
     {
-      "name": "Available on request",
+      "name": "Professional References",
       "icon": "fa-solid fa-briefcase",
       "reference": "Available on request"
     }
