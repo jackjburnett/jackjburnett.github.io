@@ -36,6 +36,33 @@
       "endDate": "2023-09-01",
       "summary": "Teaching across BTEC, T-Level, and BSc courses within computing. Primarily taught units within data analysis and software engineering.",
       "highlights": ["Data Analysis", "Python", "SQL", "Cyber Security", "Higher Education", "Further Education"]
+    },
+    {
+      "name": "Computing Teacher",
+      "position": "Cabot Learning Federation",
+      "url": "https://winterstokehundredacademy.clf.uk/",
+      "startDate": "2021-08-01",
+      "endDate": "2021-12-01",
+      "summary": "Teaching computer science and DT for years 7-9, alongside A-Level computer science and BTEC Esports for years 12-13. Tutor for a year 7 group.",
+      "highlights": ["Computer Science", "Python", "Esports", "Safeguarding", "Secondary Education", "Further Education"]
+    },
+    {
+      "name": "Student Teacher",
+      "position": "Caldicot Comprehensive School",
+      "url": "https://www.caldicotschool.com/",
+      "startDate": "2021-04-01",
+      "endDate": "2021-06-01",
+      "summary": "Teaching computer science for years 7-10, alongside A-Level computer science for year 12.",
+      "highlights": ["Computer Science", "Python", "Secondary Education", "Further Education"]
+    },
+    {
+      "name": "Student Teacher",
+      "position": "Kingsmead School Wiveliscombe",
+      "url": "https://www.kingsmead-school.com/",
+      "startDate": "2020-12-01",
+      "endDate": "2021-03-01",
+      "summary": "Teaching computer science for years 7-10, alongside BTEC iMedia science for year 10.",
+      "highlights": ["Computer Science", "Python", "iMedia", "Secondary Education", "Further Education"]
     }
   ],
   "volunteer": [
