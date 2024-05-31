@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jack Burnett",
-    "label": "Student",
+    "label": "PhD Student",
     "image": "",
     "email": "jack.burnett@bristol.ac.uk",
     "url": "https://jackjburnett.github.io/",
@@ -18,6 +18,16 @@
       }
     ]
   },
+  "projects": [
+    {
+      "name": "Building a Pipeline for Parametrically Generating Controllers",
+      "summary": "Summary TBD",
+      "highlights": ["STL Generation", "User-Tailored Devices", "Hardware Democratisation"],
+      "startDate": "2025-05-01",
+      "endDate": "Ongoing",
+      "url": "https://jackjburnett.github.io/projects/controller_pipeline/"
+    }
+  ],
   "work": [
     {
       "name": "Associate Lecturer",
