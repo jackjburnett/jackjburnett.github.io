@@ -120,14 +120,14 @@
   ],
   "certificates": [
     {
-      "name": "Google Data Analytics Professional Certificate",
+      "name": "Google Data Analytics",
       "date": "2022-03",
       "issuer": "Google",
       "url": "https://www.credly.com/badges/53a43abc-a62f-4cba-b673-2ec154189605",
       "icon": "fa-solid fa-chart-simple"
     },
     {
-      "name": "Human-Computer Interaction (Professional Certificate)",
+      "name": "Human-Computer Interaction",
       "date": "2021-06",
       "issuer": "Georgia Institute of Technology",
       "url": "https://credentials.edx.org/credentials/ad949f82922c4abaac7a8ca5119f137e/",
