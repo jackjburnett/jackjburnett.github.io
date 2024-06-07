@@ -176,10 +176,6 @@
     {% capture link %}https://stackoverflow.com/users/{{ site.stackoverflow_id }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
-  {% if site.letterboxd_id %}
-    {% capture link %}https://letterboxd.com/users/{{ site.letterboxd_id }}{% endcapture %}
-    {% assign sameaslinks = sameaslinks | push: link %}
-  {% endif %}
   {% if site.kaggle_id %}
     {% capture link %}https://www.kaggle.com/{{ site.kaggle_id }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
