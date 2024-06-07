@@ -12,8 +12,6 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
-      - "Gemfile"
-      - "Gemfile.lock"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
@@ -22,10 +20,6 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
-      - "!CONTRIBUTING.md"
-      - "!CUSTOMIZE.md"
-      - "!FAQ.md"
-      - "!INSTALL.md"
       - "!README.md"
   pull_request:
     branches:
@@ -38,8 +32,6 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
-      - "Gemfile"
-      - "Gemfile.lock"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
@@ -48,10 +40,6 @@ on:
       - "!.github/workflows/lighthouse-badger.yml"
       - "!.github/workflows/prettier.yml"
       - "!lighthouse_results/**"
-      - "!CONTRIBUTING.md"
-      - "!CUSTOMIZE.md"
-      - "!FAQ.md"
-      - "!INSTALL.md"
       - "!README.md"
   workflow_dispatch:
 
@@ -81,7 +69,7 @@ jobs:
         run: |
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
-          bundle exec jekyll build
+          bundle exec jekyll build --lsi
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
