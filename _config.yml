@@ -5,6 +5,7 @@
 title: jackjburnett # the website title (if blank, full name will be used instead)
 first_name: Jack
 last_name: Burnett
+email: jackjburnett@bristol.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for Jack Burnett, Interactive PhD Student at the University of Bristol and Qualified Teacher.
 footer_text: >
@@ -13,6 +14,18 @@ footer_text: >
 keywords: interactive-ai, hci, ai, student, phd, bristol, uob, jackburnett, jack-burnett # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon-32x32.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+url: https://jackjburnett.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+last_updated: true # set to true if you want to display last updated in the footer
+impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+back_to_top: true # set to false to disable the back to top button
+timezone: Europe/London
+
+# -----------------------------------------------------------------------------
+# seo-tag data
+# -----------------------------------------------------------------------------
+
 logo: assets/img/prof_pic.png
 locale: en_GB
 social:
@@ -21,13 +34,6 @@ social:
     - https://www.linkedin.com/in/jackjburnett/
     - https://github.com/jackjburnett/
     - https://research-information.bris.ac.uk/en/persons/jack-burnett
-
-url: https://jackjburnett.github.io # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
-timezone: Europe/London
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -56,7 +62,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false
-socials_in_search: false
+socials_in_search: true
 
 # Dimensions
 max_width: 1200px
@@ -75,44 +81,45 @@ og_image: assets/img/prof_pic.png # The site-wide (default for all links) Open G
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-
+acm_id: # your dl.acm.org/profile/id
+blogger_url: # your blogger URL
+bluesky_url: # your bluesky URL
+dblp_url: # your DBLP profile url
+discord_id: # your discord id (18-digit unique numerical identifier)
+facebook_id: # your facebook id
+flickr_id: # your flickr id
 github_username: jackjburnett # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: # your X handle
-mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: jackjburnett # your LinkedIn user name
-telegram_username: # your Telegram user name
-scholar_userid: # your Google Scholar ID
-semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0001-8472-6121 # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
-scopus_id: # your profile on Scopus
-flickr_id: # your flickr id
-blogger_url: # your blogger URL
-work_url: https://research-information.bris.ac.uk/en/persons/jack-burnett # work page URL
+ieee_id: # your ieeexplore.ieee.org/author/id
+instagram_id: # your instagram id
+kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
+lastfm_id: # your lastfm id
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+linkedin_username: jackjburnett # your LinkedIn user name
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+medium_username: # your Medium username
+orcid_id: 0000-0001-8472-6121 # your ORCID ID
+osf_id: # your OSF ID
+pinterest_id: # your pinterest id
+publons_id: # your ID on Publons
+quora_username: # your Quora username
+research_gate_profile: # your profile on ResearchGate
+scholar_userid: # your Google Scholar ID
+scopus_id: # your profile on Scopus
+semanticscholar_id: # your Semantic Scholar ID
+spotify_id: # your spotify id
+stackoverflow_id: # your stackoverflow id
+telegram_username: # your Telegram user name
+unsplash_id: # your unsplash id
+wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-dblp_url: # your DBLP profile url
-stackoverflow_id: # your stackoverflow id
-letterboxd_id: # your letterboxd id
-kaggle_id: # your kaggle id
-lastfm_id: # your lastfm id
-spotify_id: # your spotify id
-pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
-instagram_id: # your instagram id
-facebook_id: # your facebook id
+work_url: https://research-information.bris.ac.uk/en/persons/jack-burnett # work page URL
+x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
-discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
-wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
   <a href="jack.burnett@bristol.ac.uk">jack.burnett@bristol.ac.uk</a>
@@ -137,6 +144,7 @@ bing_site_verification: 7CF01C322790A62837ADC6223103E73D # out your bing-site-ve
 blog_name: Jack Burnett # blog_name will be displayed in your blog page
 blog_description: a blog of things
 permalink: /blog/:year/:title/
+lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
@@ -169,8 +177,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -203,8 +209,6 @@ latest_posts:
 # Markdown and syntax highlight
 markdown: kramdown
 highlighter: rouge
-highlight_theme_light: friendly # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: fruity # https://github.com/jwarby/jekyll-pygments-themes
 kramdown:
   input: GFM
   syntax_highlighter_opts:
@@ -219,15 +223,20 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
+  - CONTRIBUTING.md
+  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
+  - FAQ.md
   - Gemfile
   - Gemfile.lock
+  - INSTALL.md
   - LICENSE
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -250,6 +259,7 @@ plugins:
   - jekyll/scholar
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-tabs
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
@@ -259,7 +269,7 @@ defaults:
   - scope:
       path: "assets"
     values:
-      sitemap: false
+      sitemap: true
 
 sass:
   style: compressed
@@ -269,7 +279,7 @@ sass:
 # -----------------------------------------------------------------------------
 
 jekyll-minifier:
-  exclude: ["robots.txt"]
+  exclude: ["robots.txt", "assets/js/search/*.js"]
   uglifier_args:
     harmony: true
 
@@ -296,10 +306,10 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Burnett]
+  first_name: [Jack, J.]
 
-  style: apa
+  style: acm-sigchi-proceedings
   locale: en
 
   source: /_bibliography/
@@ -328,7 +338,27 @@ enable_publication_badges:
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
-  [abbr, abstract, altmetric, arxiv, bibtex_show, blog, code, html, pdf, poster, preview, selected, slides, supp, video, website]
+  [
+    abbr,
+    abstract,
+    additional_info,
+    altmetric,
+    arxiv,
+    award,
+    award_name,
+    bibtex_show,
+    blog,
+    code,
+    html,
+    pdf,
+    poster,
+    preview,
+    selected,
+    slides,
+    supp,
+    video,
+    website,
+  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 max_author_limit: 3 # leave blank to always show all authors
@@ -395,6 +425,7 @@ enable_navbar_social: true # enables displaying social links in the navbar on th
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------
 # Library versions
