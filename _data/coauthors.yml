@@ -1,3 +1,11 @@
 "roudaut":
-  - firstname: ["Anne"]
+  - firstname: ["Anne", "A."]
     url: https://anneroudaut.fr/
+
+"metatla":
+  - firstname: ["Oussama", "O."]
+    url: https://ousmet.com/
+
+"marshall":
+  - firstname: ["Paul", "P."]
+    url: https://research-information.bris.ac.uk/en/persons/paul-marshall
