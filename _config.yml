@@ -26,7 +26,8 @@ url: https://jackjburnett.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-
+back_to_top: true # set to false to disable the back to top button
+timezone: Europe/London
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -52,7 +53,9 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
+search_enabled: false
+socials_in_search: false
 
 # Dimensions
 max_width: 1200px
@@ -130,8 +133,8 @@ bing_site_verification: 7CF01C322790A62837ADC6223103E73D # out your bing-site-ve
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Jack Burnett # blog_name will be displayed in your blog page
+blog_description: a blog of things
 permalink: /blog/:year/:title/
 
 # Pagination
