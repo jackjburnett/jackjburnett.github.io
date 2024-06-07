@@ -236,6 +236,7 @@ plugins:
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
