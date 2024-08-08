@@ -53,7 +53,6 @@ I believe in the former.
 _Figure 1: Disney's Stereotype Disclaimer_
 {% include figure.liquid loading="eager" path="assets/img/projects/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
 
-
 How bias is handled within AI systems is not the main concern when discussing AI researchers and social inequality; this
 article's title suggests that AI researchers are furthering social inequality through ignorance, a claim I strongly believe.
 [A bystander's crime](https://www.nytimes.com/2012/08/12/magazine/a-bystanders-crime.html) [29] refers to a situation
