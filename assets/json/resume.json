@@ -128,6 +128,15 @@
       "courses": ["Human-computer Interaction", "Intelligent Agents", "Safety-Critical Systems", "Computer Systems Architecture"]
     }
   ],
+  "awards": [
+    {
+      "title": "Device Prototyping And Production Summer School Award",
+      "date": "2024-07-12",
+      "awarder": "pro² network",
+      "url": "https://prosquared.org/2024-summer-school/",
+      "summary": "Among the papers submitted to the summer school, five £200 awards and three £1,000 awards were granted to those that showed the greatest potential for impact. The funding will go toward the further development of device prototypes."
+    }
+  ],
   "certificates": [
     {
       "name": "Google Data Analytics",
