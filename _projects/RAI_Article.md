@@ -21,7 +21,7 @@ values myself, this article may contain bold statements that lean on the verge o
 
 Turning our attention to the subject at hand, AI's negative impact on equality can be seen in recent articles, such as
 [Kristalina Georgieva's analysis of AI impacts on the Global Economy](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) [18]
-and Michael Barrett's [4] [article on algorithmic bias](https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/);
+and [Michael Barrett's article on algorithmic bias](https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/) [4];
 however, there is insufficient attention on the [social inequalities that can be present within datasets used to train AI models](https://www.hlk-ip.com/the-implications-of-biased-ai-models-on-the-financial-services-industry/) [39].
 AI researchers are well aware of [biases within AI systems](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai) [31],
 yet are also 'largely oblivious to existing scholarship on social inequality' [49]; how can we expect AI researchers
