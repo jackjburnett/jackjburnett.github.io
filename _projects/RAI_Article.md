@@ -50,8 +50,9 @@ as AI is an ['opportunity to build technology with less human bias and inequalit
 your view on this will stem from whether you believe AI systems should reflect modern society or the 'perfect society',
 I believe in the former.
 
-{% include figure.liquid loading="eager" path="assets/img/projects/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
 _Figure 1: Disney's Stereotype Disclaimer_
+{% include figure.liquid loading="eager" path="assets/img/projects/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
+
 
 How bias is handled within AI systems is not the main concern when discussing AI researchers and social inequality; this
 article's title suggests that AI researchers are furthering social inequality through ignorance, a claim I strongly believe.
@@ -101,8 +102,8 @@ companies are not in positions of power within the corporate structure and, due 
 engage with conferences and research projects for social good independently, such as [Data Science for Social Good](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/)
 [1].
 
-{% include figure.liquid loading="eager" path="assets/img/projects/RAI/chatgpt.png" class="img-fluid rounded z-depth-1" %}
 _Figure 2: Example Sexist ChatGPT Response_
+{% include figure.liquid loading="eager" path="assets/img/projects/RAI/chatgpt.png" class="img-fluid rounded z-depth-1" %}
 
 The goal of this article was not to blame AI researchers for inequalities in society; instead, it was to make AI researchers,
 such as myself, aware of how ignoring social inequalities perpetuates them while identifying advocacy as a moral duty for
