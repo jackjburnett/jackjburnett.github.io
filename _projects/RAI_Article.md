@@ -48,6 +48,7 @@ as AI is an ['opportunity to build technology with less human bias and inequalit
 your view on this will stem from whether you believe AI systems should reflect modern society or the 'perfect society',
 I believe in the former.
 
+{% include figure.liquid loading="eager" path="assets/img/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
 ![Disney's Stereotype Disclaimer](/assets/img/RAI/disney.png)
 
 ## Cover Letter
