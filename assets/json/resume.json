@@ -168,6 +168,18 @@
       "level": "Adept",
       "icon": "fa-solid fa-code",
       "keywords": ["Front-end (HTML, CSS)", "Back-end (PHP & Python)", "JavaScript", "UX Design"]
+    },
+    {
+      "name": "Research",
+      "level": "Adept",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Ethics", "Human-Computer Interaction", "Impact of AI", "Interaction and Society"]
+    },
+    {
+      "name": "Hardware",
+      "level": "Adept",
+      "icon": "fa-solid fa-wrench",
+      "keywords": ["3D Printing", "Parametric Design", "PCB Creation", "Routing"]
     }
   ],
   "languages": [
