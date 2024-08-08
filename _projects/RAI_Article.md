@@ -7,7 +7,9 @@ importance: 1
 category: archive
 related_publications: false
 ---
+
 PDF Version: [AI Researchers and Social Inequality]({{ site.url }}/assets/pdf/AI_Researchers_Inequality.pdf){:target="\_blank"}
+
 ## Article
 
 > 'Inequality is an inevitable product of capitalist activity, and expanding equality of opportunity only increases it' - Muller, 2013
@@ -49,7 +51,63 @@ your view on this will stem from whether you believe AI systems should reflect m
 I believe in the former.
 
 {% include figure.liquid loading="eager" path="assets/img/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
-![Disney's Stereotype Disclaimer](/assets/img/RAI/disney.png)
+_Figure 1: Disney's Stereotype Disclaimer_
+
+How bias is handled within AI systems is not the main concern when discussing AI researchers and social inequality; this
+article's title suggests that AI researchers are furthering social inequality through ignorance, a claim I strongly believe.
+[A bystander's crime](https://www.nytimes.com/2012/08/12/magazine/a-bystanders-crime.html) [29] refers to a situation
+where an individual witnesses an unlawful act or harmful incident but fails to intervene or report it to the necessary
+authorities; in the context of discrimination crimes, the individual perpetuates existing inequalities by failing to act.
+I believe that AI researchers who learn of societal inequalities through data analysis or model training and then ignore
+them or ’safeguard’ against them without acting to help resolve the inequalities should be held accountable. While AI
+researchers may not have the power to implement social policy to lessen or eradicate inequalities they identify within
+datasets, they do have the power to [report the inequalities](https://scholar.google.co.uk/scholar?q=report+inequality+dataset&hl=en&as_sdt=0&as_vis=1&oi=scholart) [20, 33],
+[use the data to shed light on the issues present](https://devinit.org/blog/why-good-data-is-key-to-unlocking-gender-equality/)
+[43], [develop tools that assist in mitigating the inequalities](https://quantilus.com/article/ais-role-in-reducing-inequalities/)
+[24], and [advocate for social change](https://www.aristotle.com/blog/2023/11/advocacy-in-the-age-of-ai-harnessing-the-future-to-amplify-your-voice/)
+[3]; I believe this is especially true when researchers, or their employers, are profiting from the use of datasets
+where inequality is present, even if the inequalities themselves are not used for financial gain or only contribute to
+profits indirectly.
+
+There is a need for political change, not technical safeguards that mask society’s ills, to help promote a just society,
+and this is where I believe AI researchers can begin to influence change rather than perpetuate inequality.
+[Modern governments are shifting towards data-driven governance](https://ideascale.com/blog/what-is-data-driven-decision-making-in-government/)
+[27], meaning governments rely on data that highlights social inequalities when creating social policies. AI researchers
+should have a moral duty to report datasets that contain proof of social inequalities to authorities that can influence
+social policy-making; however, as trade secrets are seemingly a priority over social welfare for modern corporations [14],
+it may be more realistic to expect researchers to leverage dataset findings for social change, rather than sharing the data
+itself.
+
+It may seem unfair to burden AI researchers with this moral duty, as most individuals entered this field with the
+[ goal of building algorithms and AI tools for reasons outside of social equality](https://www.inspiritai.com/blogs/ai-student-blog/why-i-decided-to-pursue-a-career-in-ai) [11];
+however, I would argue that having access to [large and potentially influential datasets](https://astrato.io/blog/three-times-data-changed-the-world/) [5]
+makes the role inherently political. Arguing that an AI researcher shouldn’t have the moral duty to fight for social
+equality based on dataset findings, as this is not why they entered this career path, is akin to arguing that a teacher
+doesn’t have a moral duty to fight for child welfare as they went into teaching to enhance knowledge on a topic they’re
+passionate about, rather than to look after children; I believe that advocating for social equality is an integral aspect
+of AI research.
+
+While researching the topic of AI and social inequality, I could not find evidence of AI corporations that paid reparations
+to the communities affected by social inequalities within the datasets being used for profit. [ChatGPT](https://chatgpt.com/)
+and [Gemini](https://gemini.google.com/app) would have generated revenue from their services while the tools were outputting
+[racist medical theories](https://fortune.com/well/2023/10/20/chatgpt-google-bard-ai-chatbots-medical-racism-black-patients-health-care/) [8]
+and [sexist stereotypes](https://equalitynow.org/news_and_insights/chatgpt-4-reinforces-sexist-stereotypes/) [37], yet
+neither corporation took action to support the communities harmed within the training data from which they financially
+benefited. It may seem extreme to expect AI companies to pay compensation to victims of social inequality within their data;
+however, I believe that because corporations profit from social inequalities, they transition from bystanders to oppressors
+as they now benefit from these issues. AI researchers within these companies could also be viewed as oppressors due to
+their salaries being funded by social inequality data; however, this is an unfair claim as many researchers within these
+companies are not in positions of power within the corporate structure and, due to the nature of research, as many researchers
+engage with conferences and research projects for social good independently, such as [Data Science for Social Good](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/)
+[1].
+
+{% include figure.liquid loading="eager" path="assets/img/RAI/chatgpt.png" class="img-fluid rounded z-depth-1" %}
+_Figure 2: Example Sexist ChatGPT Response_
+
+The goal of this article was not to blame AI researchers for inequalities in society; instead, it was to make AI researchers,
+such as myself, aware of how ignoring social inequalities perpetuates them while identifying advocacy as a moral duty for
+AI researchers. AI research has [enabled worldwide change at a rapid pace](https://www.technologyreview.com/2021/05/19/1025016/embracing-the-rapid-pace-of-ai/)
+[25], so it is paramount to ensure that the researchers driving the change are aware of their impact on society.
 
 ## Cover Letter
 
@@ -126,7 +184,7 @@ Thank you for considering this article for publication.
 
 ## Bibliography
 
-[1] DSSGx UK. May 2024. url: [https://warwick.ac.uk/research/data-science/warwick-data/dssgx/](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/). \
+[1] May 2024. url: [https://warwick.ac.uk/research/data-science/warwick-data/dssgx/](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/). \
 [2] Arshin Adib-Moghaddam. For minorities, biased AI algorithms can damage almost every part of life. Aug. 2023. url: [https://theconversation.com/for-minorities-biased-ai-algorithms-can-damage-almost-every-part-of-ife-211778](https://theconversation.com/for-minorities-biased-ai-algorithms-can-damage-almost-every-part-of-ife-211778). \
 [3] Aristotle. Advocacy in the age of AI: Harnessing the future to amplify your voice. Mar. 2024. url: [https://www.aristotle.com/blog/2023/11/advocacy-in-the-age-of-ai-harnessing-the-future-to-amplify-your-voice/](https://www.aristotle.com/blog/2023/11/advocacy-in-the-age-of-ai-harnessing-the-future-to-amplify-your-voice/). \
 [4] Michael Barrett. The dark side of AI: algorithmic bias and global inequality. Oct. 2023. url: [https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/](https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/). \
