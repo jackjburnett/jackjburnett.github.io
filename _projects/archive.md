@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IAI Archive
+title: Archive
 description: Notable work from the Interactive AI foundation year
 img: assets/img/archive.jpeg
 importance: 2
