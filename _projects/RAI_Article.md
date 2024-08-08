@@ -7,7 +7,7 @@ importance: 1
 category: archive
 related_publications: false
 ---
-
+PDF Version: [AI Researchers and Social Inequality]({{ site.url }}/assets/pdf/AI_Researchers_Inequality.pdf){:target="\_blank"}
 ## Article
 
 > 'Inequality is an inevitable product of capitalist activity, and expanding equality of opportunity only increases it' - Muller, 2013
@@ -18,12 +18,12 @@ and how they can leverage their knowledge of this to work towards a more just so
 values myself, this article may contain bold statements that lean on the verge of anti-capitalist ideologies.
 
 Turning our attention to the subject at hand, AI's negative impact on equality can be seen in recent articles, such as
-[Kristalina Georgieva's analysis of AI impacts on the Global Economy [18]](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity)
-and [Michael Barrett's [4] article on algorithmic bias](https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/);
-however, there is insufficient attention on the [social inequalities that can be present within datasets used to train AI models [39]](https://www.hlk-ip.com/the-implications-of-biased-ai-models-on-the-financial-services-industry/).
-AI researchers are well aware of [biases within AI systems [31]](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai),
+[Kristalina Georgieva's analysis of AI impacts on the Global Economy](https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity) [18]
+and Michael Barrett's [4] [article on algorithmic bias](https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/);
+however, there is insufficient attention on the [social inequalities that can be present within datasets used to train AI models](https://www.hlk-ip.com/the-implications-of-biased-ai-models-on-the-financial-services-industry/) [39].
+AI researchers are well aware of [biases within AI systems](https://hbr.org/2019/10/what-do-we-do-about-the-biases-in-ai) [31],
 yet are also 'largely oblivious to existing scholarship on social inequality' [49]; how can we expect AI researchers
-to identify social inequalities present within data, and leverage this knowledge to [promote social change[42]](https://www.umass.edu/news/article/actively-addressing-inequalities-promotes-social-change),
+to identify social inequalities present within data, and leverage this knowledge to [promote social change](https://www.umass.edu/news/article/actively-addressing-inequalities-promotes-social-change) [42],
 if they are unaware of what to search for?
 
 In the ideal world, all AI researchers would be experts on the social issues that may affect the datasets they use and
@@ -31,22 +31,24 @@ the potential socio-economic impacts of their systems; to quote Philip K. Dick [
 Although the notion of AI researchers being omniscient regarding social issues is unrealistic, I believe that researchers
 should be expected to have an awareness of the potential issues that affect the communities represented by their data and
 the critical thinking skills required to identify when these issues are present. A great example of this is
-['racist predictive policing algorithms' [21]](https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/),
+['racist predictive policing algorithms'](https://www.technologyreview.com/2020/07/17/1005396/predictive-policing-algorithms-racist-dismantled-machine-learning-bias-criminal-justice/) [21],
 where the AI system itself is deemed to be racist, so safeguards are implemented within the system; however, anyone aware
-of the social issues within policing would easily identify that this system is a by-product of [institutional racism [13]](https://www.theguardian.com/uk-news/2024/jan/05/head-of-britains-police-chiefs-says-force-is-institutionally-racist-gavin-stephens)
+of the social issues within policing would easily identify that this system is a by-product of [institutional racism](https://www.theguardian.com/uk-news/2024/jan/05/head-of-britains-police-chiefs-says-force-is-institutionally-racist-gavin-stephens) [13]
 and is simply a reflection of the state of policing itself.
 
 AI systems implement safeguards to shelter users from biases present, allowing users to be blissfully ignorant of underlying
 issues within the datasets and models they're interacting with; if, instead, these systems gave users a true reflection
-of the data and societal issues present, we would enable said users to become more [socially aware [26]](https://insights.paramount.com/post/global-young-people-are-socially-aware-but-face-some-barriers-to-getting-involved/)
+of the data and societal issues present, we would enable said users to become more [socially aware](https://insights.paramount.com/post/global-young-people-are-socially-aware-but-face-some-barriers-to-getting-involved/) [26]
 as these issues are now extended onto them. Exposing biases to users is a double-edged sword, though, as
-[humans absorb the biases presented to them through AI systems [30]](https://www.scientificamerican.com/article/humans-absorb-bias-from-ai-and-keep-it-after-they-stop-using-the-algorithm/).
+[humans absorb the biases presented to them through AI systems](https://www.scientificamerican.com/article/humans-absorb-bias-from-ai-and-keep-it-after-they-stop-using-the-algorithm/) [30].
 Perhaps Disney's approach to social issues and bias may be suitable for AI, through
-[acknowledging the harmful impacts of biases and prompting users to learn from them and use them to drive conversations [38]](https://www.nytimes.com/2020/10/18/business/media/disney-plus-disclaimers.html).
+[acknowledging the harmful impacts of biases and prompting users to learn from them and use them to drive conversations](https://www.nytimes.com/2020/10/18/business/media/disney-plus-disclaimers.html) [38].
 Some may disagree with the notion of maintaining system biases as it harms system functionality [17], others may disagree
-as AI is an ['opportunity to build technology with less human bias and inequality' [41]'](https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai);
+as AI is an ['opportunity to build technology with less human bias and inequality'](https://hbr.org/2018/02/can-we-keep-our-biases-from-creeping-into-ai) [41];
 your view on this will stem from whether you believe AI systems should reflect modern society or the 'perfect society',
 I believe in the former.
+
+![Disney's Stereotype Disclaimer](/assets/img/RAI/disney.png)
 
 ## Cover Letter
 
@@ -123,7 +125,7 @@ Thank you for considering this article for publication.
 
 ## Bibliography
 
-[1] May 2024. url: [https://warwick.ac.uk/research/data-science/warwick-data/dssgx/](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/). \
+[1] DSSGx UK. May 2024. url: [https://warwick.ac.uk/research/data-science/warwick-data/dssgx/](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/). \
 [2] Arshin Adib-Moghaddam. For minorities, biased AI algorithms can damage almost every part of life. Aug. 2023. url: [https://theconversation.com/for-minorities-biased-ai-algorithms-can-damage-almost-every-part-of-ife-211778](https://theconversation.com/for-minorities-biased-ai-algorithms-can-damage-almost-every-part-of-ife-211778). \
 [3] Aristotle. Advocacy in the age of AI: Harnessing the future to amplify your voice. Mar. 2024. url: [https://www.aristotle.com/blog/2023/11/advocacy-in-the-age-of-ai-harnessing-the-future-to-amplify-your-voice/](https://www.aristotle.com/blog/2023/11/advocacy-in-the-age-of-ai-harnessing-the-future-to-amplify-your-voice/). \
 [4] Michael Barrett. The dark side of AI: algorithmic bias and global inequality. Oct. 2023. url: [https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/](https://www.jbs.cam.ac.uk/2023/the-dark-side-of-ai-algorithmic-bias-and-global-inequality/). \
@@ -171,8 +173,4 @@ Thank you for considering this article for publication.
 [46] Nitasha Tiku, Kevin Schaul, and Szu Yu Chen. Ai generated images are biased, showing the world through stereotypes. Nov. 2023. url: [https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/](https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/). \
 [47] Ozlem Ulgen. "Kantian Ethics in the Age of Artificial Intelligence and Robotics (2017) 43 QIL, Zoom-in (Questions of International Law/Question de Droit International/Questioni di Diritto) 59-83". In: 43 (Jan. 2017), pp. 59–83. \
 [48] Darrell M. West et al. The role of corporations in addressing AI's ethical dilemmas. Mar. 2022. url: [https://www.brookings.edu/articles/how-to-address-ai-ethical-dilemmas/](https://www.brookings.edu/articles/how-to-address-ai-ethical-dilemmas/). \
-[49] Mike Zajko. "Artificial intelligence, algorithms, and social inequality: Sociological contributions to contemporary debates". In: Sociology Compass 16.3 (2022), e12962. doi: https://doi.org/10.1111/soc4.12962. eprint: https://compass.onlinelibrary.wiley.com/doi/pdf/10.1111/soc4.12962. url: [https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/soc412962](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/soc412962). \
-
-## PDF Download
-
-PDF: [AI Researchers and Social Inequality]({{ site.url }}/assets/pdf/AI_Researchers_Inequality.pdf){:target="\_blank"}
+[49] Mike Zajko. "Artificial intelligence, algorithms, and social inequality: Sociological contributions to contemporary debates". In: Sociology Compass 16.3 (2022), e12962. doi: https://doi.org/10.1111/soc4.12962. eprint: https://compass.onlinelibrary.wiley.com/doi/pdf/10.1111/soc4.12962. url: [https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/soc412962](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/soc412962).
