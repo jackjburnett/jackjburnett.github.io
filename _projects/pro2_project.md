@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Controller Pipeline
-description: building a pipeline for parametrically generating user-tailored controllers
+title: Democratised Modular Controller Production
+description: award-winning submission for Device Prototyping And Production Summer School
 img: assets/img/controller.png
-importance: 1
+importance: 2
 category: 2024
 related_publications: true
 ---
 
-page will be populated upon the study's conclusion
+page TBC
