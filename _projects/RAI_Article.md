@@ -59,7 +59,7 @@ article's title suggests that AI researchers are furthering social inequality th
 where an individual witnesses an unlawful act or harmful incident but fails to intervene or report it to the necessary
 authorities; in the context of discrimination crimes, the individual perpetuates existing inequalities by failing to act.
 I believe that AI researchers who learn of societal inequalities through data analysis or model training and then ignore
-them or ’safeguard’ against them without acting to help resolve the inequalities should be held accountable. While AI
+them or 'safeguard' against them without acting to help resolve the inequalities should be held accountable. While AI
 researchers may not have the power to implement social policy to lessen or eradicate inequalities they identify within
 datasets, they do have the power to [report the inequalities](https://scholar.google.co.uk/scholar?q=report+inequality+dataset&hl=en&as_sdt=0&as_vis=1&oi=scholart) [20, 33],
 [use the data to shed light on the issues present](https://devinit.org/blog/why-good-data-is-key-to-unlocking-gender-equality/)
@@ -69,7 +69,7 @@ datasets, they do have the power to [report the inequalities](https://scholar.go
 where inequality is present, even if the inequalities themselves are not used for financial gain or only contribute to
 profits indirectly.
 
-There is a need for political change, not technical safeguards that mask society’s ills, to help promote a just society,
+There is a need for political change, not technical safeguards that mask society's ills, to help promote a just society,
 and this is where I believe AI researchers can begin to influence change rather than perpetuate inequality.
 [Modern governments are shifting towards data-driven governance](https://ideascale.com/blog/what-is-data-driven-decision-making-in-government/)
 [27], meaning governments rely on data that highlights social inequalities when creating social policies. AI researchers
@@ -81,9 +81,9 @@ itself.
 It may seem unfair to burden AI researchers with this moral duty, as most individuals entered this field with the
 [ goal of building algorithms and AI tools for reasons outside of social equality](https://www.inspiritai.com/blogs/ai-student-blog/why-i-decided-to-pursue-a-career-in-ai) [11];
 however, I would argue that having access to [large and potentially influential datasets](https://astrato.io/blog/three-times-data-changed-the-world/) [5]
-makes the role inherently political. Arguing that an AI researcher shouldn’t have the moral duty to fight for social
+makes the role inherently political. Arguing that an AI researcher shouldn't have the moral duty to fight for social
 equality based on dataset findings, as this is not why they entered this career path, is akin to arguing that a teacher
-doesn’t have a moral duty to fight for child welfare as they went into teaching to enhance knowledge on a topic they’re
+doesn't have a moral duty to fight for child welfare as they went into teaching to enhance knowledge on a topic they're
 passionate about, rather than to look after children; I believe that advocating for social equality is an integral aspect
 of AI research.
 
@@ -128,11 +128,11 @@ moral duty of AI systems [40], which I believe detracts from the responsibilitie
 refocus the burden of moral duties back onto AI researchers by highlighting their role within social justice.
 
 The article focuses on AI researchers and how they can impact the individuals and communities within their datasets.
-Corporations were not discussedwithin the article as current ethical guidelines for AI inherently focus on corporations
+Corporations were not discussed within the article as current ethical guidelines for AI inherently focus on corporations
 and the systems themselves [23], as does research that discusses AI ethics [32, 48]. The article leans toward egalitarianism
 by identifying that promoting equality among individuals within society should be the primary concernof AI researchers.
 A Marxist view of trade secrets was taken within the article; this stance was justified through literature identifying the
-harms of tradesecrets [14] rather than being explicitly stated. Equality within AI focuses onthe duty of researchers to ensure
+harms of trade secrets [14] rather than being explicitly stated. Equality within AI focuses onthe duty of researchers to ensure
 that models are trained on diverse data to limit discriminatory outcomes [15], rather than the duties of the researchers
 once inequality has been identified or is inevitable within the system due to societal biases. The moral duty proposed in
 the article is based on the concept that AI researchers are in a position of power over those within their datasets;
