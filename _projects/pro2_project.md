@@ -16,7 +16,7 @@ Link: [https://prosquared.org/2024-summer-school](https://prosquared.org/2024-su
 
 # Application
 
-Link: [https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf](https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf)
+Link: [https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf](https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf) \
 PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
 
 # The Idea
