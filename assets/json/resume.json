@@ -178,7 +178,7 @@
     {
       "name": "Hardware",
       "level": "Adept",
-      "icon": "fa-solid fa-wrench",
+      "icon": "fa-solid fa-gamepad",
       "keywords": ["3D Printing", "Parametric Design", "PCB Creation", "Routing"]
     }
   ],
