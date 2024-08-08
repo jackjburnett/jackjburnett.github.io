@@ -2,7 +2,7 @@
 layout: page
 title: AI Researchers and Social Inequality
 description: Proposed submission for The Conversation
-img: assets/img/ethics.jpg
+img: assets/img/projects/ethics.jpg
 importance: 3
 category: 2024
 related_publications: false
@@ -50,7 +50,7 @@ as AI is an ['opportunity to build technology with less human bias and inequalit
 your view on this will stem from whether you believe AI systems should reflect modern society or the 'perfect society',
 I believe in the former.
 
-{% include figure.liquid loading="eager" path="assets/img/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/RAI/disney.png" class="img-fluid rounded z-depth-1" %}
 _Figure 1: Disney's Stereotype Disclaimer_
 
 How bias is handled within AI systems is not the main concern when discussing AI researchers and social inequality; this
@@ -101,7 +101,7 @@ companies are not in positions of power within the corporate structure and, due 
 engage with conferences and research projects for social good independently, such as [Data Science for Social Good](https://warwick.ac.uk/research/data-science/warwick-data/dssgx/)
 [1].
 
-{% include figure.liquid loading="eager" path="assets/img/RAI/chatgpt.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/RAI/chatgpt.png" class="img-fluid rounded z-depth-1" %}
 _Figure 2: Example Sexist ChatGPT Response_
 
 The goal of this article was not to blame AI researchers for inequalities in society; instead, it was to make AI researchers,

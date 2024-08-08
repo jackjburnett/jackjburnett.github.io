@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 description: Notable work from the Interactive AI foundation year
-img: assets/img/archive.jpeg
+img: assets/img/projects/archive.jpeg
 importance: 2
 category: archive
 related_publications: false
