@@ -22,7 +22,8 @@ PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2
 # The Idea
 
 # Future of the Study
-This study will 
+
+This study will
 [VirtualLeverless]({{ site.url }}/VirtualLeverless)
 [GeneRoute]({{ site.url }}/GeneRoute)
 [ControllerForge]({{ site.url }}/ControllerForge)
