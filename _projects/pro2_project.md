@@ -24,6 +24,6 @@ PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2
 # Future of the Study
 
 This study will
-[VirtualLeverless]({{ site.url }}/VirtualLeverless)
-[GeneRoute]({{ site.url }}/GeneRoute)
-[ControllerForge]({{ site.url }}/ControllerForge)
+[VirtualLeverless]({{ site.url }}/projects/VirtualLeverless)
+[GeneRoute]({{ site.url }}/projects/GeneRoute)
+[ControllerForge]({{ site.url }}/projects/ControllerForge)
