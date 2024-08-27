@@ -14,7 +14,7 @@ WiP
 
 Link: [https://prosquared.org/2024-summer-school](https://prosquared.org/2024-summer-school)
 
-# Application
+# About the Project
 
 Link: [https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf](https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf) \
 PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
@@ -22,3 +22,7 @@ PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2
 # The Idea
 
 # Future of the Study
+This study will 
+[VirtualLeverless]({{ site.url }}/VirtualLeverless)
+[GeneRoute]({{ site.url }}/GeneRoute)
+[ControllerForge]({{ site.url }}/ControllerForge)
