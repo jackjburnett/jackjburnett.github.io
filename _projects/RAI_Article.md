@@ -4,7 +4,7 @@ title: AI Researchers and Social Inequality
 description: Proposed submission for The Conversation
 img: assets/img/projects/ethics.jpg
 importance: 3
-category: 2024
+category: "2024"
 related_publications: false
 ---
 
