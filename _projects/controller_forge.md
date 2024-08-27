@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Virtual Leverless
+title: Controller Forge
 description: CHI Submission
-img: assets/img/projects/VirtualLeverless.png
 importance: 1
 related_publications: true
 ---
