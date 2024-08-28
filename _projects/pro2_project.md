@@ -5,21 +5,20 @@ description: award-winning submission for Device Prototyping And Production Summ
 img: assets/img/projects/controller.png
 importance: 2
 category: "2024"
-related_publications: true
+related_publications: false
 ---
-
-WiP
-
-# About the Summer School
-
-Link: [https://prosquared.org/2024-summer-school](https://prosquared.org/2024-summer-school)
-
 # About the Project
 
 Link: [https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf](https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf) \
 PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
 
+# About the Summer School
+
+Link: [https://prosquared.org/2024-summer-school](https://prosquared.org/2024-summer-school)
+
 # The Idea
+
+TBC
 
 # Future of the Study
 
