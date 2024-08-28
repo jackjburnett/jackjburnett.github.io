@@ -23,7 +23,8 @@ PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2
 
 # Future of the Study
 
-This study will
-[VirtualLeverless]({{ site.url }}/projects/VirtualLeverless)
-[GeneRoute]({{ site.url }}/projects/GeneRoute)
-[ControllerForge]({{ site.url }}/projects/ControllerForge)
+This study will be developed incrementally through different projects.
+[VirtualLeverless]({{ site.url }}/projects/VirtualLeverless) will develop a customisable virtual controller, to enable the collection of user controller layout preferences.
+[ControllerForge]({{ site.url }}/projects/ControllerForge) will use the data collected by [VirtualLeverless]({{ site.url }}/projects/VirtualLeverless) to generate 3D-printable controllers that are tailored to user needs.
+[GeneRoute]({{ site.url }}/projects/GeneRoute) enable for 3D-printed circuitry, through optimising conductive filament wiring within [ControllerForge]({{ site.url }}/projects/ControllerForge).
+The proposed research project will build on [ControllerForge]({{ site.url }}/projects/ControllerForge) to enable the modular design and creation of user-tailored controllers.
