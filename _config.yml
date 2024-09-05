@@ -5,7 +5,7 @@
 title: jackjburnett # the website title (if blank, full name will be used instead)
 first_name: Jack
 last_name: Burnett
-email: jackjburnett@bristol.ac.uk
+email: jack.burnett@bristol.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website for Jack Burnett, Interactive PhD Student at the University of Bristol and Qualified Teacher.
 footer_text: >
