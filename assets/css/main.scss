@@ -22,7 +22,6 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-outline.scss"
 ;
 
-/* Justify text in projects and pages */
 p {
-  text-align: justify;
+  text-align: justify !important;
 }
