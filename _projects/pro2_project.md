@@ -158,29 +158,29 @@ Thank you to Anne Roudaut for suggesting the summer school for this research and
 
 ## References
 
-[1] AbleGamers, 'Gaming with a progressive disease', AbleGamers. Aug 2022.
-[2] S. Akyaman and E. C. Alppay, 'A Critical Review of Video Game Controller Designs', in Game + Design Education, 2021, pp. 311–323.
-[3] D. A. Anabire, 'User-Centered and Inclusive Design toward Social Justice: The Case Study of the Xbox Adaptive Controller, Apple Siri, and SteadyMouse', 2022.
-[4] J. Archer, '“They don't care”: Inside the triumphs and failures of accessible gaming hardware', Rock Paper Shotgun. Rock Paper Shotgun, Sep-2023.
-[5] P. Baltzar, L. Hassan, and M. Turunen, 'Assistive technology in gaming: A survey of gamers with disabilities', 04 2023.
-[6] J. Beeston, C. Power, P. Cairns, and M. Barlet, 'Accessible Player Experiences (APX): The Players', in Computers Helping People with Special Needs, 2018, pp. 245–253.
-[7] K. Bogdanov, 'Designing a Game Controller for Players with Motor Impairments: An Aim at Increasing Accessibility in Playful Experiences', Dissertation, 2023.
-[8] M. Dalgleish, '"there are no universal interfaces": How asymmetrical roles and asymmetrical controllers can increase access diversity', GAME. Ludica, Dec-2018.
-[9] M. Dalgleish, 'Who Can Play? Rethinking Video Game Controllers and Accessibility', in Disability and Video Games: Practices of En/Disabling Modes of Digital Gaming, M. Spöhrer and B. Ochsner, Eds. Cham: Springer International Publishing, 2024, pp. 43–71.
-[10] B. Egliston, 'It's designers who can make gaming more accessible for people living with disabilities', The Conversation, The Conversation US, 2019.
-[11] T. Harper, The culture of digital fighting games: Performance and practice. 11 2013, pp. 1–157.
-[12] S. Hodges, 'Democratizing the Production of Interactive Hardware', in Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology, Virtual Event, USA, 2020, pp. 5–6.
-[13] A. Hurst and J. Tobias, 'Empowering individuals with do-it-yourself assistive technology', in The Proceedings of the 13th International ACM SIGACCESS Conference on Computers and Accessibility, Dundee, Scotland, UK, 2011, pp. 11–18.
-[14] M. E. Larreina-Morales, 'How Accessible is This Video Game? An Analysis Tool in Two Steps', Games and Culture, vol. 19, no. 1, pp. 75–93, 2024.
-[15] D. Maggiorini, M. Granato, L. A. Ripamonti, M. Marras, and D. Gadia, 'Evolution of Game Controllers: Toward the Support of Gamers with Physical Disabilities', in Computer-Human Interaction Research and Applications, 2019, pp. 66–89.
-[16] S. C. Murphy and A. Lefloïc-Lebel, 'Controllers', in The Routledge Companion to Video Game Studies, Routledge, 2023, pp. 17–24.
-[17] R. Rogers, N. Bowman, and M. B. Oliver, 'It's not the model that doesn't fit, it's the controller! The role of cognitive skills in understanding the links between natural mapping, performance, and enjoyment of console video games', Computers in Human Behavior, vol. 49, pp. 588–596, 08 2015.
-[18] G. Stoner, 'How accessible hardware bridges the gap between individuals and options', IGN. IGN, Feb-2024.
-[19] UKRI, 'Responsible Innovation', UKRI. Jan-2024.
-[20] L. Veruete-McKay, L. Schuelke, C. Davy, and C. Moss, 'Disability Price Tag 2023 technical report ', SCOPE, 2023.
-[21] J. Wentzel, S. Junuzovic, J. Devine, J. Porter, and M. Mott, 'Understanding How People with Limited Mobility Use Multi-Modal Input', in Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, New Orleans, LA, USA, 2022.
-[22] World Health Organization and United Nations Children's Fund, Global report on assistive technology. World Health Organization, 2022, pp. xiii, 125 p.
-[23] B. Yuan, E. Folmer, and F. C. Harris, 'Game accessibility: a survey', Universal Access
+[1] AbleGamers, 'Gaming with a progressive disease', AbleGamers. Aug 2022. \
+[2] S. Akyaman and E. C. Alppay, 'A Critical Review of Video Game Controller Designs', in Game + Design Education, 2021, pp. 311–323. \
+[3] D. A. Anabire, 'User-Centered and Inclusive Design toward Social Justice: The Case Study of the Xbox Adaptive Controller, Apple Siri, and SteadyMouse', 2022. \
+[4] J. Archer, '“They don't care”: Inside the triumphs and failures of accessible gaming hardware', Rock Paper Shotgun. Rock Paper Shotgun, Sep-2023. \
+[5] P. Baltzar, L. Hassan, and M. Turunen, 'Assistive technology in gaming: A survey of gamers with disabilities', 04 2023. \
+[6] J. Beeston, C. Power, P. Cairns, and M. Barlet, 'Accessible Player Experiences (APX): The Players', in Computers Helping People with Special Needs, 2018, pp. 245–253. \
+[7] K. Bogdanov, 'Designing a Game Controller for Players with Motor Impairments: An Aim at Increasing Accessibility in Playful Experiences', Dissertation, 2023. \
+[8] M. Dalgleish, '"there are no universal interfaces": How asymmetrical roles and asymmetrical controllers can increase access diversity', GAME. Ludica, Dec-2018. \
+[9] M. Dalgleish, 'Who Can Play? Rethinking Video Game Controllers and Accessibility', in Disability and Video Games: Practices of En/Disabling Modes of Digital Gaming, M. Spöhrer and B. Ochsner, Eds. Cham: Springer International Publishing, 2024, pp. 43–71. \
+[10] B. Egliston, 'It's designers who can make gaming more accessible for people living with disabilities', The Conversation, The Conversation US, 2019. \
+[11] T. Harper, The culture of digital fighting games: Performance and practice. 11 2013, pp. 1–157. \
+[12] S. Hodges, 'Democratizing the Production of Interactive Hardware', in Proceedings of the 33rd Annual ACM Symposium on User Interface Software and Technology, Virtual Event, USA, 2020, pp. 5–6. \
+[13] A. Hurst and J. Tobias, 'Empowering individuals with do-it-yourself assistive technology', in The Proceedings of the 13th International ACM SIGACCESS Conference on Computers and Accessibility, Dundee, Scotland, UK, 2011, pp. 11–18. \
+[14] M. E. Larreina-Morales, 'How Accessible is This Video Game? An Analysis Tool in Two Steps', Games and Culture, vol. 19, no. 1, pp. 75–93, 2024. \
+[15] D. Maggiorini, M. Granato, L. A. Ripamonti, M. Marras, and D. Gadia, 'Evolution of Game Controllers: Toward the Support of Gamers with Physical Disabilities', in Computer-Human Interaction Research and Applications, 2019, pp. 66–89. \
+[16] S. C. Murphy and A. Lefloïc-Lebel, 'Controllers', in The Routledge Companion to Video Game Studies, Routledge, 2023, pp. 17–24. \
+[17] R. Rogers, N. Bowman, and M. B. Oliver, 'It's not the model that doesn't fit, it's the controller! The role of cognitive skills in understanding the links between natural mapping, performance, and enjoyment of console video games', Computers in Human Behavior, vol. 49, pp. 588–596, 08 2015. \
+[18] G. Stoner, 'How accessible hardware bridges the gap between individuals and options', IGN. IGN, Feb-2024. \
+[19] UKRI, 'Responsible Innovation', UKRI. Jan-2024. \
+[20] L. Veruete-McKay, L. Schuelke, C. Davy, and C. Moss, 'Disability Price Tag 2023 technical report ', SCOPE, 2023. \
+[21] J. Wentzel, S. Junuzovic, J. Devine, J. Porter, and M. Mott, 'Understanding How People with Limited Mobility Use Multi-Modal Input', in Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, New Orleans, LA, USA, 2022. \
+[22] World Health Organization and United Nations Children's Fund, Global report on assistive technology. World Health Organization, 2022, pp. xiii, 125 p. \
+[23] B. Yuan, E. Folmer, and F. C. Harris, 'Game accessibility: a survey', Universal Access in the Information Society, vol. 10, no. 1, pp. 81–100, Mar. 2011. \
 
 ## Appendix
 
