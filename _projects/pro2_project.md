@@ -45,7 +45,7 @@ Due to the variance in user preferences, developers of consumer controllers for 
 DIY projects, such as [Open Ultra Arcade](https://github.com/Ultra-Arcade/open-ua-cnc), simplify user creation of controllers but require knowledge of CAD and electrical engineering for fine-tuning as they only provide preset controllers and module templates rather than a simplified design suite.
 
 _Figure 1: Fighting Game Community Controllers_
-{% include figure.liquid loading="eager" path="assets/img/projects/pro2_projects/fgc_controllers.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/pro2_project/fgc_controllers.png" class="img-fluid rounded z-depth-1" %}
 
 The need for evolving customisable accessible hardware for individuals with progressive illnesses[18] has been reiterated by the charity AbleGamers[1].
 Prior research into game controller design for individuals with degenerative illnesses[7] identified the potential design challenges within this domain but viewed symptoms of the illnesses as discrete, assuming users either had or didn't have the symptom; currently, there is no research within game controller design that views degenerative illness symptoms as continuous and evolving, which is true to their nature.
@@ -69,7 +69,7 @@ Allowing individuals with degenerative illnesses to evolve their controller mapp
 Gaming peripheral companies have created modular hot-swappable controllers for able gamers, such as the Razer Naga Trinity, as seen in Figure 2; however, through research for this project, 3D-printable and console-compatible hotswap solutions could not be identified.
 
 _Figure 2: Razer Naga Trinity_
-{% include figure.liquid loading="eager" path="assets/img/projects/pro2_projects/naga.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/pro2_project/naga.png" class="img-fluid rounded z-depth-1" %}
 
 ## Imagined or Existing Prototype Sketches/Drawing/Photos
 
@@ -95,13 +95,13 @@ An initial parametric model has been created in CADQuery, as seen in Figure 3, b
 The model in Figure 3 was built parametrically, enabling all buttons to be manipulated using variables; currently, buttons are modified through variables for button size, spacing, slope of buttons, and position of the left module's thumb button.
 
 _Figure 3: CADQuery Model for Prototype Controller_
-{% include figure.liquid loading="eager" path="assets/img/projects/pro2_projects/cadquery.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/pro2_project/cadquery.png" class="img-fluid rounded z-depth-1" %}
 
 The next iteration of the prototype will include a module for the GP-2040 settings buttons, as seen in Figure 4; improvements that are planned for the next iteration also include a USB port and hollowed interiors.
 Multiple iterations will be made for tolerance testing of the next model to identify the required wall thickness.
 
 _Figure 4: Module Layout for Prototype Controller with Settings_
-{% include figure.liquid loading="eager" path="assets/img/projects/pro2_projects/modules.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/pro2_project/modules.png" class="img-fluid rounded z-depth-1" %}
 
 ### Hot-swap Methods
 
@@ -111,7 +111,7 @@ Currently, the prototype design has two proposed methods: a pin-based and an RFI
 The pin-based method is simplistic in design, with modules communicating with the base controller via electrical pins that correlate to GP-2040 mapping, as shown in Figure 5; this method may wear over time and is reliant on either magnetic connection and pogo pins, akin to the Razer Naga Trinity, or a large pin and leg connection, as used by keyboard switches.
 
 _Figure 5: Proposed Hotswap Pin Notation_
-{% include figure.liquid loading="eager" path="assets/img/projects/pro2_projects/pins.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/projects/pro2_project/pins.png" class="img-fluid rounded z-depth-1" %}
 
 The RFID method would enable modules to be quickly swapped with mapping stored in an RFID chip; however, this would rely on modification of the GP-2040 firmware per module.
 
