@@ -10,6 +10,8 @@ toc:
   sidebar: left
 ---
 
+[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
+
 # About the Summer School
 
 The project was submitted to the [pro² network+](https://prosquared.org/) [device prototyping and production summer school](https://prosquared.org/2024-summer-school); this three-day event included presentations, demos, hands-on lab-based tutorials, panels, and discussions on building refined and robust prototypes.
@@ -22,8 +24,6 @@ My project was selected for one of the [three £1000 awards by the pro² network
 # The Proposal
 
 **This research aims to democratise accessible controller production through a modular leverless controller that users can design and modify with low technical knowledge requirements; this should benefit individuals with degenerative illnesses.**
-
-[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
 
 ## Introduction
 
