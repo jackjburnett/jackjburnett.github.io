@@ -15,7 +15,11 @@ PDF: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2
 
 # About the Summer School
 
-Link: [https://prosquared.org/2024-summer-school](https://prosquared.org/2024-summer-school)
+The project was submitted to the [pro² network+](https://prosquared.org/) [device prototyping and production summer school](https://prosquared.org/2024-summer-school); this three-day event included presentations, demos, hands-on lab-based tutorials, panels, and discussions on building refined and robust prototypes.
+I attended the summer school on a sponsored place for the initial project proposal.
+During the summer school, I gained professional insight into PCB design and manufacture, component selection and sourcing, and designing for manufacturing.
+I had hands-on experience with surface mount assembly, reliable firmware, and testing through [solder:bit](https://github.com/devices-lab/solderbit-gamepad).
+Many great projects were presented over the course of the summer school, such as [Wakayima](https://prosquared.org/2024-LSS-Papers/2024-LSS-Boyd-paper.pdf) and [Print and Place Isotyping Board](https://prosquared.org/2024-LSS-Papers/2024-LSS-Child-paper.pdf), with prizes given to those that showed the greatest potential for impact.
 
 # The Idea
 
