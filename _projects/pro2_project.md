@@ -10,12 +10,6 @@ toc:
   sidebar: left
 ---
 
-# The Proposal
-
-**This research aims to democratise accessible controller production through a modular leverless controller that users can design and modify with low technical knowledge requirements; this should benefit individuals with degenerative illnesses.**
-
-[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
-
 # About the Summer School
 
 The project was submitted to the [pro² network+](https://prosquared.org/) [device prototyping and production summer school](https://prosquared.org/2024-summer-school); this three-day event included presentations, demos, hands-on lab-based tutorials, panels, and discussions on building refined and robust prototypes.
@@ -24,6 +18,12 @@ During the summer school, I gained professional insight into PCB design and manu
 I had hands-on experience with surface mount assembly, reliable firmware, and testing through [solder:bit](https://github.com/devices-lab/solderbit-gamepad).
 Many great projects were presented over the course of the summer school, such as [Wakayima](https://prosquared.org/2024-LSS-Papers/2024-LSS-Boyd-paper.pdf) and [Print and Place Isotyping Board](https://prosquared.org/2024-LSS-Papers/2024-LSS-Child-paper.pdf), with prizes given to those that showed the greatest potential for impact.
 My project was selected for one of the [three £1000 awards by the pro² network+](https://www.linkedin.com/posts/prosquaredplus_pro2summerschool2024-activity-7237388586831032321-ssCH?utm_source=share&utm_medium=member_desktop), which will be used to fund the studies and ensure end-users can receive prototypes for free.
+
+# The Proposal
+
+**This research aims to democratise accessible controller production through a modular leverless controller that users can design and modify with low technical knowledge requirements; this should benefit individuals with degenerative illnesses.**
+
+[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
 
 ## Introduction
 
