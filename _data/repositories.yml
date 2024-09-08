@@ -2,5 +2,9 @@ github_users:
   - jackjburnett
 
 github_repos:
-  - InterpretThis/LLM-Prototype
+  - jackjburnett/jackjburnett.github.io
+  - jackjburnett/VirtualLeverless
   - jackjburnett/ControllerForge
+  - jackjburnett/ControllerForgeVisualiser
+  - jackjburnett/PersonaChat
+  - InterpretThis/LLM-Prototype
