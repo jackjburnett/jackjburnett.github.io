@@ -6,6 +6,8 @@ img: assets/img/projects/ethics.jpg
 importance: 3
 category: "2024"
 related_publications: false
+toc:
+  sidebar: left
 ---
 
 PDF Version: [AI Researchers and Social Inequality]({{ site.url }}/assets/pdf/AI_Researchers_Inequality.pdf){:target="\_blank"}
