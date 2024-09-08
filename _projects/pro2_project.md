@@ -12,9 +12,9 @@ toc:
 
 # The Proposal
 
-[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
-
 **This research aims to democratise accessible controller production through a modular leverless controller that users can design and modify with low technical knowledge requirements; this should benefit individuals with degenerative illnesses.**
+
+[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
 
 # About the Summer School
 
