@@ -19,7 +19,7 @@ Link: [https://prosquared.org/2024-summer-school](https://prosquared.org/2024-su
 
 # The Idea
 
-TBC sas
+TBC sa
 
 # Future of the Study
 
