@@ -21,3 +21,8 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Justify text in projects and pages */
+.page-content p, .projects-content p {
+  text-align: justify;
+}
