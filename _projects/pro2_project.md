@@ -20,6 +20,7 @@ I attended the summer school on a sponsored place for the initial project propos
 During the summer school, I gained professional insight into PCB design and manufacture, component selection and sourcing, and designing for manufacturing.
 I had hands-on experience with surface mount assembly, reliable firmware, and testing through [solder:bit](https://github.com/devices-lab/solderbit-gamepad).
 Many great projects were presented over the course of the summer school, such as [Wakayima](https://prosquared.org/2024-LSS-Papers/2024-LSS-Boyd-paper.pdf) and [Print and Place Isotyping Board](https://prosquared.org/2024-LSS-Papers/2024-LSS-Child-paper.pdf), with prizes given to those that showed the greatest potential for impact.
+My project was selected for one of the three £1000 awards at the summer school, which will go towards funding the studies to ensure end-users can receive prototypes for free. 
 
 # The Idea
 
