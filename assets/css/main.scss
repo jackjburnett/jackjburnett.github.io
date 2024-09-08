@@ -23,6 +23,6 @@ $max-content-width: {{ site.max_width }};
 ;
 
 /* Justify text in projects and pages */
-.page-content p, .projects-content p {
+p {
   text-align: justify;
 }
