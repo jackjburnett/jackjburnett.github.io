@@ -41,7 +41,7 @@ Prior research into game controller design for individuals with degenerative ill
 
 ## Related Work
 
-While there are currently no evolving controllers, the [Xbox Adaptive Controller](https://www.xbox.com/xbox-adaptive-controller) is state-of-the-art for adaptive controllers[16]; the Xbox Adaptive Controller serves as a hub for accessible input devices, with many gamers with disabilities using the hub within their gaming setup[21].
+While there are currently no evolving controllers, the [Xbox Adaptive Controller](https://www.xbox.com/en-GB/accessories/controllers/xbox-adaptive-controller) is state-of-the-art for adaptive controllers[16]; the Xbox Adaptive Controller serves as a hub for accessible input devices, with many gamers with disabilities using the hub within their gaming setup[21].
 Anabire's case study on the Xbox Adaptive Controller[3] found that the controller was aimed towards gamers with limited mobility issues and was designed to be fully customisable; however, the controller relies on third-party modules to meet user needs and may have a financial barrier to entry for those that need the controller most[18].
 The Xbox Adaptive Controller can be adapted over time for individuals with degenerative disorders; however, many of the available add-ons for the controller are too generalised[4].
 The Xbox Adaptive Controller also assumes advanced needs and may not be suitable for individuals who are only just beginning to experience symptoms of degenerative disorders.
