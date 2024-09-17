@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Archive
-description: Notable work from the Interactive AI foundation year
+title: Interactive AI CDT Archive
+description: Notable work from the Interactive AI CDT foundation year
 img: assets/img/projects/archive.jpeg
 importance: 2
 category: archive
@@ -29,7 +29,7 @@ better persona representation. \
 PDF: [Chatbot with a Persona]({{ site.url }}/assets/pdf/Chatbot_with_a_Persona.pdf){:target="\_blank"} \
 GitHub: [PersonaChat](https://github.com/jackjburnett/PersonaChat)
 
-## MoReBikeS Submission
+## MoReBikeS
 
 Description: This paper accompanies a Kaggle submission to a repliocation of the ECML/PKDD 2015’s Model Reuse with Bike
 rental Station data (MoReBikeS) Discovery Challenge. In the competition, participants are provided with information on
@@ -40,5 +40,5 @@ knowledge by implementing linear models, trained on a year’s data for 200 stat
 Phase 3 focuses on participants combining the approaches of Phases 1 and 2 to achieve better performance within the
 task. Methods are evaluated using the Mean Absolute Error of the model on a test data set. \
 PDF: [MoReBikeS]({{ site.url }}/assets/pdf/MoReBikeS.pdf){:target="\_blank"} \
-Interactive Report: [MLP Report](https://datalore.jetbrains.com/report/static/xpFJ0NI0hLRUqjTY7AiDhW/gJfzOP9X0rRh0OeSLzSlyr) \
-ipynb: [MoReBikeS]({{ site.url }}/assets/jupyter/MoReBikeS.ipynb){:target="\_blank"}
+ipynb: [MoReBikeS]({{ site.url }}/assets/jupyter/MoReBikeS.ipynb){:target="\_blank"} \
+DataLore Report: [MLP Report](https://datalore.jetbrains.com/report/static/xpFJ0NI0hLRUqjTY7AiDhW/gJfzOP9X0rRh0OeSLzSlyr)
