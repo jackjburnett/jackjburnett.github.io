@@ -25,10 +25,19 @@
       "highlights": ["STL Generation", "User-Tailored Devices", "Hardware Democratisation"],
       "startDate": "2025-05-01",
       "endDate": "Ongoing",
-      "url": "https://jackjburnett.github.io/projects/controller_pipeline/"
+      "url": "https://jackjburnett.github.io/projects/pro2_project/"
     }
   ],
   "work": [
+    {
+      "name": "Graduate Teacher",
+      "position": "University of Bristol",
+      "url": "https://bristol.ac.uk/",
+      "startDate": "2024-09-01",
+      "endDate": "Present",
+      "summary": "Assisting the teaching and lecturing within BSc modules such as 'Interactive Devices' and 'Interaction and Society'.",
+      "highlights": ["BSc Supervision", "Interactive Devices", "Interaction and Society", "Higher Education"]
+    },
     {
       "name": "Associate Lecturer",
       "position": "Forward Futures Ltd.",
@@ -84,6 +93,15 @@
       "startDate": "2023-09-01",
       "endDate": "Present",
       "summary": "Delivering educational talks on cat welfare to children and teens."
+    },
+    {
+      "organization": "Hans Price Academy",
+      "position": "Governor",
+      "location": "Weston-super-Mare, United Kingdom",
+      "url": "https://hanspriceacademy.clf.uk/",
+      "startDate": "2024-10-01",
+      "endDate": "Present",
+      "summary": "Helping the school achieve high standards within the SEND and Career Guidance provisions."
     }
   ],
   "education": [
