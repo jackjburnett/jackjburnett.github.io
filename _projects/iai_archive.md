@@ -3,7 +3,7 @@ layout: page
 title: Interactive AI CDT Archive
 description: Notable work from the Interactive AI CDT foundation year
 img: assets/img/projects/archive.jpeg
-importance: 2
+importance: 3
 category: archive
 related_publications: false
 ---
