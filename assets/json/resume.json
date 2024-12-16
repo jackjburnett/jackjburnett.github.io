@@ -104,11 +104,19 @@
     },
     {
       "organization": "Hans Price Academy",
-      "position": "Governor",
+      "position": "SEND Link Governor",
       "url": "https://hanspriceacademy.clf.uk/",
       "startDate": "2024-10-01",
       "endDate": "Present",
       "summary": "Assisting in the strategic management and oversight of the academy and ensuring that it meets its legal and ethical responsibilities for supporting students with SEND."
+    },
+    {
+      "organization": "The Controller Project",
+      "position": "UK-Based Printer",
+      "url": "https://thecontrollerproject.com/",
+      "startDate": "2024-06-01",
+      "endDate": "Present",
+      "summary": "Printing and assembling controller modifications for UK-Based gamers with physical disabilities."
     }
   ],
   "education": [
