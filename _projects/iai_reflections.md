@@ -12,7 +12,7 @@ toc:
 
 # Summer Project Reflections
 
-**Author's Note**: The following report was initially submitted to the Interactive AI CDT as a supplementary project report. The report has been anonymised for privacy reasons.
+**Author's Note**: The following report was initially submitted to the Interactive AI CDT as a supplementary project report. The report has been anonymised for privacy reasons. \
 PDF Version: [Anonymised Summer Project Reflective Report.pdf]({{ site.url }}/assets/pdf/Anonymised_Summer_Project_Reflective_Report.pdf){:target="\_blank"}
 
 ## Introduction
@@ -190,8 +190,8 @@ Finally, I want to express my gratitude to my supervisors, the BIG lab, and the 
 
 ## Bibliography
 
-[1] Maddie Breeze. “Imposter syndrome as a public feeling”. In: Feeling academic in the neoliberal university: Feminist flights, fights and failures (2018), pp. 191–219.
-[2] Hanna Nori, Marja H Peura, and Arto Jauhiainen. “From imposter syndrome to heroic tales: Doctoral students’ backgrounds, study aims, and experiences”. In: International Journal of Doctoral Studies 15 (2020), p. 517.
-[3] Johnny Salda˜na. “Researcher, Analyze Thyself”. In: International Journal of Qualitative Methods 17.1 (2018), p. 1609406918801717. doi: 10.1177/1609406918801717. eprint: [https://doi.org/10.1177/1609406918801717](https://doi.org/10.1177/1609406918801717). url: [https://doi.org/10.1177/1609406918801717](https://doi.org/10.1177/1609406918801717).
-[4] John Ronald Reuel Tolkien. The Hobbit, or There and Back Again. London: George Allen & Unwin, 1937.
+[1] Maddie Breeze. “Imposter syndrome as a public feeling”. In: Feeling academic in the neoliberal university: Feminist flights, fights and failures (2018), pp. 191–219. \
+[2] Hanna Nori, Marja H Peura, and Arto Jauhiainen. “From imposter syndrome to heroic tales: Doctoral students’ backgrounds, study aims, and experiences”. In: International Journal of Doctoral Studies 15 (2020), p. 517. \
+[3] Johnny Salda˜na. “Researcher, Analyze Thyself”. In: International Journal of Qualitative Methods 17.1 (2018), p. 1609406918801717. doi: 10.1177/1609406918801717. eprint: [https://doi.org/10.1177/1609406918801717](https://doi.org/10.1177/1609406918801717). url: [https://doi.org/10.1177/1609406918801717](https://doi.org/10.1177/1609406918801717). \
+[4] John Ronald Reuel Tolkien. The Hobbit, or There and Back Again. London: George Allen & Unwin, 1937. \
 [5] Catherine Wilkinson. “Imposter syndrome and the accidental academic: An autoethnographic account”. In: International Journal for Academic Development 25.4 (2020), pp. 363–374.
