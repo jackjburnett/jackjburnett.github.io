@@ -6,6 +6,8 @@ img: assets/img/projects/archive.jpeg
 importance: 3
 category: archive
 related_publications: false
+toc:
+  sidebar: left
 ---
 
 ## The UX of AI
