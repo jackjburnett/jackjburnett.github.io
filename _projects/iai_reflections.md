@@ -17,7 +17,7 @@ PDF Version: [Anonymised Summer Project Reflective Report.pdf]({{ site.url }}/as
 
 ### Introduction
 
-When discussing the summer project with my initial supervisor, *Supervisor-2*, the only objective I had for the project was to ensure that it prepared me for a career in academia, allowing me to make as many crucial mistakes as possible early in my career.
+When discussing the summer project with my initial supervisor, _Supervisor-2_, the only objective I had for the project was to ensure that it prepared me for a career in academia, allowing me to make as many crucial mistakes as possible early in my career.
 I felt that the summer project was the final milestone before I could begin my academic career, so I felt it was necessary to ensure that I was well-equipped for academia, primarily due to the imposter syndrome that seemingly all academics have suffered from [1, 2,5].
 Throughout the summer project, I had many successes and failures that do not have their place within a technical dissertation; however, I believe that summarising and highlighting these learning experiences will provide better insight into how the summer project has prepared me for PhD life, which is the true goal of the project.
 
@@ -38,7 +38,7 @@ however, the academic motivations do not identify my reasoning for choosing the 
 When deciding on a topic that was suitable for my summer project, the three personal factors that I took into account were my research methods, personal motivators, and interests;
 I also wanted to find a niche within Interactive AI that was closer to HCI than AI, while also identifying the conferences and journals that would best suit the intersection of these research areas.
 
-Throughout my studies, I have always been a sporadic researcher, which was made clear when I naively proposed a PhD consisting of 12 papers to *Supervisor-2*;
+Throughout my studies, I have always been a sporadic researcher, which was made clear when I naively proposed a PhD consisting of 12 papers to _Supervisor-2_;
 due to this, I wanted to ensure that my research project consisted of smaller subprojects that I could hop between.
 Although having multiple smaller projects and systems agreed with my work style and ensured that I did not experience burnout from focusing on one project for too long, it meant that I kept finding smaller projects within each sub-project due to research gaps;
 through this project, I came to find that no HCI research project will allow researchers to focus on a single area due to the nature of working with human participants and the number of systems required to ensure successful user studies.
@@ -101,11 +101,11 @@ One of the key motivations for the summer project was testing how much I could l
 The summer project taught me the benefits and importance of making connections within academia.
 The supervision team for my research was the result of many discussions with lecturers, who in turn suggested further lecturers to discuss with and so on, which allowed for a team that was the 'best fit' in regard to their research fields and academic approaches.
 While the search for a supervision team, which I am greatly thankful for as they have already supported and developed me as a researcher in substantial ways, was lengthy, it provided me with many connections within the university;
-this search resulted in me joining the [BIG lab](https://biglab.co.uk/), the [BIG Culture lab](https://big-culture.github.io/), and the [Bristol Digital Game Lab](https://bristoldigitalgamelab.blogs.bristol.ac.uk/), alongside creating key academic links outside of my supervisory team, such as *Academic-1* and *Academic-2*.
-Joining the BIG lab had the largest impact on my research, as researchers within the lab, such as *Researcher-1*, have played a massive role in supporting the development of the summer project.
+this search resulted in me joining the [BIG lab](https://biglab.co.uk/), the [BIG Culture lab](https://big-culture.github.io/), and the [Bristol Digital Game Lab](https://bristoldigitalgamelab.blogs.bristol.ac.uk/), alongside creating key academic links outside of my supervisory team, such as _Academic-1_ and _Academic-2_.
+Joining the BIG lab had the largest impact on my research, as researchers within the lab, such as _Researcher-1_, have played a massive role in supporting the development of the summer project.
 
 Through conferences and supervisor suggestions, I also made academic connections with PhD students and lecturers in universities outside of Bristol, which helped to shape the summer project.
-*Academic-3* from the University of Bath provided key insights into getting hand data from users, which shaped the initial research direction.
+_Academic-3_ from the University of Bath provided key insights into getting hand data from users, which shaped the initial research direction.
 
 ### Mistakes
 
@@ -113,17 +113,17 @@ When I conceptualised the summer project, I stated that I wanted to allow myself
 I underestimated how many mistakes were possible in three months.
 Primarily, the key mistakes made were due to planning and time management issues; however, largely due to the support of my supervisors who mitigated potentially fatal issues the moment they identified them, these did not completely derail the project.
 Before discussing some of the key mistakes that I made, I would like to acknowledge that all three of my supervisors had highlighted that they would occur in different ways.
-*Supervisor-3* clearly identified that the goals of the summer project were unlikely to be achieved before the CHI deadline, suggesting focusing on identifying and recording the link between controller preferences and hand data.
-*Supervisor-1* did not want to limit my exploration during the summer project but emphasised that I should ensure that at least one area of the project was finished before submission.
-*Supervisor-2* also took *Supervisor-1*'s approach, and most of our meetings focused on narrowing the research scope after my sudden expansions to it.
+_Supervisor-3_ clearly identified that the goals of the summer project were unlikely to be achieved before the CHI deadline, suggesting focusing on identifying and recording the link between controller preferences and hand data.
+_Supervisor-1_ did not want to limit my exploration during the summer project but emphasised that I should ensure that at least one area of the project was finished before submission.
+_Supervisor-2_ also took _Supervisor-1_'s approach, and most of our meetings focused on narrowing the research scope after my sudden expansions to it.
 Failing to fully acknowledge the suggestions of my supervisors with respect to time frames was my biggest mistake.
 
 #### Fixating on CHI
 
 As a first-year PhD student with copious amounts of imposter syndrome, I decided that I needed to submit to CHI 2025 to prove myself as a researcher;
 this fixation, alongside the ambitious goals of the project, led to academic burnout midway through the project and unnecessary stress.
-On the week of the CHI deadline, I voiced my concerns about not submitting to *Supervisor-1*;
-*Supervisor-1* quickly put all my concerns to rest by making me realise that the fixation on CHI, alongside not telling my supervisors of this fixation, was a crucial mistake as it led to me setting unobtainable goals and caused an ever-expanding project scope increase.
+On the week of the CHI deadline, I voiced my concerns about not submitting to _Supervisor-1_;
+_Supervisor-1_ quickly put all my concerns to rest by making me realise that the fixation on CHI, alongside not telling my supervisors of this fixation, was a crucial mistake as it led to me setting unobtainable goals and caused an ever-expanding project scope increase.
 
 #### Ambitious Deadlines
 
@@ -138,7 +138,7 @@ Building on the previous point, my deadlines should have accounted for the fact 
 Although I acknowledged that I am a sporadic researcher, my deadlines did not;
 this led to many hours of unproductive procrastination, which halted research progress.
 The deadlines I set took into account the need for downtime on weekends but not the potential for illness or injury.
-*Supervisor-2* reiterated the need to allow for downtime and potential mishaps;
+_Supervisor-2_ reiterated the need to allow for downtime and potential mishaps;
 I did not fully understand the importance of this until I broke my elbow and realised the mistake of not accounting for life.
 During the break from my studies due to injury, I realised that I needed to set aside suitable time for hobbies during research projects and that my prior approach to academia was not viable in the long run.
 
@@ -164,14 +164,14 @@ however, I only communicated with my supervisors in regard to advice on the rese
 In the final weeks of the project, I found the benefit of listening to the prior experiences of my supervisors and seeking assistance in my approach to research as a whole;
 this led to the final two weeks of the project being the most productive and enjoyable of the project.
 Rather than trying to impress my supervisors in each meeting, I will now try to be open about issues that arise within my approach to research and seek their guidance on how to resolve them;
-since starting to take this approach, my imposter syndrome and research worries have been drastically reduced by conversations with *Supervisor-1* and *Supervisor-2*, so I'd like to thank them both for this.
+since starting to take this approach, my imposter syndrome and research worries have been drastically reduced by conversations with _Supervisor-1_ and _Supervisor-2_, so I'd like to thank them both for this.
 
 #### Reading Outside Computer Science
 
 While I had previously tried to use my experience as a teacher within my research, it was only during my injury that I learnt the benefit of reading philosophy and literature outside of computer science.
 Through reading the works of writers such as Kafka, Kant, and Sartre, my outlook on research has shifted dramatically, and I now approach research with a deeper sense of critical thought.
 I'm hoping that reading outside of computer science will enable me to better reflect on my research and continue to help alleviate the stresses of academia.
-When discussing their early research career, *Supervisor-3* told me that they threw themselves into Plato in the first few months, with another lecturer stating they did similar to Aristotle, so it seems that this is a common finding among those within academia.
+When discussing their early research career, _Supervisor-3_ told me that they threw themselves into Plato in the first few months, with another lecturer stating they did similar to Aristotle, so it seems that this is a common finding among those within academia.
 
 ### Closing Words
 
