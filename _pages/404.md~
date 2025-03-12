@@ -7,4 +7,4 @@ redirect: true
 ---
 
 You've been misdirected, you will teleport back to the main page within 3 seconds. If the spell fizzles, please go back to the [home page]({{ site.baseurl | prepend: site.url }}).
-{% include figure.liquid loading="eager" path="assets/img/teleport_card.png" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/teleport_circle.png" class="img-fluid rounded z-depth-1" %}
