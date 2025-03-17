@@ -19,4 +19,4 @@ Week 17: [Parametric Design with CadQuery](https://jackjburnett.notion.site/para
 
 # Other Links
 
-[UoB Notion](https://www.notion.so/jackjburnett/UoB-TSR-Outreach-189214bde84580d18389debdba62af06)
+University of Bristol Notion: [UoB TSR/Outreach Notion](https://jackjburnett.notion.site/UoB-TSR-Outreach-189214bde84580d18389debdba62af06)
