@@ -232,7 +232,12 @@
     },
     {
       "language": "French",
-      "fluency": "Learning",
+      "fluency": "Learning (B1)",
+      "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Learning (A1)",
       "icon": ""
     }
   ],
