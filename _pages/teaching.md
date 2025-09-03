@@ -37,7 +37,7 @@ nav_order: 4
       </div>
 
       <h2 class="mt-5">2024/25 Academic Year</h2>
-      
+
       <div class="card mt-4">
         <div class="card-body">
           <h3 class="card-title">Interaction and Society</h3>
@@ -71,6 +71,7 @@ nav_order: 4
         </div>
       </div>
     </div>
+
   </div>
 </div>
 
