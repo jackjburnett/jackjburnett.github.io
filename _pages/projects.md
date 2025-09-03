@@ -5,7 +5,7 @@ permalink: /projects/
 description: research projects that have had my involvement (since 2024)
 nav: true
 nav_order: 3
-display_categories: ["2024", archive]
+display_categories: ["2025", "2024", archive]
 horizontal: false
 ---
 
