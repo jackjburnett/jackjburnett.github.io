@@ -172,6 +172,13 @@
   ],
   "certificates": [
     {
+      "name": "Psychology in Action",
+      "date": "2025-04",
+      "issuer": "American Psychological Association",
+      "url": "https://credentials.edx.org/credentials/5d6887e165ae4736b01ab0ac4ce98fe3/",
+      "icon": "fa-solid fa-users"
+    },
+    {
       "name": "Google Data Analytics",
       "date": "2022-03",
       "issuer": "Google",
