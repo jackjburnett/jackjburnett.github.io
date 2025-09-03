@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-[PDF Version]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
+PDF Version: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
 
 # About the Summer School
 
