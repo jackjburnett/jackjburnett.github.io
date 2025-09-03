@@ -21,4 +21,4 @@ creating an accessible physical interface development toolkit using generative A
 
 under the supervision of [Anne Roudaut](https://anneroudaut.fr/), [Paul Marshall](https://research-information.bris.ac.uk/en/persons/paul-marshall), and [Oussama Metatla](https://www.ousmet.com/)
 
-check out my [hevy](https://hevy.com/user/jackburnett), [letterboxd](https://letterboxd.com/jackjburnett/stats/), [start.gg](https://www.start.gg/user/69ed1229), [storygraph](https://app.thestorygraph.com/stats/jackjburnett), and [volt.fm](https://volt.fm/jackjburnett)
+check out my [alltrails](https://www.alltrails.com/members/jack-burnett-24), [hevy](https://hevy.com/user/jackburnett), [letterboxd](https://letterboxd.com/jackjburnett/stats/), [start.gg](https://www.start.gg/user/69ed1229), [storygraph](https://app.thestorygraph.com/stats/jackjburnett), and [volt.fm](https://volt.fm/jackjburnett)
