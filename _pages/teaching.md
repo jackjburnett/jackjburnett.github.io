@@ -10,7 +10,33 @@ nav_order: 4
 <div class="teaching">
   <div class="row">
     <div class="col-sm-12 col-md-8">
-      <h2>2024/25 Academic Year</h2>
+      <h2>2025/26 Academic Year</h2>
+      
+      <div class="card mt-4">
+        <div class="card-body">
+          <h3 class="card-title">Interaction and Society</h3>
+          <p class="card-text">
+            <i class="fas fa-calendar-week"></i> Week TBD<br>
+            <a href="#" class="btn btn-outline-secondary mt-2" disabled>
+              <i class="fas fa-book-open"></i> Coming Soon
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <div class="card mt-4">
+        <div class="card-body">
+          <h3 class="card-title">Interactive Devices</h3>
+          <p class="card-text">
+            <i class="fas fa-calendar-week"></i> Week TBD<br>
+            <a href="#" class="btn btn-outline-secondary mt-2" disabled>
+              <i class="fas fa-cube"></i> Coming Soon
+            </a>
+          </p>
+        </div>
+      </div>
+
+      <h2 class="mt-5">2024/25 Academic Year</h2>
       
       <div class="card mt-4">
         <div class="card-body">
@@ -77,10 +103,25 @@ nav_order: 4
   text-decoration: none;
   display: inline-block;
   margin-top: 0.5rem;
+  transition: all 0.2s ease-in-out;
 }
 
 .btn-primary:hover {
   background-color: #2980b9;
+  transform: translateY(-1px);
+}
+
+.btn-outline-secondary {
+  background-color: transparent;
+  border: 1px solid #6c757d;
+  color: #6c757d;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 0.5rem;
+  cursor: not-allowed;
+  opacity: 0.7;
 }
 
 .list-group-item {
