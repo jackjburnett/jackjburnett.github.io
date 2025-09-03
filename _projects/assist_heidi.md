@@ -1,0 +1,11 @@
+---
+layout: page
+title: ASSIST HEIDI Summer School
+description: International Summer School for Accessible Gaming
+img: assets/img/projects/assist_heidi.png
+importance: 2
+category: "2025"
+related_publications: false
+---
+
+page will be populated shortly
