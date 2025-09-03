@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interactive AI CDT Reflections
-description: Reflections on my research and experiences during the Interactive AI CDT
+title: 2025 Interactive AI CDT Reflections
+description: Reflections on my research and experiences during the Interactive AI CDT Foundation Year
 img: assets/img/projects/reflections.jpeg
 importance: 2
 category: archive

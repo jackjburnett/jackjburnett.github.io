@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Interactive AI CDT Archive
+title: 2025 Interactive AI CDT Archive
 description: Notable work from 2025
 img: assets/img/projects/archive.jpeg
-importance: 3
+importance: 1
 category: archive
 related_publications: false
 ---
