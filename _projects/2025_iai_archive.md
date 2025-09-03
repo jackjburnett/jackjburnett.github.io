@@ -14,6 +14,3 @@ In July, I presented my research progress at the [Pro2 Network+](https://prosqua
 The presentation, which can be found [here]({{ site.url }}assets/pptx/Pro2_Graduate_Presentation.pptx){:target="\_blank"},
 focused on the state of the research at the time, how it fit into the 'Long Tail of Hardware', and my advice for future researchers
 based on the mistakes and lessons learnt.
-
-
-
