@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Democratised Modular Controller Production
-description: award-winning submission for Device Prototyping And Production Summer School
+description: Award-winning submission for Device Prototyping And Production Summer School
 img: assets/img/projects/pro2_project.png
 importance: 2
 category: "2024"
