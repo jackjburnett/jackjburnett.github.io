@@ -3,7 +3,8 @@ layout: page
 title: Virtual Leverless
 description: CHI Submission
 img: assets/img/projects/VirtualLeverless.png
-importance: 1
+importance: 3
+category: "2026"
 related_publications: true
 ---
 

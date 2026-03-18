@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 2024 Interactive AI CDT Archive
+title: 2024 Archive
 description: Notable work from the Interactive AI CDT foundation year
 img: assets/img/projects/2024_archive.jpeg
-importance: 4
+importance: 5
 category: archive
 related_publications: false
 ---
