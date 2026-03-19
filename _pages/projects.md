@@ -6,7 +6,7 @@ description: research projects that have had my involvement (since 2024)
 nav: true
 nav_order: 3
 display_categories: ["2026", "2025", "2024", archive]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
