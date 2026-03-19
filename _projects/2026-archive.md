@@ -15,11 +15,15 @@ As part of my application, I submitted a policy briefing on GCSE reforms, includ
 The briefing explores challenges such as subject narrowing due to staff shortages and financial barriers, disparities in attainment across socio-economic groups, and the effects of exam pressure on students and teachers.
 It also draws on international comparisons to highlight alternative approaches to secondary assessment.
 
-I also produced a separate policy briefing on accessible technology in education, which was not polished or submitted as I decided to change topics after the first draft.
+I also produced a separate policy briefing on accessible technology in education;
+this briefing was not submitted, and has not been polished as I decided to focus on GCSE reforms after first draft.
 Both briefings can be found below.
 
 GCSE Reforms Briefing: [The Impact of GCSE Reforms: Policy, Impact, and Implications]({{ site.url }}/assets/pdf/GCSE_Reforms_Policy_Briefing.pdf){:target="\_blank"}
+
 Assistive Technology Briefing: [Accessible Technology for Disabled People]({{ site.url }}/assets/pdf/Accessible_Technology_Policy_Briefing.pdf){:target="\_blank"}
+
+---
 
 ## Are We Doing Enough? CHI '26 Workshop Submission
 
@@ -32,11 +36,16 @@ Using game controllers as a case study, it outlines the potential for such tools
 
 Paper: To be linked after workshop
 
+---
+
 ## Dorkbot Talk
 
 To be added
 
+---
+
 ## Pre-CHI 2026 Website
 
 As a publicity chair I created the [Pre-CHI 2026 website](https://south-west-uk-pre-chi.github.io/), based on [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
+The website managed to top Google searches for 'pre chi' and 'pre chi 2026 uk', with almost 1000 impressions in the two months leading to the event.
 A pirate theme version was also created, found by ['pirating the talks'](https://south-west-uk-pre-chi.github.io/1726/) on the main website.
