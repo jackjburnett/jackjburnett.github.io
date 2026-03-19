@@ -17,6 +17,8 @@ AI design, discuss principles for designing trustworthy and human-centred AI, an
 interactive AI design. \
 PDF: [The UX of AI]({{ site.url }}/assets/pdf/The_UX_of_AI.pdf){:target="\_blank"}
 
+---
+
 ## Chatbot with a Persona
 
 Description: This study uses modern LLMs to attempt the ConvAI2 competition. The competition’s goal was to create a
@@ -28,6 +30,8 @@ findings indicating that increasing temperature increases the naturalness of out
 better persona representation. \
 PDF: [Chatbot with a Persona]({{ site.url }}/assets/pdf/Chatbot_with_a_Persona.pdf){:target="\_blank"} \
 GitHub: [PersonaChat](https://github.com/jackjburnett/PersonaChat)
+
+---
 
 ## MoReBikeS
 

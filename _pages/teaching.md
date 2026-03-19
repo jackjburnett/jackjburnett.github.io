@@ -16,9 +16,8 @@ nav_order: 4
         <div class="card-body">
           <h3 class="card-title">Interaction and Society</h3>
           <p class="card-text">
-            <i class="fas fa-calendar-week"></i> Week TBD<br>
             <a href="#" class="btn btn-outline-secondary mt-2" disabled>
-              <i class="fas fa-book-open"></i> Coming Soon
+              <i class="fa-regular fa-face-frown"></i> No content taught due to research commitments
             </a>
           </p>
         </div>
@@ -28,9 +27,8 @@ nav_order: 4
         <div class="card-body">
           <h3 class="card-title">Interactive Devices</h3>
           <p class="card-text">
-            <i class="fas fa-calendar-week"></i> Week TBD<br>
             <a href="#" class="btn btn-outline-secondary mt-2" disabled>
-              <i class="fas fa-cube"></i> Coming Soon
+              <i class="fa-regular fa-face-frown"></i> No content taught due to research commitments
             </a>
           </p>
         </div>
