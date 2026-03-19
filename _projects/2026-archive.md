@@ -35,3 +35,8 @@ Paper: To be linked after workshop
 ## Dorkbot Talk
 
 To be added
+
+## Pre-CHI 2026 Website
+
+As a publicity chair I created the [Pre-CHI 2026 website](https://south-west-uk-pre-chi.github.io/), based on [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
+A pirate theme version was also created, found by ['pirating the talks'](https://south-west-uk-pre-chi.github.io/1726/) on the main website.
