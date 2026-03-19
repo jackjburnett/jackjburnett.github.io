@@ -2,13 +2,13 @@
 layout: page
 title: 2026 Archive
 description: Notable work from 2026
-img: assets/img/projects/2025_archive.jpeg
+img: assets/img/projects/2026_archive.jpeg
 importance: 1
 category: archive
 related_publications: false
 ---
 
-# Department for Education UKRI Policy Internship Briefings
+## Department for Education UKRI Policy Internship Briefings
 
 I was accepted for a UKRI Policy Internship with the Department for Education.
 As part of my application, I submitted a policy briefing on GCSE reforms, including changes to assessment structures, compulsory resits, and equity considerations.
@@ -21,7 +21,7 @@ Both briefings can be found below.
 GCSE Reforms Briefing: [The Impact of GCSE Reforms: Policy, Impact, and Implications]({{ site.url }}/assets/pdf/GCSE_Reforms_Policy_Briefing.pdf){:target="\_blank"}
 Assistive Technology Briefing: [Accessible Technology for Disabled People]({{ site.url }}/assets/pdf/Accessible_Technology_Policy_Briefing.pdf){:target="\_blank"}
 
-# Are We Doing Enough? CHI '26 Workshop Submission
+## Are We Doing Enough? CHI '26 Workshop Submission
 
 I have an accepted position paper at the _[Are We Doing Enough?](https://are-we-doing-enough-workshop.github.io/)_ workshop.
 The paper argues for the growing importance of automated hardware design tools in enabling non-technical users to create customised devices, particularly in the contexts of accessibility and gaming.
@@ -32,6 +32,6 @@ Using game controllers as a case study, it outlines the potential for such tools
 
 Paper: To be linked after workshop
 
-# Dorkbot Talk
+## Dorkbot Talk
 
 To be added
