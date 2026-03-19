@@ -31,3 +31,7 @@ This position paper highlights how automated design tools can help bridge this g
 Using game controllers as a case study, it outlines the potential for such tools to reduce costs, increase adoption, and contribute to a more inclusive, user-centred hardware ecosystem.
 
 Paper: To be linked after workshop
+
+# Dorkbot Talk
+
+To be added
