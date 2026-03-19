@@ -15,9 +15,11 @@ The presentation focuses on the state of the research at the time, how the resea
 and advice for future researchers based on the mistakes and lessons learnt during the first year of research. \
 Presentation: [Creating an Accessible Physical Interface Development Toolkit]({{ site.url }}/assets/pptx/Pro2_Graduate_Presentation.pptx){:target="\_blank"}
 
-## Pre-CHI Website
+## Pre-CHI 2025
 
-
+As a Volunteer Chair I helped organise the Pre-CHI 2025 event.
+I also created the [virtual programme](https://south-west-uk-pre-chi.github.io/2025/) for the event, based on [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
 
 ## BIG Culture Website
 
+As part of BIG Culture I created and maintained the [BIG Culture website](https://big-culture.github.io/), using a heavily modified version of [al-folio](https://github.com/alshedivat/al-folio).
