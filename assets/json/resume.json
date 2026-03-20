@@ -249,16 +249,16 @@
       "icon": "fa-solid fa-computer"
     },
     {
-      "name": "Video Games (FGC)",
-      "icon": "fa-solid fa-laptop"
+      "name": "Video Games (FGC and MMORPGs)",
+      "icon": "fa-solid fa-gamepad"
     },
     {
       "name": "Movies",
       "icon": "fa-solid fa-film"
     },
     {
-      "name": "DIY Controllers",
-      "icon": "fa-solid fa-gamepad"
+      "name": "Gym and Fitness",
+      "icon": "fa-solid fa-dumbbell"
     },
     {
       "name": "Research",
