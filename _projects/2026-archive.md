@@ -38,6 +38,18 @@ Paper: To be linked after workshop
 
 ---
 
+## Developmentally Safe Generative AI Environments for Youth CHI '26 Workshop Submission
+
+On the Sunday before CHI I met one of the organisers for the _[Youth-GenAI Safety](https://yamanyume.github.io/youthsafety/)_ workshop, who invited me to join the workshop.
+I create a short position paper overnight that highlights developmental risks of GenAI usage by youths, and suggests ways to reshape education for GenAI.
+
+This position paper highlights the dual-developmental trajectory created by youth–GenAI interaction: one that can amplify reasoning, reflection, and intellectual agency, and another that risks cognitive offloading, superficial engagement, and dependency.
+I argue that schools and education systems must design learning environments that treat GenAI use as a means to scaffold reasoning rather than a cognitive substitute, by reshaping assessments and increasing teacher and student involvement in youth-AI education research.
+
+Paper: To be linked after workshop
+
+---
+
 ## Dorkbot Talk
 
 To be added
