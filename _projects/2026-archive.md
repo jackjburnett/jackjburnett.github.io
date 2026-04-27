@@ -34,7 +34,7 @@ As demand for customised hardware continues to rise, many users remain excluded 
 This position paper highlights how automated design tools can help bridge this gap by lowering barriers to entry and empowering novice designers.
 Using game controllers as a case study, it outlines the potential for such tools to reduce costs, increase adoption, and contribute to a more inclusive, user-centred hardware ecosystem.
 
-Paper: To be linked after workshop
+Paper: [Enabling Non-Technical Users to Create Customised Hardware]({{ site.url }}/assets/pdf/AWDE.pdf){:target="\_blank"}
 
 ---
 
@@ -46,7 +46,7 @@ I create a short position paper overnight that highlights developmental risks of
 This position paper highlights the dual-developmental trajectory created by youth–GenAI interaction: one that can amplify reasoning, reflection, and intellectual agency, and another that risks cognitive offloading, superficial engagement, and dependency.
 I argue that schools and education systems must design learning environments that treat GenAI use as a means to scaffold reasoning rather than a cognitive substitute, by reshaping assessments and increasing teacher and student involvement in youth-AI education research.
 
-Paper: To be linked after workshop
+Paper: [From Knowledge Retention to Critical Reasoning]({{ site.url }}/assets/pdf/GenAI_for_Youth.pdf){:target="\_blank"}
 
 ---
 
