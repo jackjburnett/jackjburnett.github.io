@@ -57,7 +57,8 @@ As part of my role as a widening participation tutor, I was invited to deliver a
 The session introduced students to AI. Through interactive activities, students explored how machines learn via supervised and unsupervised learning, attempting to cluster and analyse data themselves before comparing their results with AI systems.
 The lesson also examined real-world applications, the benefits of AI, issues such as bias, and what responsible AI use looks like in practice.
 
-Presentation: [AI, an Introduction]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
+Presentation: [AI, an Introduction PowerPoint]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
+
 Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/projects/futurequest)
 
 ---

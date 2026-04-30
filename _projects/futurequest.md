@@ -12,8 +12,13 @@ In this lesson, students will explore the fundamentals of Artificial Intelligenc
 # Resources
 
 [Presentation]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
+
 [Ads for Grouping Spreadsheet]({{ site.url }}/assets/xlsx/Ads_for_Grouping.xlsx){:target="\_blank"}
+
 [People for Grouping Spreadsheet]({{ site.url }}/assets/xlsx/People_for_Grouping.xlsx){:target="\_blank"}
+
 [Adverts for Grouping Zip-file]({{ site.url }}/assets/zip/adverts.zip){:target="\_blank"}
+
+---
 
 [OneDrive Link](https://uob-my.sharepoint.com/:f:/g/personal/so23974_bristol_ac_uk/IgCK0va4hptrTblbEsGu79aQAUv9nPOUd7Lb8z_EhDWMVtQ?e=BJNpHV){:target="\_blank"}
