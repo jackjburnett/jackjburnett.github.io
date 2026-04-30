@@ -13,11 +13,13 @@ In this lesson, students will explore the fundamentals of Artificial Intelligenc
 
 [Presentation]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
 
-[Ads for Grouping Spreadsheet]({{ site.url }}/assets/xlsx/Ads_for_Grouping.xlsx){:target="\_blank"}
+[Adverts for Grouping Spreadsheet]({{ site.url }}/assets/xlsx/Ads_for_Grouping.xlsx){:target="\_blank"}
+
+[Adverts for Grouping Images]({{ site.url }}/assets/zip/adverts.zip){:target="\_blank"}
 
 [People for Grouping Spreadsheet]({{ site.url }}/assets/xlsx/People_for_Grouping.xlsx){:target="\_blank"}
 
-[Adverts for Grouping Zip-file]({{ site.url }}/assets/zip/adverts.zip){:target="\_blank"}
+[People for Grouping Image]({{ site.url }}/assets/img/projects/futurequest/people.png){:target="\_blank"}
 
 ---
 

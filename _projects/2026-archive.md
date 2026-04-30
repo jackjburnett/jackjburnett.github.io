@@ -50,7 +50,7 @@ Paper: [From Knowledge Retention to Critical Reasoning]({{ site.url }}/assets/pd
 
 ---
 
-## FutureQuest Session: AI, an Introduction
+## FutureQuest Session
 
 As part of my role as a widening participation tutor, I was invited to deliver a 75-minute introductory session on artificial intelligence to year 10 students through the [FutureQuest](https://www.futurequest.org.uk/) programme.
 
