@@ -50,6 +50,18 @@ Paper: [From Knowledge Retention to Critical Reasoning]({{ site.url }}/assets/pd
 
 ---
 
+## FutureQuest Session: AI, an Introduction
+
+As part of my role as a widening participation tutor, I was invited to deliver a 75-minute introductory session on artificial intelligence to year 10 students through the [FutureQuest](https://www.futurequest.org.uk/) programme.
+
+The session introduced students to AI. Through interactive activities, students explored how machines learn via supervised and unsupervised learning, attempting to cluster and analyse data themselves before comparing their results with AI systems.
+The lesson also examined real-world applications, the benefits of AI, issues such as bias, and what responsible AI use looks like in practice.
+
+Presentation: [AI, an Introduction]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
+Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/projects/futurequest)
+
+---
+
 ## Dorkbot Talk
 
 To be added
