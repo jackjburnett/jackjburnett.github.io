@@ -8,4 +8,8 @@ category: archive
 related_publications: false
 ---
 
-To be added to over time
+## Weird Qualifications and Licences
+
+Ordained Dudeist Priest at [Dudeism](https://dudeism.com/), the Church of the Latter-Day Dude
+
+<a href="https://www.dudeism.com" target="_blank"><img alt="I am an Ordained Dudeist Priest" src="https://www.dudeism.com/Images/Im-an-ordained-dudeist-priest.gif" border="0" title="I am an Ordained Dudeist Priest" /></a>
