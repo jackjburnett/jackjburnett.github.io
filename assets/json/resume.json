@@ -30,6 +30,15 @@
   ],
   "work": [
     {
+      "name": "UKRI Policy Intern",
+      "position": "Department for Education",
+      "url": "https://www.gov.uk/government/organisations/department-for-education",
+      "startDate": "2026-05-11",
+      "endDate": "Present",
+      "summary": "Working with the Behavioural Insights Unit.",
+      "highlights": ["Education Policy", "Co-Design", "Policy Research", "User-centered Design"]
+    },
+    {
       "name": "Graduate Teacher",
       "position": "University of Bristol",
       "url": "https://bristol.ac.uk/",
@@ -45,7 +54,7 @@
       "startDate": "2024-10-01",
       "endDate": "Present",
       "summary": " Planning and delivering seminars, workshops and other academic sessions to young people aged 11-18 to promote university engagement.",
-      "highlights": ["Educational Outreach", "Teaching"]
+      "highlights": ["Educational Outreach", "Teaching", "Secondary Education"]
     },
     {
       "name": "Associate Lecturer",
@@ -177,6 +186,13 @@
       "issuer": "American Psychological Association",
       "url": "https://credentials.edx.org/credentials/5d6887e165ae4736b01ab0ac4ce98fe3/",
       "icon": "fa-solid fa-users"
+    },
+    {
+      "name": "School Health for Children and Adolescents",
+      "date": "2022-05",
+      "issuer": "University of Colorado",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/XU5KEXABLYXP/",
+      "icon": "fa-solid fa-school"
     },
     {
       "name": "Google Data Analytics",
