@@ -3,7 +3,7 @@ layout: page
 title: AI Researchers and Social Inequality
 description: Proposed responsible AI article submission for The Conversation
 img: assets/img/projects/ethics.jpg
-importance: 3
+importance: 1
 category: "2024"
 related_publications: false
 toc:
