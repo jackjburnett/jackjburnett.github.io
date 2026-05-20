@@ -50,12 +50,6 @@ Paper: [From Knowledge Retention to Critical Reasoning]({{ site.url }}/assets/pd
 
 ---
 
-## Playing with Constraints Workshop
-
-To be added
-
----
-
 ## FutureQuest Session
 
 As part of my role as a widening participation tutor, I was invited to deliver a 75-minute introductory session on artificial intelligence to year 10 students through the [FutureQuest](https://www.futurequest.org.uk/) programme.
@@ -75,6 +69,25 @@ To be added
 
 ---
 
+## Playing with Constraints Workshop
+
+To be added
+
+---
+
+## Designing with Impaired Technologies WiP
+
+To be added
+
+---
+
+## Pro2 Device Prototyping Summer School Reviewer
+
+As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was invited to serve as a reviewer for this year’s submissions.
+In this role, I help evaluate proposed projects and support the selection of promising ideas in device prototyping and applied research.
+
+---
+
 ## Pre-CHI 2026 Website
 
 As a publicity chair I created the [Pre-CHI 2026 website](https://south-west-uk-pre-chi.github.io/2026/), based on [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
@@ -83,6 +96,6 @@ A pirate theme version was also created, found by ['pirating the talks'](https:/
 
 ---
 
-## BIG Talk Revivial
+## BIG Talk Revival
 
 To be added
