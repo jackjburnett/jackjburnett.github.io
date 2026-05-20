@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Customising Handheld Controllers
+title: Customising Gaming Controllers
 description: CHI Submission
 img:
 importance: 2
