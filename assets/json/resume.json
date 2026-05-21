@@ -20,9 +20,9 @@
   },
   "projects": [
     {
-      "name": "Building a Pipeline for Parametrically Generating Controllers",
+      "name": "Co-Designing Controllers: A Parametric Pipeline for Customisation of Gaming Input Devices",
       "summary": "Summary TBD",
-      "highlights": ["STL Generation", "User-Tailored Devices", "Hardware Democratisation"],
+      "highlights": ["STL Generation", "Co-Design", "Hardware Democratisation", "Accessibility and Inclusive Design"],
       "startDate": "2025-05-01",
       "endDate": "Ongoing",
       "url": "https://jackjburnett.github.io/projects/pro2_project/"
@@ -36,7 +36,7 @@
       "startDate": "2026-05-11",
       "endDate": "Present",
       "summary": "Working with the Behavioural Insights Unit.",
-      "highlights": ["Education Policy", "Co-Design", "Policy Research", "User-centered Design"]
+      "highlights": ["Education Policy", "Co-Design", "Data Analysis", "Policy Research", "AI Policy Design"]
     },
     {
       "name": "Graduate Teacher",
