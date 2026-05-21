@@ -21,7 +21,7 @@
   "projects": [
     {
       "name": "Co-Designing Controllers: A Parametric Pipeline for Customisation of Gaming Input Devices",
-      "summary": "Summary TBD",
+      "summary": "PhD Thesis focusing on the impact and need for democratised controller development, which attempts to enable this design space through the use of parametric design and N-of-1 co-design studies.",
       "highlights": ["STL Generation", "Co-Design", "Hardware Democratisation", "Accessibility and Inclusive Design"],
       "startDate": "2025-05-01",
       "endDate": "Ongoing",
