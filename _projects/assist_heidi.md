@@ -6,6 +6,7 @@ img: assets/img/projects/assist_heidi.png
 importance: 2
 category: "2025"
 related_publications: false
+redirect: https://www.technikum-wien.at/en/assist-heidi-summer-school-2025/#results
 ---
 
-page will be populated shortly
+Results of the summer school available [here](https://www.technikum-wien.at/en/assist-heidi-summer-school-2025/#results).
