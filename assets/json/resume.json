@@ -20,9 +20,9 @@
   },
   "projects": [
     {
-      "name": "Building a Pipeline for Parametrically Generating Controllers",
-      "summary": "Summary TBD",
-      "highlights": ["STL Generation", "User-Tailored Devices", "Hardware Democratisation"],
+      "name": "Co-Designing Controllers: A Parametric Pipeline for Customisation of Gaming Input Devices",
+      "summary": "PhD Thesis focusing on the impact and need for democratised controller development, which attempts to enable this design space through the use of parametric design and N-of-1 co-design studies.",
+      "highlights": ["STL Generation", "Co-Design", "Hardware Democratisation", "Accessibility and Inclusive Design"],
       "startDate": "2025-05-01",
       "endDate": "Ongoing",
       "url": "https://jackjburnett.github.io/projects/pro2_project/"
@@ -35,8 +35,8 @@
       "url": "https://www.gov.uk/government/organisations/department-for-education",
       "startDate": "2026-05-11",
       "endDate": "Present",
-      "summary": "Working with the Behavioural Insights Unit.",
-      "highlights": ["Education Policy", "Co-Design", "Policy Research", "User-centered Design"]
+      "summary": "Supporting within the Behavioural Insights Unit with designing and delivering co-creation workshops, alongside conducting literature reviews and data analysis to inform policy design. Contributed to AI Strategy development work.",
+      "highlights": ["Education Policy", "Co-Design", "Data Analysis", "Policy Research", "AI Policy Design"]
     },
     {
       "name": "Graduate Teacher",
@@ -44,7 +44,7 @@
       "url": "https://bristol.ac.uk/",
       "startDate": "2024-09-01",
       "endDate": "Present",
-      "summary": "Assisting the teaching and lecturing within BSc modules such as 'Interactive Devices' and 'Interaction and Society'.",
+      "summary": "Assisting the teaching and lecturing within BSc modules such as 'Interactive Devices' and 'Interaction and Society'. Assisted with the supervision of BSc dissertations.",
       "highlights": ["BSc Supervision", "Interactive Devices", "Interaction and Society", "Higher Education"]
     },
     {
