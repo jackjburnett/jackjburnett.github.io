@@ -10,8 +10,9 @@ related_publications: false
 
 ## Princédex
 
-A collectible archive of Prince. 
+A collectible archive of Prince.
 Discover a random photo every four hours, build your collection, and uncover rare memories from hundreds of photos spanning years of his life.
+
 Start collecting now at: [jackjburnett.github.io/Princedex/](https://jackjburnett.github.io/Princedex/)
 
 ## Weird Qualifications and Licences
