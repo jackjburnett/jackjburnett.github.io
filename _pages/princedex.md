@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /princedex/
+permalink: /Princedex/
 title: Princédex
 nav: false
 nav_order: 7
-redirect: https://jackjburnett.github.io/Princedex/
+redirect: https://jackjburnett.github.io/princedex/
 ---
 
-You didn't capitalize the 'P': [jackjburnett.github.io/Princedex/](https://jackjburnett.github.io/Princedex/)
+[jackjburnett.github.io/princedex/](https://jackjburnett.github.io/princedex/)
