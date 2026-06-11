@@ -100,4 +100,7 @@ A pirate theme version was also created, found by ['pirating the talks'](https:/
 
 ## BIG Talk Revival
 
-To be added
+As part of the BIG Lab meeting co-organiser team, I helped revive the BIG Talk series in 2026, coordinating external speaker invitations and logistics for the Bristol Interaction Group.
+
+The first revived talk welcomed [Professor Steve Hodges](https://www.linkedin.com/posts/compscibristol_were-delighted-to-welcome-professor-steve-activity-7460333888901656577-_Dyo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPa2_cB2Im_vhSfYqaW_qJznGXgC3LBXTY)
+(Lancaster University) to the University of Bristol on 21 May 2026, where he presented on the BBC micro:bit and its journey from research concept to a global educational platform.
