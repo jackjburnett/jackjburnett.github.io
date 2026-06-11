@@ -17,7 +17,7 @@ nav_order: 4
           <h3 class="card-title">Interaction and Society</h3>
           <p class="card-text">
             <a href="#" class="btn btn-outline-secondary mt-2" disabled>
-              <i class="fa-regular fa-face-frown"></i> No content taught due to research commitments
+              <i class="fa-regular fa-face-frown"></i> Only assisted in lecturing due to research commitments
             </a>
           </p>
         </div>
@@ -28,7 +28,7 @@ nav_order: 4
           <h3 class="card-title">Interactive Devices</h3>
           <p class="card-text">
             <a href="#" class="btn btn-outline-secondary mt-2" disabled>
-              <i class="fa-regular fa-face-frown"></i> No content taught due to research commitments
+              <i class="fa-regular fa-face-frown"></i> Only assisted in lecturing due to research commitments
             </a>
           </p>
         </div>
