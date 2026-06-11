@@ -227,18 +227,6 @@
       "keywords": ["3D Printing", "Parametric Design", "PCB Creation", "Routing"]
     }
   ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Learning (B1)",
-      "icon": ""
-    }
-  ],
   "certificates": [
     {
       "name": "Psychology in Action",
@@ -267,6 +255,18 @@
       "issuer": "Georgia Institute of Technology",
       "url": "https://credentials.edx.org/credentials/ad949f82922c4abaac7a8ca5119f137e/",
       "icon": "fa-solid fa-keyboard"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Learning (B1)",
+      "icon": ""
     }
   ],
   "interests": [
