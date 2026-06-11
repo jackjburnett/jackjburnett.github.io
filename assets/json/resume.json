@@ -5,7 +5,7 @@
     "image": "",
     "email": "jack.burnett@bristol.ac.uk",
     "url": "https://jackjburnett.github.io/",
-    "summary": "Currently completing a PhD in Interactive AI at the University of Bristol, with a focus on democratised accessible controller development using parametric design and N-of-1 studies. Previous experience includes a background in secondary computing education, college lecturing, and higher education.",
+    "summary": "PhD researcher in Interactive AI at the University of Bristol, developing democratised pipelines for accessible gaming controller design through parametric modelling and N-of-1 co-design. Qualified teacher with experience across secondary, further, and higher education.",
     "location": {
       "city": "Bristol",
       "countryCode": "UK"
@@ -37,6 +37,7 @@
       "studyType": "MSc",
       "startDate": "2021-09-01",
       "endDate": "2023-08-01",
+      "score": "Distinction",
       "courses": ["Project Management", "Digital Design and Development", "Designing the User Experience", "Machine Learning"]
     },
     {
@@ -47,6 +48,7 @@
       "studyType": "PGCE",
       "startDate": "2020-09-01",
       "endDate": "2021-06-01",
+      "score": "Pass with QTS",
       "courses": ["Pedagogical Approaches", "Educational Policy", "Evidence-based Practice"]
     },
     {
@@ -57,22 +59,23 @@
       "studyType": "BSc",
       "startDate": "2017-09-01",
       "endDate": "2020-07-01",
+      "score": "Upper Second Class",
       "courses": ["Human-computer Interaction", "Intelligent Agents", "Safety-Critical Systems", "Computer Systems Architecture"]
     }
   ],
   "publications": [
     {
-      "name": "Paper to be published",
-      "publisher": "Added on publication",
+      "name": "Title withheld pending review",
+      "publisher": "Under review",
       "releaseDate": "2026-10-01",
       "url": "",
-      "summary": "Abstract to be added on publication"
+      "summary": "Abstract available on acceptance."
     }
   ],
   "projects": [
     {
       "name": "Co-Designing Controllers: A Pipeline for Customisation of Gaming Input Devices using Generative AI and Parametric Design",
-      "summary": "PhD Thesis focusing on the impact and need for democratised controller development, which attempts to enable this design space through the use of parametric design and N-of-1 co-design studies.",
+      "summary": "PhD Thesis focusing on the impact and need for democratised controller development, which enables this design space through the use of parametric design and N-of-1 co-design studies.",
       "highlights": ["STL Generation", "Co-Design", "Hardware Democratisation", "Accessibility and Inclusive Design"],
       "startDate": "2025-05-01",
       "endDate": "Ongoing",
@@ -81,8 +84,8 @@
   ],
   "work": [
     {
-      "name": "UKRI Policy Intern",
-      "position": "Department for Education",
+      "name": "Department for Education",
+      "position": "UKRI Policy Intern",
       "url": "https://www.gov.uk/government/organisations/department-for-education",
       "startDate": "2026-05-11",
       "endDate": "Present",
@@ -90,8 +93,8 @@
       "highlights": ["Education Policy", "Co-Design", "Data Analysis", "Policy Research", "AI Policy Design"]
     },
     {
-      "name": "Graduate Teacher",
-      "position": "University of Bristol",
+      "name": "University of Bristol",
+      "position": "Graduate Teacher",
       "url": "https://bristol.ac.uk/",
       "startDate": "2024-09-01",
       "endDate": "Present",
@@ -99,17 +102,17 @@
       "highlights": ["BSc Supervision", "Interactive Devices", "Interaction and Society", "Higher Education"]
     },
     {
-      "name": "Widening Participation Tutor",
-      "position": "University of Bristol",
+      "name": "University of Bristol",
+      "position": "Widening Participation Tutor",
       "url": "https://bristol.ac.uk/",
       "startDate": "2024-10-01",
       "endDate": "Present",
-      "summary": " Planning and delivering seminars, workshops and other academic sessions to young people aged 11-18 to promote university engagement.",
+      "summary": "Planning and delivering seminars, workshops and other academic sessions to young people aged 11-18 to promote university engagement.",
       "highlights": ["Educational Outreach", "Teaching", "Secondary Education"]
     },
     {
-      "name": "Associate Lecturer",
-      "position": "Forward Futures Ltd.",
+      "name": "Forward Futures Ltd.",
+      "position": "Associate Lecturer",
       "url": "https://forwardfutures.co.uk/",
       "startDate": "2023-09-01",
       "endDate": "2024-01-01",
@@ -117,8 +120,8 @@
       "highlights": ["Network Security", "Cloud Solutions", "Further Education"]
     },
     {
-      "name": "Lecturer in Computer Science",
-      "position": "Weston College",
+      "name": "Weston College",
+      "position": "Lecturer in Computer Science",
       "url": "https://www.weston.ac.uk/",
       "startDate": "2021-08-01",
       "endDate": "2023-09-01",
@@ -126,8 +129,8 @@
       "highlights": ["Data Analysis", "Python", "SQL", "Cyber Security", "Higher Education", "Further Education"]
     },
     {
-      "name": "Computing Teacher",
-      "position": "Cabot Learning Federation",
+      "name": "Cabot Learning Federation",
+      "position": "Computing Teacher",
       "url": "https://winterstokehundredacademy.clf.uk/",
       "startDate": "2021-07-15",
       "endDate": "2021-12-01",
@@ -135,8 +138,8 @@
       "highlights": ["Computer Science", "Python", "Esports", "Safeguarding", "Secondary Education", "Further Education"]
     },
     {
-      "name": "Student Teacher",
-      "position": "Caldicot Comprehensive School",
+      "name": "Caldicot Comprehensive School",
+      "position": "Student Teacher",
       "url": "https://www.caldicotschool.com/",
       "startDate": "2021-04-01",
       "endDate": "2021-06-01",
@@ -144,8 +147,8 @@
       "highlights": ["Computer Science", "Python", "Secondary Education", "Further Education"]
     },
     {
-      "name": "Student Teacher",
-      "position": "Kingsmead School Wiveliscombe",
+      "name": "Kingsmead School Wiveliscombe",
+      "position": "Student Teacher",
       "url": "https://www.kingsmead-school.com/",
       "startDate": "2020-12-01",
       "endDate": "2021-03-01",
@@ -159,7 +162,7 @@
       "date": "2024-07-12",
       "awarder": "pro² network",
       "url": "https://prosquared.org/2024-summer-school/",
-      "summary": "Among the papers submitted to the summer school, five £200 awards and three £1,000 awards were granted to those that showed the greatest potential for impact. My paper on democratised modular controller production was selected for a £1,000 award. The funding will go toward the further development of device prototypes."
+      "summary": "Paper selected for a £1,000 award for demonstrated potential for impact, from a pool of submissions to the summer school. Funding directed toward further development of device prototypes."
     }
   ],
   "volunteering": [
@@ -185,7 +188,7 @@
       "url": "https://thecontrollerproject.com/",
       "startDate": "2024-06-01",
       "endDate": "Present",
-      "summary": "Printing and assembling controller modifications for UK-Based gamers with physical disabilities."
+      "summary": "Printing and assembling controller modifications for UK-based gamers with physical disabilities, directly supporting the accessibility research focus of ongoing PhD work."
     }
   ],
   "skills": [
@@ -193,7 +196,7 @@
       "name": "Human-Computer Interaction",
       "level": "Adept",
       "icon": "fa-solid fa-book",
-      "keywords": ["Co-Design", "User-Centred Design", "Ethics and Responsible of AI", "Accessibility"]
+      "keywords": ["Co-Design", "User-Centred Design", "Ethics and Responsible AI", "Accessibility"]
     },
     {
       "name": "AI and Data Science",
@@ -219,7 +222,6 @@
       "icon": "fa-solid fa-code",
       "keywords": ["Front-end (HTML, CSS)", "Back-end (PHP & Python)", "JavaScript", "UX Design"]
     },
-
     {
       "name": "Hardware",
       "level": "Adept",
