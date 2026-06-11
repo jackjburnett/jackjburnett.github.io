@@ -18,6 +18,57 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "University of Bristol",
+      "location": "Bristol, United Kingdom",
+      "url": "https://bristol.ac.uk/",
+      "area": "Interactive AI",
+      "studyType": "PhD",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
+      "courses": ["Responsible AI", "Interaction Design", "Applied Data Science", "Machine Learning Paradigms"]
+    },
+    {
+      "institution": "University of the West of England",
+      "location": "Bristol, United Kingdom",
+      "url": "https://www.uwe.ac.uk/",
+      "area": "Information Technology",
+      "studyType": "MSc",
+      "startDate": "2021-09-01",
+      "endDate": "2023-08-01",
+      "courses": ["Project Management", "Digital Design and Development", "Designing the User Experience", "Machine Learning"]
+    },
+    {
+      "institution": "University of the West of England",
+      "location": "Bristol, United Kingdom",
+      "url": "https://www.uwe.ac.uk/",
+      "area": "Secondary Computing",
+      "studyType": "PGCE",
+      "startDate": "2020-09-01",
+      "endDate": "2021-06-01",
+      "courses": ["Pedagogical Approaches", "Educational Policy", "Evidence-based Practice"]
+    },
+    {
+      "institution": "University of Bath",
+      "location": "Bath, United Kingdom",
+      "url": "https://www.bath.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2017-09-01",
+      "endDate": "2020-07-01",
+      "courses": ["Human-computer Interaction", "Intelligent Agents", "Safety-Critical Systems", "Computer Systems Architecture"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Paper to be published",
+      "publisher": "Added on publication",
+      "releaseDate": "2026-10-01",
+      "url": "",
+      "summary": "Abstract to be added on publication"
+    }
+  ],
   "projects": [
     {
       "name": "Co-Designing Controllers: A Pipeline for Customisation of Gaming Input Devices using Generative AI and Parametric Design",
@@ -102,6 +153,15 @@
       "highlights": ["Computer Science", "Python", "iMedia", "Secondary Education", "Further Education"]
     }
   ],
+  "awards": [
+    {
+      "title": "Device Prototyping And Production Summer School Award",
+      "date": "2024-07-12",
+      "awarder": "pro² network",
+      "url": "https://prosquared.org/2024-summer-school/",
+      "summary": "Among the papers submitted to the summer school, five £200 awards and three £1,000 awards were granted to those that showed the greatest potential for impact. My paper on democratised modular controller production was selected for a £1,000 award. The funding will go toward the further development of device prototypes."
+    }
+  ],
   "volunteering": [
     {
       "organization": "Cats Protection",
@@ -128,55 +188,55 @@
       "summary": "Printing and assembling controller modifications for UK-Based gamers with physical disabilities."
     }
   ],
-  "education": [
+  "skills": [
     {
-      "institution": "University of Bristol",
-      "location": "Bristol, United Kingdom",
-      "url": "https://bristol.ac.uk/",
-      "area": "Interactive AI",
-      "studyType": "PhD",
-      "startDate": "2023-09-01",
-      "endDate": "Present",
-      "courses": ["Responsible AI", "Interaction Design", "Applied Data Science", "Machine Learning Paradigms"]
+      "name": "Human-Computer Interaction",
+      "level": "Adept",
+      "icon": "fa-solid fa-book",
+      "keywords": ["Co-Design", "User-Centred Design", "Ethics and Responsible of AI", "Accessibility"]
     },
     {
-      "institution": "University of the West of England",
-      "location": "Bristol, United Kingdom",
-      "url": "https://www.uwe.ac.uk/",
-      "area": "Information Technology",
-      "studyType": "MSc",
-      "startDate": "2021-09-01",
-      "endDate": "2023-08-01",
-      "courses": ["Project Management", "Digital Design and Development", "Designing the User Experience", "Machine Learning"]
+      "name": "AI and Data Science",
+      "level": "Adept",
+      "icon": "fa-solid fa-database",
+      "keywords": ["Human-in-the-Loop AI", "Data Analysis", "Data Visualisation", "Machine Learning"]
     },
     {
-      "institution": "University of the West of England",
-      "location": "Bristol, United Kingdom",
-      "url": "https://www.uwe.ac.uk/",
-      "area": "Secondary Computing",
-      "studyType": "PGCE",
-      "startDate": "2020-09-01",
-      "endDate": "2021-06-01",
-      "courses": ["Pedagogical Approaches", "Educational Policy", "Evidence-based Practice"]
+      "name": "Teaching",
+      "level": "Adept",
+      "icon": "fa-solid fa-chalkboard-user",
+      "keywords": ["Higher Education", "Further Education", "Secondary School", "Adult"]
     },
     {
-      "institution": "University of Bath",
-      "location": "Bath, United Kingdom",
-      "url": "https://www.bath.ac.uk/",
-      "area": "Computer Science",
-      "studyType": "BSc",
-      "startDate": "2017-09-01",
-      "endDate": "2020-07-01",
-      "courses": ["Human-computer Interaction", "Intelligent Agents", "Safety-Critical Systems", "Computer Systems Architecture"]
+      "name": "Programming",
+      "level": "Adept",
+      "icon": "fa-solid fa-computer",
+      "keywords": ["Python", "Java", "C++", "C#"]
+    },
+    {
+      "name": "Web Development",
+      "level": "Adept",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Front-end (HTML, CSS)", "Back-end (PHP & Python)", "JavaScript", "UX Design"]
+    },
+
+    {
+      "name": "Hardware",
+      "level": "Adept",
+      "icon": "fa-solid fa-gamepad",
+      "keywords": ["3D Printing", "Parametric Design", "PCB Creation", "Routing"]
     }
   ],
-  "awards": [
+  "languages": [
     {
-      "title": "Device Prototyping And Production Summer School Award",
-      "date": "2024-07-12",
-      "awarder": "pro² network",
-      "url": "https://prosquared.org/2024-summer-school/",
-      "summary": "Among the papers submitted to the summer school, five £200 awards and three £1,000 awards were granted to those that showed the greatest potential for impact. My paper on democratised modular controller production was selected for a £1,000 award. The funding will go toward the further development of device prototypes."
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Learning (B1)",
+      "icon": ""
     }
   ],
   "certificates": [
@@ -207,56 +267,6 @@
       "issuer": "Georgia Institute of Technology",
       "url": "https://credentials.edx.org/credentials/ad949f82922c4abaac7a8ca5119f137e/",
       "icon": "fa-solid fa-keyboard"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Adept",
-      "icon": "fa-solid fa-computer",
-      "keywords": ["Python", "Java", "C++", "C#"]
-    },
-    {
-      "name": "Teaching",
-      "level": "Adept",
-      "icon": "fa-solid fa-chalkboard-user",
-      "keywords": ["Higher Education", "Further Education", "Secondary School", "Adult"]
-    },
-    {
-      "name": "Data Science",
-      "level": "Adept",
-      "icon": "fa-solid fa-database",
-      "keywords": ["Data Visualisation", "Data Analysis", "SQL", "Machine Learning"]
-    },
-    {
-      "name": "Web Development",
-      "level": "Adept",
-      "icon": "fa-solid fa-code",
-      "keywords": ["Front-end (HTML, CSS)", "Back-end (PHP & Python)", "JavaScript", "UX Design"]
-    },
-    {
-      "name": "Research",
-      "level": "Adept",
-      "icon": "fa-solid fa-book",
-      "keywords": ["Ethics", "Human-Computer Interaction", "Impact of AI", "Interaction and Society"]
-    },
-    {
-      "name": "Hardware",
-      "level": "Adept",
-      "icon": "fa-solid fa-gamepad",
-      "keywords": ["3D Printing", "Parametric Design", "PCB Creation", "Routing"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "Learning (B1)",
-      "icon": ""
     }
   ],
   "interests": [
