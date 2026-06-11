@@ -40,7 +40,7 @@ Paper: [Enabling Non-Technical Users to Create Customised Hardware]({{ site.url 
 
 ---
 
-## Developmentally Safe Generative AI Environments for Youth CHI '26 Workshop Submission
+## Developmentally Safe GenAI Environments for Youth CHI '26 Workshop Submission
 
 On the Sunday before CHI I met one of the organisers for the _[Youth-GenAI Safety](https://yamanyume.github.io/youthsafety/)_ workshop, who invited me to join the workshop.
 I wrote a short position paper overnight that highlights developmental risks of GenAI usage by youths, and suggests ways to reshape education for GenAI.
