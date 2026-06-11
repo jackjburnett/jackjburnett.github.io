@@ -2,7 +2,7 @@
 layout: page
 title: Keepin' It Real
 description: CHI Play '26 Workshop on Authenticity in LLM-Based NPCs
-img:
+img: assets/img/projects/keeping-it-real.png
 importance: 2
 category: "2026"
 related_publications: true
