@@ -12,7 +12,7 @@ profile:
   #  <p>123 your address street</p>
   #  <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -20,4 +20,4 @@ creating an accessible physical interface development toolkit using generative A
 
 under the supervision of [Anne Roudaut](https://anneroudaut.fr/), [Paul Marshall](https://research-information.bris.ac.uk/en/persons/paul-marshall), and [Oussama Metatla](https://www.ousmet.com/)
 
-check out my [alltrails](https://www.alltrails.com/members/jack-burnett-24), [backloggd](https://backloggd.com/u/jackburnett), [cagematch](https://www.cagematch.net/r/?id=68&page=3&username=jackburnett), [hevy](https://hevy.com/user/jackburnett), [letterboxd](https://letterboxd.com/jackjburnett/stats/), [start.gg](https://www.start.gg/user/69ed1229), [storygraph](https://app.thestorygraph.com/stats/jackjburnett), and [volt.fm](https://volt.fm/jackjburnett)
+things I track: [alltrails](https://www.alltrails.com/members/jack-burnett-24), [backloggd](https://backloggd.com/u/jackburnett), [cagematch](https://www.cagematch.net/r/?id=68&page=3&username=jackburnett), [hevy](https://hevy.com/user/jackburnett), [letterboxd](https://letterboxd.com/jackjburnett/stats/), [start.gg](https://www.start.gg/user/69ed1229), [storygraph](https://app.thestorygraph.com/stats/jackjburnett), [strava](https://strava.app.link/31JITpIzT3b), and [volt.fm](https://volt.fm/jackjburnett)
