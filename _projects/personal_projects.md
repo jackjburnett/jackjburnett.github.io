@@ -15,6 +15,10 @@ Open a pack ever hours, build your collection, and uncover memories from hundred
 
 Start collecting now at: [jackjburnett.github.io/princedex/](https://jackjburnett.github.io/princedex/)
 
+## Main Event
+
+A 2D fighting game in development using [Godot](https://godotengine.org/). Playable prototypes will be released when ready.
+
 ## Weird Qualifications and Licences
 
 [BARBICIDE Certified](https://certifications.barbicide.com/verify/7A572CFAA5-7A572C5E67-7A51B06594/)
