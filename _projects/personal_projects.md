@@ -15,6 +15,12 @@ Open a pack ever hours, build your collection, and uncover memories from hundred
 
 Start collecting now at: [jackjburnett.github.io/princedex/](https://jackjburnett.github.io/princedex/)
 
+## Train the Finish
+
+A workout generator that maps wrestling finishers to targeted strength exercises. Pick a move, filter by available equipment, and generate a personalised workout designed around the muscles that drive the technique. Export routines to Hevy (requires Pro) or save workouts as reference images.
+
+Train now at: [jackjburnett.github.io/train-the-finish/](https://jackjburnett.github.io/train-the-finish)
+
 ## Main Event
 
 A 2D fighting game in development using [Godot](https://godotengine.org/). Playable prototypes will be released when ready.
