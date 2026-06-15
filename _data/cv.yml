@@ -68,6 +68,24 @@ cv:
           - Safety-Critical Systems
           - Computer Systems Architecture
 
+    Publications:
+      - title: Title withheld pending review
+        publisher: Under review
+        releaseDate: 2026-10-01
+        url: ""
+        summary: Abstract available on acceptance.
+
+    Projects:
+      - name: "Co-Designing Controllers: A Pipeline for Customisation of Gaming Input Devices using Generative AI and Parametric Design"
+        start_date: 2025-05-01
+        end_date: Ongoing
+        summary: PhD Thesis focusing on the impact and need for democratised controller development, which enables this design space through the use of parametric design and N-of-1 co-design studies.
+        highlights:
+          - STL Generation
+          - Co-Design
+          - Hardware Democratisation
+          - Accessibility and Inclusive Design
+
     Experience:
       - company: Department for Education
         position: UKRI Policy Intern
@@ -169,24 +187,6 @@ cv:
           - Secondary Education
           - Further Education
 
-    Publications:
-      - title: Title withheld pending review
-        publisher: Under review
-        releaseDate: 2026-10-01
-        url: ""
-        summary: Abstract available on acceptance.
-
-    Projects:
-      - name: "Co-Designing Controllers: A Pipeline for Customisation of Gaming Input Devices using Generative AI and Parametric Design"
-        start_date: 2025-05-01
-        end_date: Ongoing
-        summary: PhD Thesis focusing on the impact and need for democratised controller development, which enables this design space through the use of parametric design and N-of-1 co-design studies.
-        highlights:
-          - STL Generation
-          - Co-Design
-          - Hardware Democratisation
-          - Accessibility and Inclusive Design
-
     Awards:
       - title: Device Prototyping And Production Summer School Award
         date: 2024-07-12
@@ -194,7 +194,7 @@ cv:
         url: https://prosquared.org/2024-summer-school/
         summary: Paper selected for a £1,000 award for demonstrated potential for impact, from a pool of submissions to the summer school. Funding directed toward further development of device prototypes.
 
-    Volunteer:
+    Volunteering:
       - company: Cats Protection
         position: Educational Speaker
         url: https://www.cats.org.uk/

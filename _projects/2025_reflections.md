@@ -10,7 +10,7 @@ toc:
   sidebar: left
 ---
 
-## 2025 Reflections
+## Why I wrote this
 
 After writing the 2024 summer project reflections, I found that analysing a year with the blessing of hindsight helps a lot in future planning.
 While I felt I had covered all bases with the 'lessons learnt' discussion of 2024, what I really did was identify ways to delay an inevitable burnout.
@@ -24,10 +24,10 @@ _Before I begin, I should note that those around me had a few _'I told you so'_ 
 
 This will be slowly written up, so please be patient.
 
-### The Crash and Burn(out)
+## The Crash and Burn(out)
 
-### The Slow Middle
+## The Slow Middle
 
-### Regrounding
+## Regrounding
 
-### A Return to What Matters
+## A Return to What Matters
