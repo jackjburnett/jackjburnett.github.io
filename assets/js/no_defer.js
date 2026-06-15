@@ -8,12 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     // only select tables that are not inside news, card, archive, or code blocks
-    if (
-      !table.closest('[class*="news"]') &&
-      !table.closest('[class*="card"]') &&
-      !table.closest('[class*="archive"]') &&
-      !table.closest("code")
-    ) {
+    if (!table.closest('[class*="news"]') && !table.closest('[class*="card"]') && !table.closest('[class*="archive"]') && !table.closest("code")) {
       // make table use bootstrap-table
       table.setAttribute("data-toggle", "table");
       table.classList.add("table-hover");

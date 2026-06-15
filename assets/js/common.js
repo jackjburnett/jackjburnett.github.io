@@ -55,8 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
       contentSelector: ".post",
       headingSelector: "h1, h2, h3",
       ignoreSelector: "[data-toc-skip]",
-      collapseDepth:
-        collapseDepth === undefined || collapseDepth === "" ? (collapse === "auto" ? 6 : 99) : Number(collapseDepth),
+      collapseDepth: collapseDepth === undefined || collapseDepth === "" ? (collapse === "auto" ? 6 : 99) : Number(collapseDepth),
       headingsOffset: navbarHeight,
       scrollSmoothOffset: -navbarHeight,
     });
