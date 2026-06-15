@@ -277,6 +277,12 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color);
   }
 
+  @media (min-width: 576px) {
+    .navbar-collapse-main {
+      justify-content: flex-end;
+    }
+  }
+
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
 
@@ -1085,7 +1091,17 @@ nav[data-toggle="toc"] {
 }
 
 #toc-sidebar {
+  --toc-active-color: #{$blue-color};
   z-index: 1;
+
+  .toc-link.is-active-link,
+  .toc-link:hover {
+    color: var(--toc-active-color);
+
+    &::before {
+      background-color: var(--toc-active-color);
+    }
+  }
 }
 
 .echarts {

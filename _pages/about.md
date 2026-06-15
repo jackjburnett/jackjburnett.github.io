@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-creating an accessible physical interface development toolkit using generative AI and parametric design
+creating an accessible physical interface development toolkit using co-design and parametric design
 
 under the supervision of [Anne Roudaut](https://anneroudaut.fr/), [Paul Marshall](https://research-information.bris.ac.uk/en/persons/paul-marshall), and [Oussama Metatla](https://www.ousmet.com/)
 

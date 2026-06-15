@@ -3,7 +3,7 @@ layout: page
 title: Customising Gaming Controllers
 description: CHI Submission
 img:
-importance: 2
+importance: 1
 category: "2026"
 related_publications: true
 ---
