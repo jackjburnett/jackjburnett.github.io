@@ -180,7 +180,6 @@
         - name: "Co-Designing Controllers: A Pipeline for Customisation of Gaming Input Devices using Generative AI and Parametric Design"
           start_date: 2025-05-01
           end_date: Ongoing
-          url: https://jackjburnett.github.io/projects/pro2_project/
           summary: PhD Thesis focusing on the impact and need for democratised controller development, which enables this design space through the use of parametric design and N-of-1 co-design studies.
           highlights:
             - STL Generation

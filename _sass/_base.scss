@@ -367,9 +367,24 @@ ul.task-list input[type="checkbox"] {
   border: 0;
   background-color: inherit;
   color: var(--global-text-color);
+  min-width: 2rem;
 
   &:hover {
     color: var(--global-hover-color);
+  }
+}
+
+.toggle-container {
+  flex: 0 0 auto;
+}
+
+// Font Awesome 7 does not define the old al-folio system-theme icon class.
+.fa-half-sun-moon {
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+
+  &::before {
+    content: "\f042";
   }
 }
 

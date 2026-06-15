@@ -84,12 +84,16 @@ let applyTheme = () => {
 };
 
 let setHighlight = (theme) => {
+  const highlightLight = document.getElementById("highlight_theme_light");
+  const highlightDark = document.getElementById("highlight_theme_dark");
+  if (!highlightLight || !highlightDark) return;
+
   if (theme == "dark") {
-    document.getElementById("highlight_theme_light").media = "none";
-    document.getElementById("highlight_theme_dark").media = "";
+    highlightLight.media = "none";
+    highlightDark.media = "";
   } else {
-    document.getElementById("highlight_theme_dark").media = "none";
-    document.getElementById("highlight_theme_light").media = "";
+    highlightDark.media = "none";
+    highlightLight.media = "";
   }
 };
 
@@ -239,6 +243,7 @@ let initTheme = () => {
   // Add event listener to the theme toggle button.
   document.addEventListener("DOMContentLoaded", function () {
     const mode_toggle = document.getElementById("light-toggle");
+    if (!mode_toggle) return;
 
     mode_toggle.addEventListener("click", function () {
       toggleThemeSetting();
