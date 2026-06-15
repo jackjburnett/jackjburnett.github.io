@@ -195,25 +195,19 @@ cv:
         summary: Paper selected for a £1,000 award for demonstrated potential for impact, from a pool of submissions to the summer school. Funding directed toward further development of device prototypes.
 
     Volunteering:
-      - company: Cats Protection
-        position: Educational Speaker
+      - name: Educational Speaker, Cats Protection
         url: https://www.cats.org.uk/
-        start_date: 2023-09-01
-        end_date: Present
-        summary: Ambassador for Cats Protection, raising awareness of the charity, enhancing children’s understanding of feline welfare, and providing information sessions for local groups.
+        date: 2023-09-01 - Present
+        summary: Ambassador for Cats Protection, raising awareness of the charity, enhancing children's understanding of feline welfare, and providing information sessions for local groups.
 
-      - company: Hans Price Academy
-        position: SEND Link Governor
+      - name: SEND Link Governor, Hans Price Academy
         url: https://hanspriceacademy.clf.uk/
-        start_date: 2024-10-01
-        end_date: Present
+        date: 2024-10-01 - Present
         summary: Assisting in the strategic management and oversight of the academy and ensuring that it meets its legal and ethical responsibilities for supporting students with SEND.
 
-      - company: The Controller Project
-        position: UK-Based Printer
+      - name: UK-Based Printer, The Controller Project
         url: https://thecontrollerproject.com/
-        start_date: 2024-06-01
-        end_date: Present
+        date: 2024-06-01 - Present
         summary: Printing and assembling controller modifications for UK-based gamers with physical disabilities, directly supporting the accessibility research focus of ongoing PhD work.
 
     Skills:
@@ -269,18 +263,22 @@ cv:
       - name: Psychology in Action
         date: 2025-04
         issuer: American Psychological Association
+        url: https://credentials.edx.org/credentials/5d6887e165ae4736b01ab0ac4ce98fe3/
 
       - name: School Health for Children and Adolescents
         date: 2022-05
         issuer: University of Colorado
+        url: https://www.coursera.org/account/accomplishments/specialization/XU5KEXABLYXP/
 
       - name: Google Data Analytics
         date: 2022-03
         issuer: Google
+        url: https://www.credly.com/badges/53a43abc-a62f-4cba-b673-2ec154189605
 
       - name: Human-Computer Interaction
         date: 2021-06
         issuer: Georgia Institute of Technology
+        url: https://credentials.edx.org/credentials/ad949f82922c4abaac7a8ca5119f137e/
 
     Languages:
       - name: English
