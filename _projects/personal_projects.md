@@ -6,6 +6,8 @@ img: assets/img/projects/xoblob.jpeg
 importance: 6
 category: archive
 related_publications: false
+toc:
+  sidebar: left
 ---
 
 ## Princédex
