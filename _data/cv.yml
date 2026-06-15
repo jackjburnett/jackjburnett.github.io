@@ -195,19 +195,25 @@ cv:
         summary: Paper selected for a £1,000 award for demonstrated potential for impact, from a pool of submissions to the summer school. Funding directed toward further development of device prototypes.
 
     Volunteering:
-      - name: Educational Speaker, Cats Protection
+      - company: Cats Protection
+        position: Educational Speaker
         url: https://www.cats.org.uk/
-        date: 2023-09-01 - Present
+        start_date: 2023-09-01
+        end_date: Present
         summary: Ambassador for Cats Protection, raising awareness of the charity, enhancing children's understanding of feline welfare, and providing information sessions for local groups.
 
-      - name: SEND Link Governor, Hans Price Academy
+      - company: Hans Price Academy
+        position: SEND Link Governor
         url: https://hanspriceacademy.clf.uk/
-        date: 2024-10-01 - Present
+        start_date: 2024-10-01
+        end_date: Present
         summary: Assisting in the strategic management and oversight of the academy and ensuring that it meets its legal and ethical responsibilities for supporting students with SEND.
 
-      - name: UK-Based Printer, The Controller Project
+      - company: The Controller Project
+        position: UK-Based Printer
         url: https://thecontrollerproject.com/
-        date: 2024-06-01 - Present
+        start_date: 2024-06-01
+        end_date: Present
         summary: Printing and assembling controller modifications for UK-based gamers with physical disabilities, directly supporting the accessibility research focus of ongoing PhD work.
 
     Skills:
