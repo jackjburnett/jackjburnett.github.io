@@ -218,7 +218,7 @@ cv:
 
     Skills:
       - name: Human-Computer Interaction
-        level: Adept
+        level: Researcher
         keywords:
           - Co-Design
           - User-Centred Design
@@ -226,7 +226,7 @@ cv:
           - Accessibility
 
       - name: AI and Data Science
-        level: Adept
+        level: Researcher
         keywords:
           - Human-in-the-Loop AI
           - Data Analysis
@@ -234,7 +234,7 @@ cv:
           - Machine Learning
 
       - name: Teaching
-        level: Adept
+        level: Qualified
         keywords:
           - Higher Education
           - Further Education
@@ -242,7 +242,7 @@ cv:
           - Adult
 
       - name: Programming
-        level: Adept
+        level: Junior
         keywords:
           - Python
           - Java
@@ -250,7 +250,7 @@ cv:
           - C#
 
       - name: Web Development
-        level: Adept
+        level: Hobbyist
         keywords:
           - Front-end (HTML, CSS)
           - Back-end (PHP & Python)
@@ -258,7 +258,7 @@ cv:
           - UX Design
 
       - name: Hardware
-        level: Adept
+        level: Hobbyist
         keywords:
           - 3D Printing
           - Parametric Design
