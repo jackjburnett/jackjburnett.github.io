@@ -8,6 +8,7 @@ const exists = (relPath) => fs.existsSync(path.join(root, relPath));
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 
 const failures = [];
+const hasAcceptedLocalOverrides = exists(".al-folio-overrides.yml") || exists(".al-folio-overrides.yaml");
 
 const packageJson = JSON.parse(read("package.json"));
 const scripts = packageJson.scripts || {};
@@ -61,20 +62,22 @@ if (/gem 'al_math',\s*:git =>/.test(gemfile)) {
   failures.push("`Gemfile` must not use git-branch pin for `al_math`; use released gem version.");
 }
 
-for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
-  if (exists(forbiddenPath)) {
-    failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
+if (!hasAcceptedLocalOverrides) {
+  for (const forbiddenPath of ["_includes", "_layouts", "_sass", "_scripts", "assets/tailwind", "tailwind.config.js", "assets/webfonts"]) {
+    if (exists(forbiddenPath)) {
+      failures.push(`Starter must not own core component path \`${forbiddenPath}\`; move ownership to the corresponding gem.`);
+    }
   }
-}
 
-for (const forbiddenGlobPath of [
-  "assets/fonts/academicons.woff",
-  "assets/fonts/academicons.ttf",
-  "assets/fonts/scholar-icons.woff",
-  "assets/fonts/scholar-icons.ttf",
-]) {
-  if (exists(forbiddenGlobPath)) {
-    failures.push(`Starter must not own icon runtime artifact \`${forbiddenGlobPath}\`; icon ownership belongs to al_icons.`);
+  for (const forbiddenGlobPath of [
+    "assets/fonts/academicons.woff",
+    "assets/fonts/academicons.ttf",
+    "assets/fonts/scholar-icons.woff",
+    "assets/fonts/scholar-icons.ttf",
+  ]) {
+    if (exists(forbiddenGlobPath)) {
+      failures.push(`Starter must not own icon runtime artifact \`${forbiddenGlobPath}\`; icon ownership belongs to al_icons.`);
+    }
   }
 }
 
