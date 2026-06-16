@@ -10,20 +10,28 @@ toc:
   sidebar: left
 ---
 
+## Cosmic Cocktail
+
+A web application that generates a cocktail based on visible constellations. The constellations and cocktails are currently AI-generated. I plan to manually refine the constellations and work with bartender friends to improve the cocktail recipes over time.
+
+Generate a cocktail: [jackjburnett.github.io/cosmic-cocktail/](https://jackjburnett.github.io/cosmic-cocktail/)
+
+---
+
+# Paper Ghosts
+
+Create found poetry from some of my favourite classic literature and books, sourced from [Project Gutenberg](https://www.gutenberg.org/).
+
+Create a found poem: [jackjburnett.github.io/paper-ghosts/](https://jackjburnett.github.io/paper-ghosts/)
+
+---
+
 ## Princédex
 
 A collectible archive of Prince.
 Open a pack every hour, build your collection, and uncover memories from hundreds of photos and edits spanning his life.
 
 Start collecting now at: [jackjburnett.github.io/princedex/](https://jackjburnett.github.io/princedex/)
-
----
-
-## Cosmic Cocktail
-
-A web application that generates a cocktail based on visible constellations. The constellations and cocktails are currently AI-generated. I plan to manually refine the constellations and work with bartender friends to improve the cocktail recipes over time.
-
-Generate a cocktail: [jackjburnett.github.io/cosmic-cocktail/](https://jackjburnett.github.io/cosmic-cocktail/)
 
 ---
 
