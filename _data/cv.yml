@@ -2,7 +2,7 @@ cv:
   name: Jack Burnett
   label: PhD Student
   email: jack.burnett@bristol.ac.uk
-  location: Bristol, United Kingdom
+  location: Bristol, UK
   image: ""
   summary: PhD researcher in Interactive AI at the University of Bristol, focused on democratising accessible hardware design through parametric modelling and co-design. Committed to responsible and inclusive technology, with experience spanning AI policy, public engagement, and education across secondary, further, and higher settings. Longer-term interests in AI ethics and technology policy.
 
@@ -15,7 +15,7 @@ cv:
   sections:
     Education:
       - institution: University of Bristol
-        location: Bristol, United Kingdom
+        location: Bristol, UK
         url: https://bristol.ac.uk/
         area: Interactive AI
         studyType: PhD
@@ -28,7 +28,7 @@ cv:
           - Machine Learning Paradigms
 
       - institution: University of the West of England
-        location: Bristol, United Kingdom
+        location: Bristol, UK
         url: https://www.uwe.ac.uk/
         area: Information Technology
         studyType: MSc
@@ -42,7 +42,7 @@ cv:
           - Machine Learning
 
       - institution: University of the West of England
-        location: Bristol, United Kingdom
+        location: Bristol, UK
         url: https://www.uwe.ac.uk/
         area: Secondary Computing
         studyType: PGCE
@@ -55,7 +55,7 @@ cv:
           - Evidence-based Practice
 
       - institution: University of Bath
-        location: Bath, United Kingdom
+        location: Bath, UK
         url: https://www.bath.ac.uk/
         area: Computer Science
         studyType: BSc
@@ -89,7 +89,7 @@ cv:
     Experience:
       - company: Department for Education
         position: UKRI Policy Intern
-        location: London, United Kingdom
+        location: London, UK
         url: https://www.gov.uk/government/organisations/department-for-education
         start_date: 2026-05-11
         end_date: Present
@@ -104,7 +104,7 @@ cv:
       - company: University of Bristol
         position: Graduate Teacher
         url: https://bristol.ac.uk/
-        location: Bristol, United Kingdom
+        location: Bristol, UK
         start_date: 2024-09-01
         end_date: Present
         summary: Assisting the teaching and lecturing within BSc modules such as 'Interactive Devices' and 'Interaction and Society'. Assisted with the supervision of BSc dissertations.
@@ -116,7 +116,7 @@ cv:
 
       - company: University of Bristol
         position: Widening Participation Tutor
-        location: Bristol, United Kingdom
+        location: Bristol, UK
         url: https://bristol.ac.uk/
         start_date: 2024-10-01
         end_date: Present
@@ -127,7 +127,7 @@ cv:
           - Secondary Education
 
       - company: Forward Futures Ltd.
-        location: Weston-super-Mare, United Kingdom
+        location: Weston-super-Mare, UK
         position: Associate Lecturer
         url: https://forwardfutures.co.uk/
         start_date: 2023-09-01
@@ -141,7 +141,7 @@ cv:
       - company: Weston College
         position: Lecturer in Computer Science
         url: https://www.weston.ac.uk/
-        location: Weston-super-Mare, United Kingdom
+        location: Weston-super-Mare, UK
         start_date: 2021-08-01
         end_date: 2023-09-01
         summary: Teaching across BTEC, T-Level, and BSc courses within computing. Primarily taught units within data analysis and software engineering.
@@ -156,7 +156,7 @@ cv:
       - company: Cabot Learning Federation
         position: Computing Teacher
         url: https://winterstokehundredacademy.clf.uk/
-        location: Weston-super-Mare, United Kingdom
+        location: Weston-super-Mare, UK
         start_date: 2021-07-15
         end_date: 2021-12-01
         summary: Teaching computer science and DT for years 7-9, alongside A-Level computer science and BTEC Esports for years 12-13. Tutor for a year 7 group.
@@ -170,7 +170,7 @@ cv:
 
       - company: Caldicot Comprehensive School
         position: Student Teacher
-        location: Caldicot, United Kingdom
+        location: Caldicot, UK
         url: https://www.caldicotschool.com/
         start_date: 2021-04-01
         end_date: 2021-06-01
@@ -184,7 +184,7 @@ cv:
       - company: Kingsmead School Wiveliscombe
         position: Student Teacher
         url: https://www.kingsmead-school.com/
-        location: Wiveliscombe, United Kingdom
+        location: Wiveliscombe, UK
         start_date: 2020-12-01
         end_date: 2021-03-01
         summary: Teaching computer science for years 7-10, alongside BTEC iMedia science for year 10.
@@ -198,12 +198,14 @@ cv:
     Awards:
       - title: Device Prototyping And Production Summer School Award
         date: 2024-07-12
+        location: Lancaster, UK
         awarder: pro² network
         url: https://prosquared.org/2024-summer-school/
         summary: Paper selected for a £1,000 award for demonstrated potential for impact, from a pool of submissions to the summer school. Funding directed toward further development of device prototypes.
 
     Volunteering:
       - company: Cats Protection
+        location: South West, UK
         position: Educational Speaker
         url: https://www.cats.org.uk/
         start_date: 2023-09-01
@@ -212,6 +214,7 @@ cv:
 
       - company: Hans Price Academy
         position: SEND Link Governor
+        location: Weston-super-Mare, UK
         url: https://hanspriceacademy.clf.uk/
         start_date: 2024-10-01
         end_date: Present
@@ -220,6 +223,7 @@ cv:
       - company: The Controller Project
         position: UK-Based Printer
         url: https://thecontrollerproject.com/
+        location: UK
         start_date: 2024-06-01
         end_date: Present
         summary: Printing and assembling controller modifications for UK-based gamers with physical disabilities, directly supporting the accessibility research focus of ongoing PhD work.
