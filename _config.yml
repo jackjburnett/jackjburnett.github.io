@@ -278,7 +278,7 @@ plugins:
 # Sitemap settings
 defaults:
   - scope:
-      path: "assets"
+      path: "assets/**/*.pdf"
     values:
       sitemap: false
 
