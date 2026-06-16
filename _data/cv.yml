@@ -89,6 +89,7 @@ cv:
     Experience:
       - company: Department for Education
         position: UKRI Policy Intern
+        location: London, United Kingdom
         url: https://www.gov.uk/government/organisations/department-for-education
         start_date: 2026-05-11
         end_date: Present
@@ -103,6 +104,7 @@ cv:
       - company: University of Bristol
         position: Graduate Teacher
         url: https://bristol.ac.uk/
+        location: Bristol, United Kingdom
         start_date: 2024-09-01
         end_date: Present
         summary: Assisting the teaching and lecturing within BSc modules such as 'Interactive Devices' and 'Interaction and Society'. Assisted with the supervision of BSc dissertations.
@@ -114,6 +116,7 @@ cv:
 
       - company: University of Bristol
         position: Widening Participation Tutor
+        location: Bristol, United Kingdom
         url: https://bristol.ac.uk/
         start_date: 2024-10-01
         end_date: Present
@@ -124,6 +127,7 @@ cv:
           - Secondary Education
 
       - company: Forward Futures Ltd.
+        location: Weston-super-Mare, United Kingdom
         position: Associate Lecturer
         url: https://forwardfutures.co.uk/
         start_date: 2023-09-01
@@ -137,6 +141,7 @@ cv:
       - company: Weston College
         position: Lecturer in Computer Science
         url: https://www.weston.ac.uk/
+        location: Weston-super-Mare, United Kingdom
         start_date: 2021-08-01
         end_date: 2023-09-01
         summary: Teaching across BTEC, T-Level, and BSc courses within computing. Primarily taught units within data analysis and software engineering.
@@ -151,6 +156,7 @@ cv:
       - company: Cabot Learning Federation
         position: Computing Teacher
         url: https://winterstokehundredacademy.clf.uk/
+        location: Weston-super-Mare, United Kingdom
         start_date: 2021-07-15
         end_date: 2021-12-01
         summary: Teaching computer science and DT for years 7-9, alongside A-Level computer science and BTEC Esports for years 12-13. Tutor for a year 7 group.
@@ -164,6 +170,7 @@ cv:
 
       - company: Caldicot Comprehensive School
         position: Student Teacher
+        location: Caldicot, United Kingdom
         url: https://www.caldicotschool.com/
         start_date: 2021-04-01
         end_date: 2021-06-01
@@ -177,6 +184,7 @@ cv:
       - company: Kingsmead School Wiveliscombe
         position: Student Teacher
         url: https://www.kingsmead-school.com/
+        location: Wiveliscombe, United Kingdom
         start_date: 2020-12-01
         end_date: 2021-03-01
         summary: Teaching computer science for years 7-10, alongside BTEC iMedia science for year 10.
