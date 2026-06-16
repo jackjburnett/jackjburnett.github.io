@@ -1,0 +1,34 @@
+{% comment %}
+  Local CV skills renderer. Supports RenderCV-compatible `highlights` as well as
+  legacy JSONResume-style `keywords`.
+{% endcomment %}
+
+<div class="card-text font-weight-light">
+  {% for entry in entries %}
+    {% assign skill_items = entry.keywords | default: entry.highlights %}
+    <div class="skill-item">
+      {% if entry.icon %}
+        <i class="{{ entry.icon }}"></i>
+      {% endif %}
+      <strong>
+        {{- entry.name -}}
+        {%- if entry.level %} ({{ entry.level }}){% endif %}:</strong
+      >
+      {% if skill_items %}
+        {% for keyword in skill_items %}
+          {% if forloop.last %}
+            {{ keyword }}
+          {% else %}
+            {{ keyword }},
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  .skill-item {
+    padding: 0.5rem 0;
+  }
+</style>

@@ -1,0 +1,31 @@
+{% comment %}
+  Local CV interests renderer. Supports RenderCV-compatible `highlights` as well
+  as legacy JSONResume-style `keywords`.
+{% endcomment %}
+
+<div class="card-text font-weight-light">
+  {% for entry in entries %}
+    {% assign interest_items = entry.keywords | default: entry.highlights %}
+    <div class="interest-item">
+      {% if entry.icon %}
+        <i class="{{ entry.icon }}"></i>
+      {% endif %}
+      <strong>{{ entry.name }}:</strong>
+      {% if interest_items %}
+        {% for keyword in interest_items %}
+          {% if forloop.last %}
+            {{ keyword }}
+          {% else %}
+            {{ keyword }},
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  .interest-item {
+    padding: 0.5rem 0;
+  }
+</style>
