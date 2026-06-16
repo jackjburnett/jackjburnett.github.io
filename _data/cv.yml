@@ -294,14 +294,24 @@ cv:
         summary: Learning (B1)
 
     Interests:
-      - name: Programming
-      - name: Video Games (FGC and MMORPGs)
-      - name: Movies
-      - name: Gym and Fitness
-      - name: Research
-      - name: Animals
-      - name: Music
-      - name: Environmentalism
+      - name: Technical
+        keywords:
+          - Programming
+          - Research
+          - Game Development
+          - Game Controller Modification
+      - name: Cultural
+        keywords:
+          - Video Games (FGC and MMORPGs)
+          - Movies
+          - Gym and Fitness
+          - Music
+          - Philosophy & Classic Literature
+      - name: Social Impact
+        keywords:
+          - Environmentalism
+          - Animal Welfare
+          - AI Ethics
 
     References:
       - name: Academic References

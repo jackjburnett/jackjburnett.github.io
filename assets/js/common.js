@@ -45,6 +45,13 @@ document.addEventListener("DOMContentLoaded", function () {
       heading.setAttribute("data-toc-skip", "");
     });
 
+    document.querySelectorAll(".cv a.anchor[id] + .card > h3.card-title").forEach(function (heading) {
+      var anchor = heading.parentElement.previousElementSibling;
+      if (!anchor || !anchor.id) return;
+      heading.id = anchor.id;
+      anchor.removeAttribute("id");
+    });
+
     var collapse = tocSidebar.dataset.tocCollapse;
     var collapseDepth = tocSidebar.dataset.tocCollapseDepth;
     var navbar = document.querySelector(".navbar");
