@@ -14,7 +14,7 @@ toc:
 
 A web application that generates a cocktail based on visible constellations. The constellations and cocktails are currently AI-generated. I plan to manually refine the constellations and work with bartender friends to improve the cocktail recipes over time.
 
-Generate a cocktail: [jackjburnett.github.io/cosmic-cocktail/](https://jackjburnett.github.io/cosmic-cocktail/)
+[jackjburnett.github.io/cosmic-cocktail/](https://jackjburnett.github.io/cosmic-cocktail/)
 
 ---
 
@@ -22,7 +22,7 @@ Generate a cocktail: [jackjburnett.github.io/cosmic-cocktail/](https://jackjburn
 
 Create found poetry from some of my favourite classic literature and books, sourced from [Project Gutenberg](https://www.gutenberg.org/).
 
-Create a found poem: [jackjburnett.github.io/paper-ghosts/](https://jackjburnett.github.io/paper-ghosts/)
+[jackjburnett.github.io/paper-ghosts/](https://jackjburnett.github.io/paper-ghosts/)
 
 ---
 
@@ -31,7 +31,7 @@ Create a found poem: [jackjburnett.github.io/paper-ghosts/](https://jackjburnett
 A collectible archive of Prince.
 Open a pack every hour, build your collection, and uncover memories from hundreds of photos and edits spanning his life.
 
-Start collecting now at: [jackjburnett.github.io/princedex/](https://jackjburnett.github.io/princedex/)
+[jackjburnett.github.io/princedex/](https://jackjburnett.github.io/princedex/)
 
 ---
 
@@ -39,7 +39,7 @@ Start collecting now at: [jackjburnett.github.io/princedex/](https://jackjburnet
 
 A workout generator that maps wrestling finishers to targeted strength exercises. Pick a move, filter by available equipment, and generate a personalised workout designed around the muscles that drive the technique. Export routines to Hevy (requires Pro) or save workouts as reference images.
 
-Train now at: [jackjburnett.github.io/train-the-finish/](https://jackjburnett.github.io/train-the-finish)
+[jackjburnett.github.io/train-the-finish/](https://jackjburnett.github.io/train-the-finish)
 
 ---
 
