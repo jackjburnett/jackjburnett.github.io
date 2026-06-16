@@ -18,7 +18,7 @@ A web application that generates a cocktail based on visible constellations. The
 
 ---
 
-# Paper Ghosts
+## Paper Ghosts
 
 Create found poetry from some of my favourite classic literature and books, sourced from [Project Gutenberg](https://www.gutenberg.org/).
 
