@@ -1059,12 +1059,23 @@ nav[data-toggle="toc"] {
 }
 
 /* small screens */
-@media (max-width: 576px) {
+@media (max-width: 767.98px) {
   /* override stickyness so that the navigation does not follow scrolling */
-  nav[data-toggle="toc"] {
+  nav[data-toggle="toc"],
+  #toc-sidebar {
+    display: none !important;
     visibility: hidden;
     height: 0;
     top: 0;
+  }
+
+  .row > .col-sm-3:has(> #toc-sidebar) {
+    display: none;
+  }
+
+  .row > .col-sm-3:has(> #toc-sidebar) + .col-sm-9 {
+    flex: 0 0 100%;
+    max-width: 100%;
   }
 }
 

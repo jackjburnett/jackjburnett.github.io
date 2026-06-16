@@ -8,6 +8,8 @@ category: archive
 related_publications: false
 toc:
   sidebar: left
+  collapse: auto
+  collapse_depth: 2
 ---
 
 ## Summer Project Reflections

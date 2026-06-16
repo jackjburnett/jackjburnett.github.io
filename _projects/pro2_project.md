@@ -8,6 +8,8 @@ category: "2024"
 related_publications: false
 toc:
   sidebar: left
+  collapse: auto
+  collapse_depth: 2
 ---
 
 PDF Version: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}

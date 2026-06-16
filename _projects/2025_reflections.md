@@ -8,6 +8,7 @@ category: archive
 related_publications: false
 toc:
   sidebar: left
+  collapse: auto
 ---
 
 ## Why I wrote this
