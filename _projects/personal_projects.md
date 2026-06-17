@@ -35,6 +35,14 @@ Open a pack every hour, build your collection, and uncover memories from hundred
 
 ---
 
+## Push/Bury
+
+A web application that allows you to book your own fantasy promotion over 8 weeks, leading to a PPV. Currently very experimental, with most features not yet implemented.
+
+[jackjburnett.github.io/push-bury/](https://jackjburnett.github.io/push-bury/)
+
+---
+
 ## Train the Finish
 
 A workout generator that maps wrestling finishers to targeted strength exercises. Pick a move, filter by available equipment, and generate a personalised workout designed around the muscles that drive the technique. Export routines to Hevy (requires Pro) or save workouts as reference images.
@@ -43,13 +51,13 @@ A workout generator that maps wrestling finishers to targeted strength exercises
 
 ---
 
-## Main Event
+## WiP: Main Event
 
 A 2D fighting game in development using [Godot](https://godotengine.org/). Playable prototypes will be released when ready.
 
 ---
 
-## Untitled Workout Optimiser
+## WiP: Untitled Workout Optimiser
 
 Working with [Joseph Trevorrow](https://josephtrevorrow.github.io/) on a workout optimisation application.
 
