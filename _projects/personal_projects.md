@@ -37,7 +37,7 @@ Open a pack every hour, build your collection, and uncover memories from hundred
 
 ## Push/Bury
 
-A web application that allows you to book your own fantasy promotion over 8 weeks, leading to a PPV. Currently very experimental, with most features not yet implemented.
+Book your own fantasy promotion over 8 weeks, leading to a PPV, trying to get the highest rating. Currently, very experimental, with most features not yet implemented and some broken.
 
 [jackjburnett.github.io/push-bury/](https://jackjburnett.github.io/push-bury/)
 
