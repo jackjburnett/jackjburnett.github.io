@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Weird Qualifications and Licences
-description: TODO.
-img: assets/img/projects/xoblob.jpeg
+description: Weird and unusual qualifications and licences that I've acquired.
+img: assets/img/projects/weird-quals.jpeg
 importance: 1
 category: other
 related_publications: false
@@ -18,4 +18,9 @@ Certified Bear (FT340158) and Mountain Lion (FT340160) Identifier by [Montana Fi
 
 [UK Drone and Model Aircraft Flyer Licence]({{ site.url }}/assets/img/projects/weird-quals/flyer_id.png){:target="\_blank"}
 
-<a href="https://www.dudeism.com" target="_blank"><img alt="I am an Ordained Dudeist Priest" src="https://www.dudeism.com/Images/Im-an-ordained-dudeist-priest.gif" border="0" title="I am an Ordained Dudeist Priest" /></a>
+<a href="https://www.dudeism.com" target="_blank" rel="noopener">
+  <img
+    alt="I am an Ordained Dudeist Priest"
+    src="https://www.dudeism.com/Images/Im-an-ordained-dudeist-priest.gif"
+    title="I am an Ordained Dudeist Priest">
+</a>
