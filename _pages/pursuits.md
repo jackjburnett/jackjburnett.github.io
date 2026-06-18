@@ -5,7 +5,7 @@ permalink: /pursuits/
 description: outputs from hobbies, passion projects, and creative interests
 nav: false
 nav_order: 3
-display_categories: [interactive, other]
+display_categories: [interactive, roleplay, other]
 horizontal: true
 ---
 
