@@ -3,7 +3,7 @@ layout: page
 title: Weird Qualifications and Licences
 description: Weird and unusual qualifications and licences that I've acquired.
 img: assets/img/projects/weird-quals.png
-importance: 1
+importance: 2
 category: other
 related_publications: false
 ---
