@@ -18,7 +18,7 @@ related_publications: false
 
 [letterboxd](https://letterboxd.com/jackjburnett/stats/) (Films)
 
-[mapchart]({{ site.url }}assets/img/projects/tracking/mapchart.png){:target="\_blank"} (Countries)
+[mapchart]({{ site.url }}/assets/img/projects/tracking/mapchart.png){:target="\_blank"} (Countries)
 
 [start.gg](https://www.start.gg/user/69ed1229) (Fighting Game Tournaments)
 
