@@ -2,7 +2,7 @@
 layout: page
 title: Things I Track
 description: Evidence that I spend far too much time logging things instead of simply enjoying them.
-img: assets/img/projects/weird-quals.png
+img: assets/img/projects/tracking.png
 importance: 1
 category: other
 related_publications: false
