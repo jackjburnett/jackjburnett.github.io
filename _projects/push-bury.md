@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Push/Bury
-description: Book your own fantasy promotion over 8 weeks, leading to a PPV, trying to get the highest rating. Currently, very experimental, with most features not yet implemented and some broken.
+description: Book your own fantasy promotion trying to get the highest rating. Currently very experimental.
 img: assets/img/projects/push-bury.png
 importance: 4
 category: interactive

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Train the Finish
-description: A heuristic workout generator that maps wrestling finishers to targeted strength exercises. Pick a move, filter by available equipment, and generate a personalised workout designed around the muscles that drive the technique. Export routines to Hevy (requires Pro) or save workouts as reference images.
+description: Generate wrestling-specific strength workouts through optimization of the muscles behind your favorite finishers.
 img: assets/img/projects/train-the-finish.png
 importance: 5
 category: interactive
