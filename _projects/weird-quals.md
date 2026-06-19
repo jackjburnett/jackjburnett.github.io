@@ -18,7 +18,7 @@ Certified Bear (FT340158) and Mountain Lion (FT340160) Identifier by [Montana Fi
 
 [UK Drone and Model Aircraft Flyer Licence]({{ site.url }}/assets/img/projects/weird-quals/flyer_id.png){:target="\_blank"}
 
-[Unicorn Questing License]({{ site.url }}/assets/pdf/unicorn_license.pdf){:target="\_blank"} by [Lake Superior State University](https://www.lssu.edu/)
+[Unicorn Questing License]({{ site.url }}/assets/pdf/unicorn-license.pdf){:target="\_blank"} from [Lake Superior State University](https://www.lssu.edu/)
 
 <a href="https://www.dudeism.com" target="_blank" rel="noopener">
   <img
