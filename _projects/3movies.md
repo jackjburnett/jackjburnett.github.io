@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 3Movies
+title: 3movies
 description: Three movies you will never forget
 img: assets/img/projects/3movies.png
 importance: 1
