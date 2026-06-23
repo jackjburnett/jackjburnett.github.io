@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cosmic Cocktail
-description: Discover a classic cocktail inspired by the stars above you.
+description: Discover a classic cocktail inspired by the stars above you
 img: assets/img/projects/cosmic-cocktail.png
 importance: 1
 category: interactive

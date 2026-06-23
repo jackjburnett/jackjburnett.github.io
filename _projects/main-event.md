@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Main Event
-description: A 2D fighting game in development, being built in Godot.
+description: A 2D fighting game in development, being built in Godot
 img: assets/img/projects/xoblob.jpeg
 importance: 2
 category: interactive

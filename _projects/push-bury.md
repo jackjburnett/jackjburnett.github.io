@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Push/Bury
-description: Book your own fantasy promotion trying to get the highest rating. Currently very experimental.
+description: Book your own fantasy promotion trying to get the highest rating. Currently very experimental
 img: assets/img/projects/push-bury.png
 importance: 4
 category: interactive

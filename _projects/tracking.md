@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Things I Track
-description: Evidence that I spend far too much time logging things instead of simply enjoying them.
+description: Evidence that I spend far too much time logging things instead of simply enjoying them
 img: assets/img/projects/tracking.png
-importance: 1
+importance: 2
 category: other
 related_publications: false
 ---
