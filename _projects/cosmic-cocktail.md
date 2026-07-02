@@ -3,7 +3,7 @@ layout: page
 title: Cosmic Cocktail
 description: Discover a classic cocktail inspired by the stars above you
 img: assets/img/projects/cosmic-cocktail.png
-importance: 1
+importance: 2
 category: interactive
 redirect: https://jackjburnett.github.io/cosmic-cocktail/
 ---
