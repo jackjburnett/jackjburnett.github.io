@@ -11,7 +11,7 @@ nav_order: 4
   <div class="row">
     <div class="col-sm-12 col-md-8">
       <h2>2025/26 Academic Year</h2>
-      
+
       <div class="card mt-4">
         <div class="card-body">
           <h3 class="card-title">Interaction and Society</h3>

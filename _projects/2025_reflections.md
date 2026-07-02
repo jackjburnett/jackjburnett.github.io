@@ -21,7 +21,7 @@ however, this year also set me up for what seems to be my most successful year, 
 The following sections will highlight the horrific burnout, the slow recovery, and how I managed to use these experiences to improve my research;
 hopefully this will serve to help other PhD students avoid the same mistakes, or at least as a fun read for myself if I don't learn anything from the last year.
 
-_Before I begin, I should note that those around me had a few _'I told you so'_ moments post-burnout, so the best advice is to listen to your colleagues and friends to avoid this._
+_Before I begin, I should note that those around me had a few *'I told you so'* moments post-burnout, so the best advice is to listen to your colleagues and friends to avoid this._
 
 This will be slowly written up, so please be patient.
 
