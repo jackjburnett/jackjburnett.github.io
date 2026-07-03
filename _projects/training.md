@@ -387,20 +387,20 @@ Powered by a complete plant protein blend of soy, pea, pumpkin seed, brown rice,
 ## Pre-workout
 
 <div class="training-two-col">
-  <div class="training-panel" markdown="1">
+  <div class="training-panel">
   <h3>General</h3>
-
-- [C4 Performance Energy](https://www.amazon.co.uk/Performance-Pineapple-Caffeine-Betaine-Taurine/dp/B0CJCGKDTS)
-- [D-Ribose](https://www.bulk.com/uk/products/d-ribose/bpb-drib-0000?o=MTc5LTY5)
-
+  <ul>
+    <li><a href="https://www.amazon.co.uk/Performance-Pineapple-Caffeine-Betaine-Taurine/dp/B0CJCGKDTS">C4 Performance Energy</a></li>
+    <li><a href="https://www.bulk.com/uk/products/d-ribose/bpb-drib-0000?o=MTc5LTY5">D-Ribose</a></li>
+  </ul>
   </div>
 
-  <div class="training-panel training-panel-warm" markdown="1">
+  <div class="training-panel training-panel-warm">
   <h3>Personal Best Sessions</h3>
-
-- [Dope Max](https://www.bulk.com/uk/products/dope-max-pre-workout/bble-dmax?o=MTc5LTE5Mjc2LDE3OC0zNjE=)
-- [Citrulline Malate](https://www.bulk.com/uk/products/citrulline-malate/bpb-cmal-0000?o=MTc5LTY5)
-
+  <ul>
+    <li><a href="https://www.bulk.com/uk/products/dope-max-pre-workout/bble-dmax?o=MTc5LTE5Mjc2LDE3OC0zNjE=">Dope Max</a></li>
+    <li><a href="https://www.bulk.com/uk/products/citrulline-malate/bpb-cmal-0000?o=MTc5LTY5">Citrulline Malate</a></li>
+  </ul>
   </div>
 </div>
 </section>
