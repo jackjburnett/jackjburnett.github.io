@@ -216,7 +216,7 @@ category: other
 <section class="training-hero" markdown="1">
 <div class="training-kicker">Current phase: Cutting (since December 2024)</div>
 <h2>Building a solid base for strength training.</h2>
-I treat training mianly as a hobby, but try to optimise my programmes and nutrition. My current focus is reducing body fat to
+I treat training mainly as a hobby, but try to optimise my programmes and nutrition. My current focus is reducing body fat to
 15%, maintaining muscle mass, and rebuilding enough knee strength and stability to return to Muay Thai. Workouts logged on 
 <a href="https://hevy.com/user/jackburnett">Hevy</a> and runs on <a href="https://strava.app.link/31JITpIzT3b">Strava</a>,
 more things I track <a href="{{ site.url }}/projects/tracking/">here</a>.
