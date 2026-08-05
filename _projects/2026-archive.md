@@ -83,6 +83,13 @@ To be added
 
 ---
 
+
+## Bristol AI Summer School (BAIS) 2026 Organiser
+
+I helped organise the 2026 [Bristol AI Summer School (BAIS)](https://www.bristol.ac.uk/cdt/interactive-ai/events/bais-summer-school-2026/), with particular responsibility for sessions on human–AI collaboration, which I also chaired.
+
+---
+
 ## Pro2 Device Prototyping Summer School Reviewer
 
 As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was invited to serve as a reviewer for this year’s submissions.
