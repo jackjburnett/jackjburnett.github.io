@@ -71,18 +71,6 @@ To be added
 
 ---
 
-## Playing with Constraints Workshop
-
-To be added
-
----
-
-## Designing with Impaired Technologies WiP
-
-To be added
-
----
-
 ## Bristol AI Summer School (BAIS) 2026 Organiser
 
 I helped organise the 2026 [Bristol AI Summer School (BAIS)](https://www.bristol.ac.uk/cdt/interactive-ai/events/bais-summer-school-2026/), with particular responsibility for sessions on human–AI collaboration, which I also chaired.
