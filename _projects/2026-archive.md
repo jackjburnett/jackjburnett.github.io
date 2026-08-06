@@ -67,7 +67,7 @@ Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/projects/future
 
 ## Dorkbot Talk
 
-To be added
+To be added (Sept-Nov 2026)
 
 ---
 
@@ -84,7 +84,7 @@ In this role, I help evaluate proposed projects and support the selection of pro
 
 ---
 
-## Pre-CHI 2026 Website
+## Pre-CHI 2026 Website Development
 
 As a publicity chair I created the [Pre-CHI 2026 website](https://south-west-uk-pre-chi.github.io/2026/), based on [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
 The website managed to top Google searches for 'pre chi' and 'pre chi 2026', with over 1000 impressions in the two months leading to the event.
