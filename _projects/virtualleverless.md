@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual Leverless
-description: CHI Submission
+description: DIS Submission
 img: assets/img/projects/VirtualLeverless.png
 importance: 4
 category: "2026"
