@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Train the Finish
-description: Generate wrestling-specific strength workouts through optimization of the muscles behind your favorite finishers
+description: Generate finisher-specific strength workouts optimised for the muscles behind them
 img: assets/img/projects/train-the-finish.png
 importance: 6
 category: interactive
