@@ -2,7 +2,7 @@
 layout: page
 title: Training
 description: Strength training progress and nutrition information
-img: assets/img/projects/todo.png
+img: assets/img/projects/training.png
 importance: 3
 category: other
 ---
