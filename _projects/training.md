@@ -3,7 +3,7 @@ layout: page
 title: Training
 description: Strength training progress and nutrition information
 img: assets/img/projects/training.png
-importance: 3
+importance: 4
 category: other
 ---
 

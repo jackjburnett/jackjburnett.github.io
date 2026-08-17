@@ -3,7 +3,7 @@ layout: page
 title: Things I Track
 description: Evidence that I spend far too much time logging things instead of simply enjoying them
 img: assets/img/projects/tracking.png
-importance: 2
+importance: 3
 category: other
 related_publications: false
 ---

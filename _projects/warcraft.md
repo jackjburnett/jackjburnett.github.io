@@ -1,9 +1,9 @@
 ---
 layout: page
 title: WoW Stats
-description: A dashboard of my current World of Warcraft season statistics
+description: A dashboard of my World of Warcraft characters
 img: assets/img/projects/warcraft.jpeg
-importance: 5
+importance: 6
 category: other
 redirect: https://jackjburnett.github.io/warcraft/
 ---
