@@ -12,7 +12,7 @@ toc:
   collapse_depth: 2
 ---
 
-PDF Version: [Democratised Modular Controller Production]({{ site.url }}/assets/pdf/Pro2-paper.pdf){:target="\_blank"}
+PDF Version: [Democratised Modular Controller Production](https://prosquared.org/2024-LSS-Papers/2024-LSS-Burnett-paper.pdf){:target="\_blank"}
 
 # About the Summer School
 
