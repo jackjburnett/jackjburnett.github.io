@@ -52,5 +52,5 @@ DataLore Report: [MLP Report](https://datalore.jetbrains.com/report/static/xpFJ0
 ## 2024 Reflections
 
 Description: A reflection on my experiences during the Foundation Year of the Interactive AI CDT. \
-Link: [2024 Reflections]({{ site.url }}/projects/2024_reflections/)
-PDF: [2024 Reflections]({{ site.url }}/assets/pdf/Anonymised_Summer_Project_Reflective_Report.pdf){:target="\_blank"} \
+Link: [2024 Reflections]({{ site.url }}/projects/2024_reflections/) \
+PDF: [2024 Reflections]({{ site.url }}/assets/pdf/Anonymised_Summer_Project_Reflective_Report.pdf){:target="\_blank"}
