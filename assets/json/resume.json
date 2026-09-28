@@ -154,6 +154,15 @@
       "endDate": "2021-03-01",
       "summary": "Teaching computer science for years 7-10, alongside BTEC iMedia science for year 10.",
       "highlights": ["Computer Science", "Python", "iMedia", "Secondary Education", "Further Education"]
+    },
+    {
+      "name": "Cygnet Healthcare",
+      "position": "Administrative Assistant",
+      "url": "https://www.cygnetgroup.com",
+      "startDate": "2018-07-01",
+      "endDate": "2020-09-01",
+      "summary": "Providing administrative support across the hospital, alongside supporting Mental Health Act administration during a period of staff transition.",
+      "highlights": ["Administration", "Mental Health Act", "Healthcare"]
     }
   ],
   "awards": [
