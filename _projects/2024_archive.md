@@ -3,7 +3,7 @@ layout: page
 title: 2024 Archive
 description: Notable work from the Interactive AI CDT foundation year
 img: assets/img/projects/2024_archive.jpeg
-importance: 5
+importance: 4
 category: archive
 related_publications: false
 ---
@@ -46,3 +46,11 @@ task. Methods are evaluated using the Mean Absolute Error of the model on a test
 PDF: [MoReBikeS]({{ site.url }}/assets/pdf/MoReBikeS.pdf){:target="\_blank"} \
 ipynb: [MoReBikeS]({{ site.url }}/assets/jupyter/MoReBikeS.ipynb){:target="\_blank"} \
 DataLore Report: [MLP Report](https://datalore.jetbrains.com/report/static/xpFJ0NI0hLRUqjTY7AiDhW/gJfzOP9X0rRh0OeSLzSlyr)
+
+---
+
+## 2024 Reflections
+
+Description: A reflection on my experiences during the Foundation Year of the Interactive AI CDT. \
+Link: [2024 Reflections]({{ site.url }}/projects/2024_reflections/)
+PDF: [2024 Reflections]({{ site.url }}/assets/pdf/Anonymised_Summer_Project_Reflective_Report.pdf){:target="\_blank"} \
