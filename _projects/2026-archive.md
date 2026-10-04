@@ -3,7 +3,7 @@ layout: page
 title: 2026 Archive
 description: Notable work from 2026
 img: assets/img/projects/2026_archive.jpeg
-importance: 1
+importance: 2
 category: archive
 related_publications: false
 toc:
