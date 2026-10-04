@@ -9,7 +9,7 @@ nav_order: 4
 
 <div class="teaching">
   <p class="teaching-intro">
-    Teaching and support roles across HCI, design, prototyping, and computing courses. Public materials are linked where
+    Teaching and support roles across HCI, design, prototyping, and computing courses. Materials are linked where
     available.
   </p>
 
@@ -23,7 +23,8 @@ nav_order: 4
       <article class="teaching-item">
         <div class="teaching-item-main">
           <h3>Human-Computer Interaction</h3>
-          <p class="teaching-meta"><i class="fas fa-user-graduate"></i> Teaching assistant</p>
+          <p class="teaching-meta"><i class="fas fa-calendar-alt"></i> Teaching Block 1</p>
+          <p class="teaching-meta"><i class="fas fa-user-graduate"></i> Graduate Teacher; Lab TA</p>
         </div>
         <p class="teaching-note">No planned lessons to lead due to research commitments.</p>
       </article>
@@ -31,7 +32,8 @@ nav_order: 4
       <article class="teaching-item">
         <div class="teaching-item-main">
           <h3>Algorithms and Data</h3>
-          <p class="teaching-meta"><i class="fas fa-flask"></i> Lab technician</p>
+          <p class="teaching-meta"><i class="fas fa-calendar-alt"></i> Teaching Block 1</p>
+          <p class="teaching-meta"><i class="fas fa-flask"></i> Graduate Teacher; Lab TA</p>
         </div>
         <p class="teaching-note">No planned lessons to lead due to research commitments.</p>
       </article>
@@ -40,7 +42,7 @@ nav_order: 4
 
   <section class="teaching-year" aria-labelledby="teaching-2025">
     <div class="teaching-year-heading">
-      <span class="teaching-year-kicker">Assisted</span>
+      <span class="teaching-year-kicker">Previous</span>
       <h2 id="teaching-2025">2025/26 Academic Year</h2>
     </div>
 
@@ -48,22 +50,25 @@ nav_order: 4
       <article class="teaching-item">
         <div class="teaching-item-main">
           <h3>Interaction and Society</h3>
+          <p class="teaching-meta"><i class="fas fa-calendar-alt"></i> Teaching Block 2</p>
+          <p class="teaching-meta"><i class="fas fa-chalkboard-teacher"></i> Graduate Teacher; Lecture TA</p>
         </div>
-        <p class="teaching-note">Assisted in lecturing due to research commitments.</p>
+        <p class="teaching-note">Lecture support only, during research commitments.</p>
       </article>
 
       <article class="teaching-item">
         <div class="teaching-item-main">
           <h3>Interactive Devices</h3>
+          <p class="teaching-meta"><i class="fas fa-calendar-alt"></i> Teaching Block 2</p>
+          <p class="teaching-meta"><i class="fas fa-tools"></i> Graduate Teacher; Lead Lab TA</p>
         </div>
-        <p class="teaching-note">Assisted in lecturing due to research commitments.</p>
+        <p class="teaching-note">Lead lab support only, during research commitments.</p>
       </article>
     </div>
   </section>
 
   <section class="teaching-year" aria-labelledby="teaching-2024">
     <div class="teaching-year-heading">
-      <span class="teaching-year-kicker">Materials</span>
       <h2 id="teaching-2024">2024/25 Academic Year</h2>
     </div>
 
@@ -71,22 +76,24 @@ nav_order: 4
       <article class="teaching-item teaching-item-linked">
         <div class="teaching-item-main">
           <h3>Interaction and Society</h3>
-          <p class="teaching-meta"><i class="fas fa-calendar-week"></i> Week 16</p>
+          <p class="teaching-meta"><i class="fas fa-calendar-alt"></i> Teaching Block 2</p>
+          <p class="teaching-meta"><i class="fas fa-chalkboard-teacher"></i> Graduate Teacher; Lecture TA</p>
         </div>
         <a href="https://jackjburnett.notion.site/personas-scenarios-and-user-stories" class="teaching-link">
           <i class="fas fa-book-open"></i>
-          <span>Personas, Scenarios, and User Stories</span>
+          <span>Week 16: Personas, Scenarios, and User Stories</span>
         </a>
       </article>
 
       <article class="teaching-item teaching-item-linked">
         <div class="teaching-item-main">
           <h3>Interactive Devices</h3>
-          <p class="teaching-meta"><i class="fas fa-calendar-week"></i> Week 17</p>
+          <p class="teaching-meta"><i class="fas fa-calendar-alt"></i> Teaching Block 2</p>
+          <p class="teaching-meta"><i class="fas fa-tools"></i> Graduate Teacher; Lab TA</p>
         </div>
         <a href="https://jackjburnett.notion.site/parametric-design-with-cadquery" class="teaching-link">
           <i class="fas fa-cube"></i>
-          <span>Parametric Design with CadQuery</span>
+          <span>Week 17: Parametric Design with CadQuery</span>
         </a>
       </article>
     </div>
@@ -147,20 +154,19 @@ nav_order: 4
 
 .teaching-list {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.85rem;
 }
 
 .teaching-item {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(220px, 0.45fr);
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
   gap: 1rem;
-  align-items: start;
-  padding: 1rem 0;
-  border-bottom: 1px solid rgba(128, 128, 128, 0.18);
-}
-
-.teaching-item:last-child {
-  border-bottom: 0;
+  padding: 1rem;
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.45rem;
 }
 
 .teaching-item h3 {
@@ -179,7 +185,8 @@ nav_order: 4
 }
 
 .teaching-note {
-  margin-top: 0;
+  margin-top: auto;
+  padding-top: 0.25rem;
 }
 
 .teaching i {
@@ -219,7 +226,7 @@ nav_order: 4
 
 @media (max-width: 768px) {
   .teaching-year,
-  .teaching-item {
+  .teaching-list {
     grid-template-columns: 1fr;
     gap: 0.75rem;
   }
