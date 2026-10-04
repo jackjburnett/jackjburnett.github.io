@@ -9,3 +9,19 @@
 "marshall":
   - firstname: ["Paul", "P."]
     url: https://research-information.bris.ac.uk/en/persons/paul-marshall
+
+"lo":
+  - firstname: ["Priscilla", "P."]
+    url: https://www.biglab.co.uk/member/priscilla-lo/
+
+"joshi":
+  - firstname: ["Vishal", "V."]
+    url: https://www.biglab.co.uk/member/vishal-joshi/
+
+"stangroome":
+  - firstname: ["Grace", "G."]
+    url: https://www.biglab.co.uk/member/grace-stangroome/
+
+"clark":
+  - firstname: ["Rory", "R."]
+    url: https://biglab.co.uk/member/rory-clark/
