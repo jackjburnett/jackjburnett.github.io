@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Paper Ghosts
-description: Create found poetry with classic literature, in your browser. Literature source through Project Gutenberg.
+description: Create found poetry with classic literature, in your browser. Literature sourced from Project Gutenberg.
 img: assets/img/projects/paper-ghosts.png
 importance: 4
 category: interactive
