@@ -3,7 +3,7 @@ layout: page
 title: DnD One-Shot WiP
 description: TODO
 img: assets/img/projects/xoblob.jpeg
-importance: 1
+importance: 2
 category: roleplay
 related_publications: false
 ---
