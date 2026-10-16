@@ -38,6 +38,7 @@ nav_order: 4
         <p class="teaching-note">No planned lessons to lead due to research commitments.</p>
       </article>
     </div>
+
   </section>
 
   <section class="teaching-year" aria-labelledby="teaching-2025">
@@ -65,6 +66,7 @@ nav_order: 4
         <p class="teaching-note">Lead lab support only, during research commitments.</p>
       </article>
     </div>
+
   </section>
 
   <section class="teaching-year" aria-labelledby="teaching-2024">
@@ -97,6 +99,7 @@ nav_order: 4
         </a>
       </article>
     </div>
+
   </section>
 
   <section class="teaching-resources" aria-labelledby="teaching-resources">
