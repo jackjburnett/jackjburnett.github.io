@@ -1,15 +1,15 @@
 ---
 layout: page
-title: personal pursuits
-permalink: /pursuits/
-description: outputs from hobbies, passion projects, and creative interests
-nav: false
-nav_order: 3
-display_categories: [interactive, roleplay, other]
+title: research
+permalink: /research/
+description: research work that has had my involvement (since 2024)
+nav: true
+nav_order: 2
+display_categories: ["2026", "2025", "2024", archive]
 horizontal: true
 ---
 
-<!-- pages/pursuits.md -->
+<!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -17,7 +17,7 @@ horizontal: true
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign categorized_projects = site.research | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
@@ -41,7 +41,7 @@ horizontal: true
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign sorted_projects = site.research | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

@@ -2,7 +2,7 @@
 layout: page
 title: 2024 Reflections
 description: Reflections on my research and experiences during the Foundation Year of the Interactive AI CDT
-img: assets/img/projects/2024_reflections.jpeg
+img: assets/img/research/2024_reflections.jpeg
 related_publications: false
 toc:
   sidebar: left

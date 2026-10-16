@@ -2,7 +2,7 @@
 layout: page
 title: 2025 Archive
 description: Notable work from 2025
-img: assets/img/projects/2025_archive.jpeg
+img: assets/img/research/2025_archive.jpeg
 importance: 3
 category: archive
 related_publications: false

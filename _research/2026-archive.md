@@ -2,7 +2,7 @@
 layout: page
 title: 2026 Archive
 description: Notable work from 2026
-img: assets/img/projects/2026_archive.jpeg
+img: assets/img/research/2026_archive.jpeg
 importance: 2
 category: archive
 related_publications: false
@@ -61,7 +61,7 @@ The lesson also examined real-world applications, the benefits of AI, issues suc
 
 Presentation: [AI, an Introduction PowerPoint]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
 
-Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/projects/futurequest)
+Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/research/futurequest)
 
 ---
 

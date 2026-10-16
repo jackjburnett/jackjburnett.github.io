@@ -19,7 +19,7 @@ In this lesson, students will explore the fundamentals of Artificial Intelligenc
 
 [People for Grouping Spreadsheet]({{ site.url }}/assets/xlsx/People_for_Grouping.xlsx){:target="\_blank"}
 
-[People for Grouping Image]({{ site.url }}/assets/img/projects/futurequest/people.png){:target="\_blank"}
+[People for Grouping Image]({{ site.url }}/assets/img/research/futurequest/people.png){:target="\_blank"}
 
 ---
 

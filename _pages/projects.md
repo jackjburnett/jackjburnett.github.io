@@ -2,14 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: research projects that have had my involvement (since 2024)
+description: personal projects and outputs from hobbies
 nav: true
-nav_order: 3
-display_categories: ["2026", "2025", "2024", archive]
+nav_order: 4
+display_categories: [interactive, roleplay, other]
 horizontal: true
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/pursuits.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

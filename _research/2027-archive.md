@@ -2,7 +2,7 @@
 layout: page
 title: 2027 Archive
 description: Notable work from 2027
-img: assets/img/projects/2027_archive.png
+img: assets/img/research/2027_archive.png
 importance: 1
 related_publications: false
 toc:
