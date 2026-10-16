@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: jackjburnett # the website title (if blank, full name will be used instead)
+title: Jack Burnett # the website title (if blank, full name will be used instead)
 first_name: Jack
-middle_name:
+middle_name: James
 last_name: Burnett
 contact_note:
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD researcher in Interactive AI at the University of Bristol, focused on democratising accessible hardware design through parametric modelling and co-design. Committed to responsible and inclusive technology, with experience spanning AI policy, public engagement, and education.
+description: >-
+  Jack Burnett is a PhD researcher in Interactive AI at the University of Bristol, focused on democratising accessible hardware design through parametric modelling and co-design. Committed to responsible and inclusive technology, with experience spanning AI policy, public engagement, and education.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
