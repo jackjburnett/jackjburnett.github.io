@@ -185,6 +185,51 @@ category: other
     margin-bottom: 0.35rem;
   }
 
+  .training-milestones {
+    list-style: none;
+    margin: 1rem 0 0 0.4rem;
+    padding: 0 0 0 1.4rem;
+    border-left: 2px solid var(--training-border, var(--global-divider-color));
+  }
+
+  .training-milestone {
+    position: relative;
+    padding: 0 0 1.5rem;
+  }
+
+  .training-milestone:last-child {
+    padding-bottom: 0;
+  }
+
+  .training-milestone::before {
+    content: "";
+    position: absolute;
+    top: 0.35rem;
+    left: -1.85rem;
+    width: 0.75rem;
+    height: 0.75rem;
+    border-radius: 50%;
+    background: var(--training-accent, var(--global-theme-color));
+  }
+
+  .training-milestone h3 {
+    font-size: 1.1rem;
+    margin: 0.35rem 0 0.6rem;
+  }
+
+  .training-milestone p {
+    margin-bottom: 0.35rem;
+  }
+
+  .training-milestone-result {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.35rem 0.65rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+  }
+
   .training-goals-wrap {
     display: grid;
     gap: 0.75rem;
@@ -214,12 +259,12 @@ category: other
 <div class="training-page" markdown="1">
 
 <section class="training-hero" markdown="1">
-<div class="training-kicker">Current phase: Cutting (since December 2024)</div>
-<h2>Building a solid base for strength training.</h2>
-I treat training mainly as a hobby, but try to optimise my programmes and nutrition. My current focus is reducing body fat to
-15%, maintaining muscle mass, and rebuilding enough knee strength and stability to return to Muay Thai. Workouts logged on 
-<a href="https://hevy.com/user/jackburnett">Hevy</a> and runs on <a href="https://strava.app.link/31JITpIzT3b">Strava</a>,
-more things I track <a href="{{ site.url }}/projects/tracking/">here</a>.
+<div class="training-kicker">Current phase: Maintenance (since October 2026)</div>
+<h2>Maintaining strength and rebuilding knee stability.</h2>
+I treat training mainly as a hobby, and try to optimise my programmes and nutrition around my research commitments. My 
+current focus is maintaining muscle mass and rebuilding enough knee strength and stability to return to Muay Thai. My 
+workouts are logged on <a href="https://hevy.com/user/jackburnett">Hevy</a>. You can find other things I track, 
+including runs and hikes, <a href="{{ site.url }}/projects/tracking/">here</a>.
 </section>
 
 <section class="training-section" markdown="1">
@@ -232,22 +277,17 @@ more things I track <a href="{{ site.url }}/projects/tracking/">here</a>.
   </div>
   <div class="training-stat">
     <div class="training-label">Weight</div>
-    <span class="training-value">13 st 10 lb</span>
-    <span class="training-note">192 lb / 87.1 kg</span>
+    <span class="training-value">15 st 0 lb</span>
+    <span class="training-note">210 lb / 95.3 kg</span>
   </div>
   <div class="training-stat">
     <div class="training-label">Body Fat</div>
-    <span class="training-value">~19%</span>
+    <span class="training-value">~25%</span>
   </div>
   <div class="training-stat">
     <div class="training-label">Goal</div>
-    <span class="training-value">12 st 10 lb</span>
-    <span class="training-note">@ 15% BF</span>
-  </div>
-  <div class="training-stat">
-    <div class="training-label">Weight Lost</div>
-    <span class="training-value">6 st 4 lb</span>
-    <span class="training-note">40 kg since Dec 2024</span>
+    <span class="training-value">14 st 0 lb</span>
+    <span class="training-note">@ 20% BF</span>
   </div>
 </div>
 </section>
@@ -265,8 +305,8 @@ I currently train on a 5-day <a href="https://hevy.com/folder/2027990">Power/Hyp
   <div class="training-panel training-panel-warm" markdown="1">
   <h3>Conditioning and Muay Thai</h3>
 
-I sprint twice a week for conditioning and cardiovascular fitness. Muay Thai is currently on hold while
-I recover from a left knee meniscus tear.
+I sprint once or twice a week for conditioning and cardio. Muay Thai is currently on hold while I recover from a left 
+knee meniscus tear.
   </div>
 </div>
 
@@ -327,12 +367,12 @@ Powered by a complete plant protein blend of soy, pea, pumpkin seed, brown rice,
   <div class="training-grid">
     <div class="training-stat">
       <div class="training-label">Calories</div>
-      <span class="training-value">~2,300</span>
+      <span class="training-value">~2,700</span>
       <span class="training-note">kcal/day</span>
     </div>
     <div class="training-stat">
       <div class="training-label">Protein</div>
-      <span class="training-value">~170 g</span>
+      <span class="training-value">~190 g</span>
     </div>
     <div class="training-stat">
       <div class="training-label">Carbohydrates</div>
@@ -389,9 +429,10 @@ Powered by a complete plant protein blend of soy, pea, pumpkin seed, brown rice,
 
 <div class="training-two-col">
   <div class="training-panel">
-  <h3>General</h3>
+  <h3>General Sessions</h3>
   <ul>
-    <li><a href="https://www.amazon.co.uk/Performance-Pineapple-Caffeine-Betaine-Taurine/dp/B0CJCGKDTS">C4 Performance Energy</a></li>
+    <li><a href="https://www.amazon.co.uk/Performance-Pineapple-Caffeine-Betaine-Taurine/dp/B0CJCGKDTS">C4 Performance Energy</a>
+    / <a href="https://www.bulk.com/uk/products/dope-pre-workout-caffeine-free/bble-docf">Dope Pre-Workout Caffeine Free</a></li>
     <li><a href="https://www.bulk.com/uk/products/d-ribose/bpb-drib-0000?o=MTc5LTY5">D-Ribose</a></li>
   </ul>
   </div>
@@ -404,6 +445,19 @@ Powered by a complete plant protein blend of soy, pea, pumpkin seed, brown rice,
   </ul>
   </div>
 </div>
+</section>
+
+<section class="training-section" markdown="1">
+## Milestones
+
+<ol class="training-milestones">
+  <li class="training-milestone">
+    <p class="training-note"><time datetime="2025-01-01">1 January 2025</time> &ndash; <time datetime="2026-03-14">14 March 2026</time></p>
+    <h3>Major long-term cut</h3>
+    <p class="training-milestone-result"><span>19 st 13.3 lb</span> <span aria-label="to">&rarr;</span> <span>13 st 11.8 lb</span></p>
+    <p class="training-note">Average loss: 1.37 lb per week</p>
+  </li>
+</ol>
 </section>
 
 <section class="training-section" markdown="1">
