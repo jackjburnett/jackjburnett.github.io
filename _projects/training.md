@@ -275,10 +275,11 @@ I recover from a left knee meniscus tear.
   <div class="training-link-row">
     <span class="training-programme-row">
       <span class="training-status">Current</span>
-      <a class="training-button" href="https://hevy.com/folder/2027990">PPLUL</a>
+      <a class="training-button" href="https://hevy.com/folder/1609551">PHUL</a>
     </span>
     <span class="training-programme-row">
       <span class="training-status">Previous</span>
+      <a class="training-button" href="https://hevy.com/folder/2027990">PPLUL</a>
       <a class="training-button" href="https://hevy.com/folder/1723427">Push/Pull w/ Knee Rehab</a>
       <a class="training-button" href="https://hevy.com/folder/668936">Upper/Lower</a>
     </span>
