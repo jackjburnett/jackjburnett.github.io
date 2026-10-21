@@ -259,7 +259,7 @@ more things I track <a href="{{ site.url }}/projects/tracking/">here</a>.
   <div class="training-panel" markdown="1">
   <h3>Strength Training</h3>
 
-I currently train on a 5-day <a href="https://hevy.com/folder/2027990">Push/Pull/Legs/Upper/Lower</a> split.
+I currently train on a 5-day <a href="https://hevy.com/folder/2027990">Power/Hypertrophy Upper/Lower</a> split.
   </div>
 
   <div class="training-panel training-panel-warm" markdown="1">
