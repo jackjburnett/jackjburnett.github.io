@@ -8,4 +8,3 @@ redirect: https://jackjburnett.github.io/VirtuaStick/
 ---
 
 [https://jackjburnett.github.io/VirtuaStick/](https://jackjburnett.github.io/VirtuaStick/)
-

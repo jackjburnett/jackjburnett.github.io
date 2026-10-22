@@ -8,4 +8,3 @@ redirect: https://jackjburnett.github.io/VSReceiver/
 ---
 
 [jackjburnett.github.io/VSReceiver/](https://jackjburnett.github.io/VSReceiver/)
-
