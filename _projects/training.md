@@ -300,13 +300,15 @@ including runs and hikes, <a href="{{ site.url }}/projects/tracking/">here</a>.
   <h3>Strength Training</h3>
 
 I currently train on a 5-day <a href="https://hevy.com/folder/2027990">Power/Hypertrophy Upper/Lower</a> split.
+
   </div>
 
   <div class="training-panel training-panel-warm" markdown="1">
   <h3>Conditioning and Muay Thai</h3>
 
-I sprint once or twice a week for conditioning and cardio. Muay Thai is currently on hold while I recover from a left 
+I sprint once or twice a week for conditioning and cardio. Muay Thai is currently on hold while I recover from a left
 knee meniscus tear.
+
   </div>
 </div>
 
