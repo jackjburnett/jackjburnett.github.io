@@ -67,7 +67,7 @@ Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/research/future
 
 ## Dorkbot Talk
 
-To be added (Sept-Nov 2026)
+To be added (Nov-Dec 2026)
 
 ---
 
@@ -77,10 +77,12 @@ I helped organise the 2026 [Bristol AI Summer School (BAIS)](https://www.bristol
 
 ---
 
-## Pro2 Device Prototyping Summer School Reviewer
+## BIG Talk Revival
 
-As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was invited to serve as a reviewer for this year’s submissions.
-In this role, I help evaluate proposed projects and support the selection of promising ideas in device prototyping and applied research.
+As part of the BIG Lab meeting co-organiser team, I helped revive the BIG Talk series in 2026, coordinating external speaker 
+invitations and logistics for BIG. The first revived talk welcomed [Professor Steve Hodges](https://www.linkedin.com/posts/compscibristol_were-delighted-to-welcome-professor-steve-activity-7460333888901656577-_Dyo)
+(Lancaster University) to the University of Bristol on 21 May 2026, where he presented on the BBC micro:bit and its journey
+from research concept to a global educational platform.
 
 ---
 
@@ -92,9 +94,16 @@ A pirate theme version was also created, found by ['pirating the talks'](https:/
 
 ---
 
-## BIG Talk Revival
+## Pro2 Device Prototyping Summer School Reviewer
 
-As part of the BIG Lab meeting co-organiser team, I helped revive the BIG Talk series in 2026, coordinating external speaker invitations and logistics for the Bristol Interaction Group.
+As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was invited to serve as a reviewer for this year’s submissions.
+In this role, I help evaluate proposed projects and support the selection of promising ideas in device prototyping and applied research.
 
-The first revived talk welcomed [Professor Steve Hodges](https://www.linkedin.com/posts/compscibristol_were-delighted-to-welcome-professor-steve-activity-7460333888901656577-_Dyo?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPa2_cB2Im_vhSfYqaW_qJznGXgC3LBXTY)
-(Lancaster University) to the University of Bristol on 21 May 2026, where he presented on the BBC micro:bit and its journey from research concept to a global educational platform.
+---
+
+## Maple Hub Opening
+
+I attended the [formal opening of the Maple Hub](https://hanspriceacademy.clf.uk/news/hans-price-officially-opens-the-maple-hub/)
+at [Hans Price Academy](https://hanspriceacademy.clf.uk/), where I serve as [SEND Link Governor](https://hanspriceacademy.clf.uk/key-information/academy-council/).
+The hub provides specialist support for students with Education, Health and Care Plans whose primary needs relate to speech,
+language and communication or autism.
