@@ -73,31 +73,34 @@ To be added (Nov-Dec 2026)
 
 ## Bristol AI Summer School (BAIS) 2026 Organiser
 
-I helped organise the 2026 [Bristol AI Summer School (BAIS)](https://www.bristol.ac.uk/cdt/interactive-ai/events/bais-summer-school-2026/), with particular responsibility for sessions on human–AI collaboration, which I also chaired.
+I helped organise the 2026 [Bristol AI Summer School (BAIS)](https://www.bristol.ac.uk/cdt/interactive-ai/events/bais-summer-school-2026/), with particular responsibility for sessions on human–AI
+collaboration, which I also chaired. I also ran a feedback session covering both research experience and the wider CDT
+experience, gathering views to inform the future development of the CDTs.
 
 ---
 
 ## BIG Talk Revival
 
 As part of the BIG Lab meeting co-organiser team, I helped revive the BIG Talk series in 2026, coordinating external speaker
-invitations and logistics for BIG. The first revived talk welcomed [Professor Steve Hodges](https://www.linkedin.com/posts/compscibristol_were-delighted-to-welcome-professor-steve-activity-7460333888901656577-_Dyo)
-(Lancaster University) to the University of Bristol on 21 May 2026, where he presented on the BBC micro:bit and its journey
-from research concept to a global educational platform.
+invitations and logistics for BIG. The first revived talk welcomed [Professor Steve Hodges](https://www.linkedin.com/posts/compscibristol_were-delighted-to-welcome-professor-steve-activity-7460333888901656577-_Dyo) (Lancaster University)
+to the University of Bristol on 21 May 2026, where he presented on the BBC micro:bit and its journey from research concept
+to a global educational platform.
 
 ---
 
 ## Pre-CHI 2026 Website Development
 
 As a publicity chair I created the [Pre-CHI 2026 website](https://south-west-uk-pre-chi.github.io/2026/), based on [jekyll-theme-conference](https://github.com/DigitaleGesellschaft/jekyll-theme-conference).
-The website managed to top Google searches for 'pre chi' and 'pre chi 2026', with over 1000 impressions in the two months leading to the event.
-A pirate theme version was also created, found by ['pirating the talks'](https://south-west-uk-pre-chi.github.io/1726/) on the main website.
+The website managed to top Google searches for 'pre chi' and 'pre chi 2026', with over 1000 impressions in the two months
+leading to the event. A pirate theme version was also created, found by ['pirating the talks'](https://south-west-uk-pre-chi.github.io/1726/) on the main website.
 
 ---
 
 ## Pro2 Device Prototyping Summer School Reviewer
 
-As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was invited to serve as a reviewer for this year’s submissions.
-In this role, I help evaluate proposed projects and support the selection of promising ideas in device prototyping and applied research.
+As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was
+invited to serve as a reviewer for this year’s submissions. In this role, I help evaluate proposed projects and support
+the selection of promising ideas in device prototyping and applied research.
 
 ---
 
