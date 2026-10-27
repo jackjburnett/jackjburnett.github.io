@@ -79,7 +79,7 @@ I helped organise the 2026 [Bristol AI Summer School (BAIS)](https://www.bristol
 
 ## BIG Talk Revival
 
-As part of the BIG Lab meeting co-organiser team, I helped revive the BIG Talk series in 2026, coordinating external speaker 
+As part of the BIG Lab meeting co-organiser team, I helped revive the BIG Talk series in 2026, coordinating external speaker
 invitations and logistics for BIG. The first revived talk welcomed [Professor Steve Hodges](https://www.linkedin.com/posts/compscibristol_were-delighted-to-welcome-professor-steve-activity-7460333888901656577-_Dyo)
 (Lancaster University) to the University of Bristol on 21 May 2026, where he presented on the BBC micro:bit and its journey
 from research concept to a global educational platform.
