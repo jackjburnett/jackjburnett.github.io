@@ -105,5 +105,5 @@ In this role, I help evaluate proposed projects and support the selection of pro
 
 I attended the [formal opening of the Maple Hub](https://hanspriceacademy.clf.uk/news/hans-price-officially-opens-the-maple-hub/)
 at [Hans Price Academy](https://hanspriceacademy.clf.uk/), where I serve as [SEND Link Governor](https://hanspriceacademy.clf.uk/key-information/academy-council/).
-The hub provides specialist support for students with Education, Health and Care Plans whose primary needs relate to speech,
-language and communication or autism.
+The hub provides specialist support for students with EHCPs whose primary needs relate to speech,
+language, and communication or autism.
