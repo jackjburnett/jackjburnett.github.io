@@ -67,7 +67,10 @@ def get_scholar_citations() -> None:
     scholarly.set_retries(3)
     try:
         author = scholarly.search_author_id(SCHOLAR_USER_ID)
-        author_data = scholarly.fill(author)
+        # Citation counts are included in the publication list. Avoid fetching
+        # unrelated sections (including coauthors), which adds requests and can
+        # exhaust the workflow's timeout before anything is saved.
+        author_data = scholarly.fill(author, sections=["publications"])
     except Exception as e:
         print(
             f"Error fetching author data from Google Scholar for user ID '{SCHOLAR_USER_ID}': {e}. Please check your internet connection and Scholar user ID."
@@ -109,10 +112,9 @@ def get_scholar_citations() -> None:
                 f"Error processing publication '{pub.get('bib', {}).get('title', 'Unknown')}': {e}. This publication will be skipped."
             )
 
-    # Compare new data with existing data
+    # Record successful checks even when the citation counts have not changed.
     if existing_data and existing_data.get("papers") == citation_data["papers"]:
-        print("No changes in citation data. Skipping file update.")
-        return
+        print("Citation counts are unchanged. Updating the last-checked date.")
 
     try:
         with open(OUTPUT_FILE, "w") as f:
