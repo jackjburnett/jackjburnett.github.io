@@ -176,6 +176,15 @@
   ],
   "volunteering": [
     {
+      "organization": "I'm a... Programme",
+      "location": "UK",
+      "position": "STEM Outreach (Computer Science)",
+      "url": "https://imacomputerscientist.uk/profile/jackburnett/",
+      "startDate": "2026-10-01",
+      "endDate": "Present",
+      "summary": "Engaging with school students to inspire interest in computer science, answer questions about the field, and encourage young people to explore careers in STEM."
+    },
+    {
       "organization": "The Vegan Society",
       "position": "Education Network Volunteer",
       "url": "https://www.vegansociety.com/",
