@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Study
-description: An interactive version of this website, set in a personal study 
+description: An interactive version of this website, set in a personal study
 img: assets/img/projects/princedex.png
 importance: 7
 category: interactive
