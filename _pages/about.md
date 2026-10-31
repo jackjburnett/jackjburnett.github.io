@@ -20,4 +20,4 @@ creating an accessible physical interface development toolkit using co-design an
 
 under the supervision of [Anne Roudaut](https://anneroudaut.fr/), [Paul Marshall](https://research-information.bris.ac.uk/en/persons/paul-marshall), and [Oussama Metatla](https://www.ousmet.com/)
 
-[explore in first person](https://jackjburnett.github.io/interactive/)
+[explore the website in first person](https://jackjburnett.github.io/study/)
