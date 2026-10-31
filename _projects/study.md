@@ -2,7 +2,7 @@
 layout: page
 title: The Study
 description: An interactive version of this website, set in a personal study
-img: assets/img/projects/princedex.png
+img: assets/img/projects/study.png
 importance: 7
 category: interactive
 redirect: https://jackjburnett.github.io/study/
