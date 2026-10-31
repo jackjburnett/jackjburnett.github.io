@@ -65,6 +65,13 @@ Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/research/future
 
 ---
 
+## Access to Bristol: Cryptography in Python
+
+Continuing my role as a widening participation tutor, I helped run the Cryptography in Python session again for the
+[Access to Bristol](https://www.bristol.ac.uk/study/outreach/post-16/access/) programme, which was designed and led by [Yolan Ankaine](https://www.linkedin.com/in/yolan-ankaine-1394a61a5/).
+
+---
+
 ## Dorkbot Talk
 
 To be added (Nov-Dec 2026)

@@ -17,6 +17,13 @@ Presentation: [Creating an Accessible Physical Interface Development Toolkit]({{
 
 ---
 
+## Access to Bristol: Cryptography in Python
+
+As part of my role as a widening participation tutor, I helped run a Cryptography in Python session for the [Access to Bristol](https://www.bristol.ac.uk/study/outreach/post-16/access/) programme,
+led by [Yolan Ankaine](https://www.linkedin.com/in/yolan-ankaine-1394a61a5/).
+
+---
+
 ## Pre-CHI 2025 Virtual Programme
 
 As a Volunteer Chair I helped organise the Pre-CHI 2025 event.
