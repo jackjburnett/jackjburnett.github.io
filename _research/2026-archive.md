@@ -65,13 +65,6 @@ Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/research/future
 
 ---
 
-## Access to Bristol: Cryptography in Python
-
-Continuing my role as a widening participation tutor, I helped run the Cryptography in Python session again for the
-[Access to Bristol](https://www.bristol.ac.uk/study/outreach/post-16/access/) programme, which was designed and led by [Yolan Ankaine](https://www.linkedin.com/in/yolan-ankaine-1394a61a5/).
-
----
-
 ## Dorkbot Talk
 
 On 10 November 2026, I gave a talk at [Dorkbot Bristol](https://dorkbotbristol.org/) talk on how _'You Shouldn't Need to
@@ -79,6 +72,13 @@ Be an Engineer to Play Spyro'_. The talk summarised my research and issues with 
 discussing democratised hardware design, the challenges involved, and a demonstration of a few tools used in my research.
 
 Presentation: [You Shouldn't Need to Be an Engineer to Play Spyro]({{ site.url }}/assets/pptx/DorkbotTalk.pptx){:target="\_blank"}
+
+---
+
+## Access to Bristol: Cryptography in Python
+
+Continuing my role as a widening participation tutor, I helped run the Cryptography in Python session again for the
+[Access to Bristol](https://www.bristol.ac.uk/study/outreach/post-16/access/) programme, which was designed and led by [Yolan Ankaine](https://www.linkedin.com/in/yolan-ankaine-1394a61a5/).
 
 ---
 
