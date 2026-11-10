@@ -74,7 +74,11 @@ Continuing my role as a widening participation tutor, I helped run the Cryptogra
 
 ## Dorkbot Talk
 
-To be added (Nov-Dec 2026)
+On 10 November 2026, I gave a talk at [Dorkbot Bristol](https://dorkbotbristol.org/) talk on how _'You Shouldn't Need to
+Be an Engineer to Play Spyro'_. The talk summarised my research and issues with standard game controllers, before
+discussing democratised hardware design, the challenges involved, and a demonstration of a few tools used in my research.
+
+Presentation: [You Shouldn't Need to Be an Engineer to Play Spyro]({{ site.url }}/assets/pptx/DorkbotTalk.pptx){:target="\_blank"}
 
 ---
 
