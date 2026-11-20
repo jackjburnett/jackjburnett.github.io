@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Keepin` It Real
-description: CHI Play '26 Workshop on Authenticity in LLM-Based NPCs
+description: CHI '27 Workshop on Authenticity in LLM-Driven NPCs
 img: assets/img/research/keeping-it-real.png
 importance: 2
-category: ""
+category: "2027"
 related_publications: true
-redirect: https://keeping-it-real-chi-play.github.io/
+redirect: https://keeping-it-real-chi-27.github.io/
 ---
 
-For information on the workshop, please visit the [website](https://keeping-it-real-chi-play.github.io/).
+For information on the workshop, please visit the [website](https://keeping-it-real-chi-27.github.io/).
