@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Accessible Play at CHI PLAY 2026
-description: Perspectives on Play, Work in Progress, and a workshop on constrained play from CHI Play '26
+title: Rethinking Accessible Play at CHI PLAY 2026
+description: Perspectives on Play, Work in Progress, and a Workshop from CHI Play '26
 img: assets/img/research/AccessiblePlay.png
-importance: 1
+importance: 3
 category: "2026"
 related_publications: true
 toc:

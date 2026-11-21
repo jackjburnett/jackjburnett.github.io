@@ -3,7 +3,7 @@ layout: page
 title: Customising Gaming Controllers
 description: Upcoming CHI Play Submission
 img: assets/img/research/customising.png
-importance: 2
+importance: 1
 category: "2026"
 related_publications: true
 ---
