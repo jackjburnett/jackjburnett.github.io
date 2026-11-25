@@ -52,19 +52,6 @@ Paper: [From Knowledge Retention to Critical Reasoning]({{ site.url }}/assets/pd
 
 ---
 
-## FutureQuest Session
-
-As part of my role as a widening participation tutor, I was invited to deliver a 75-minute introductory session on artificial intelligence to year 10 students through the [FutureQuest](https://www.futurequest.org.uk/) programme.
-
-The session introduced students to AI. Through interactive activities, students explored how machines learn via supervised and unsupervised learning, attempting to cluster and analyse data themselves before comparing their results with AI systems.
-The lesson also examined real-world applications, the benefits of AI, issues such as bias, and what responsible AI use looks like in practice.
-
-Presentation: [AI, an Introduction PowerPoint]({{ site.url }}/assets/pptx/AI_an_Introduction.pptx){:target="\_blank"}
-
-Lesson Resources: [AI, an Introduction Resources]({{ site.url }}/research/futurequest)
-
----
-
 ## Dorkbot Talk
 
 On 10 November 2026, I gave a talk at [Dorkbot Bristol](https://dorkbotbristol.org/) talk on how _'You Shouldn't Need to
@@ -72,13 +59,6 @@ Be an Engineer to Play Spyro'_. The talk summarised my research and issues with 
 discussing democratised hardware design, the challenges involved, and a demonstration of a few tools used in my research.
 
 Presentation: [You Shouldn't Need to Be an Engineer to Play Spyro]({{ site.url }}/assets/pptx/DorkbotTalk.pptx){:target="\_blank"}
-
----
-
-## Access to Bristol: Cryptography in Python
-
-Continuing my role as a widening participation tutor, I helped run the Cryptography in Python session again for the
-[Access to Bristol](https://www.bristol.ac.uk/study/outreach/post-16/access/) programme, which was designed and led by [Yolan Ankaine](https://www.linkedin.com/in/yolan-ankaine-1394a61a5/).
 
 ---
 
@@ -112,12 +92,3 @@ leading to the event. A pirate theme version was also created, found by ['pirati
 As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was
 invited to serve as a reviewer for this year’s submissions. In this role, I help evaluate proposed projects and support
 the selection of promising ideas in device prototyping and applied research.
-
----
-
-## Maple Hub Opening
-
-I attended the [formal opening of the Maple Hub](https://hanspriceacademy.clf.uk/news/hans-price-officially-opens-the-maple-hub/)
-at [Hans Price Academy](https://hanspriceacademy.clf.uk/), where I serve as [SEND Link Governor](https://hanspriceacademy.clf.uk/key-information/academy-council/).
-The hub provides specialist support for students with EHCPs whose primary needs relate to speech,
-language, and communication or autism.

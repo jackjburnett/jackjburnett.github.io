@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: personal projects and outputs from hobbies
+description: personal projects, outreach, and volunteering
 nav: true
 nav_order: 4
 display_categories: [interactive, roleplay, other]

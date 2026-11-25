@@ -108,6 +108,12 @@ nav_order: 5
       <i class="fas fa-university"></i>
       <span>University of Bristol TSR/Outreach Notion</span>
     </a>
+    <div>
+      <a href="{{ '/projects/outreach-and-volunteering/' | relative_url }}" class="resource-link">
+        <i class="fas fa-handshake"></i>
+        <span>Outreach and Volunteering</span>
+      </a>
+    </div>
   </section>
 </div>
 

@@ -4,7 +4,7 @@ title: 2027 Archive
 description: Notable work from 2027
 img: assets/img/research/2027_archive.png
 importance: 1
-category: 2027
+category: archive
 related_publications: false
 toc:
   sidebar: left

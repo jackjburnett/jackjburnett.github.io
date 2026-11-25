@@ -2,6 +2,7 @@
 layout: page
 title: AI, an Introduction Resources
 description: Lesson resources for the FutureQuest session on AI
+permalink: /research/futurequest/
 related_publications: false
 ---
 
