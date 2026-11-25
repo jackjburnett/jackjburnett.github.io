@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Keepin` It Real
+title: Keepin' It Real
 description: CHI '27 Workshop on Authenticity in LLM-Driven NPCs
 img: assets/img/research/keeping-it-real.png
 importance: 2

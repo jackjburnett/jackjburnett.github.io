@@ -25,3 +25,7 @@
 "clark":
   - firstname: ["Rory", "R."]
     url: https://biglab.co.uk/member/rory-clark/
+
+"bennett":
+  - firstname: ["Dan", "D", "Daniel"]
+    url: https://danbennettdev.github.io/
