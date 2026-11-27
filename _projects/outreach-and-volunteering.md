@@ -56,7 +56,7 @@ to your group or fit them into your curriculum.
 
 ## I’m a Computer Scientist
 
-I take part in [I’m a Computer Scientist](<(https://imacomputerscientist.uk/profile/jackburnett/)>), answering students’ questions
+I take part in [I’m a Computer Scientist](https://imacomputerscientist.uk/profile/jackburnett/), answering students’ questions
 about computing and helping them explore STEM careers and research.
 
 ## The Controller Project
