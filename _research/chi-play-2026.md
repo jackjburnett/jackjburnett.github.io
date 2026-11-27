@@ -35,3 +35,5 @@ Building on the impaired technologies research, the workshop explored how constr
 inspire games and controllers for players with different abilities. The activities centred on playing with constrained hardware,
 to provoke development of multiplayer game concepts or physical prototypes that involve constraints. The workshop connected questions
 about impaired technology with the design of inclusive play experiences.
+
+[See Priscilla’s workshop recap and photos on LinkedIn](https://lnkd.in/p/eGEjBACm).
