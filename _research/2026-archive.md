@@ -92,3 +92,10 @@ leading to the event. A pirate theme version was also created, found by ['pirati
 As a [previous award winner]({{ site.url }}/projects/pro2_project) of the [Device Prototyping Summer School](https://prosquared.org/event/device-prototyping-summer-school-2026/), I was
 invited to serve as a reviewer for this year’s submissions. In this role, I help evaluate proposed projects and support
 the selection of promising ideas in device prototyping and applied research.
+
+---
+
+## GamiFIN 2027 Review
+
+I completed a same-day urgent review request on an accessibility-related submission for [GamiFIN 2027](https://gamifinconference.com/),
+an international conference on gamification research.
